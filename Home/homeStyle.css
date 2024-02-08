@@ -2,10 +2,6 @@
 	font-family: quickSand;
 	src: url('../*/quicksand.ttf');
 }
-@font-face {
-	font-family: bebasNeue;
-	src: url('../*/bebasneue.ttf');
-}
 
 html {
 	height: 100%;
@@ -64,20 +60,21 @@ body::before {
 
 .container {
 	font-weight: 0;
+	text-align: center;
 }
 
 .container h1 {
 	color: white;
 	font-size: 30px;
-	font-family: bebasNeue, Arial, Helvetica, sans-serif;
-	letter-spacing:3px;
+	font-family: quickSand, Arial, Helvetica, sans-serif;
 	line-height: 1.5;
 }
 
 .container .button {
-	font-family: bebasNeue, Arial, Helvetica, sans-serif;
-	padding: 2% 5%;
-	font-size: 25px;
+	font-family: quickSand, Arial, Helvetica, sans-serif;
+	width: 80%;
+	font-size: 23px;
+	padding: 5px 5px;
 	border: white 2px;
 	font-weight: bold;
 	text-align: center;
@@ -86,7 +83,6 @@ body::before {
 	border-radius: 5px;
 	transition: background-color 0.3s, color 0.3s;
 	cursor: pointer;
-	letter-spacing:3px;
 	line-height: 1.5;
 }
 

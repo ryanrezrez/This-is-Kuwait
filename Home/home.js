@@ -25,10 +25,10 @@ function updateContentHome() {
 
     if (currentLanguage === 'en') {
         containers.forEach(function(container) {
-            container.style.letterSpacing = '3px';
+            container.style.letterSpacing = '1px';
         });
         buttons.forEach(function(container) {
-            container.style.letterSpacing = '3px';
+            container.style.letterSpacing = '1px';
         });
     } else {
         containers.forEach(function(container) {
