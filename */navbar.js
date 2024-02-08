@@ -1,0 +1,10 @@
+var mobileMenuBtn = document.querySelector("#mobile-menu-btn");
+var mobileContainer = document.querySelector(".mobile-container");
+mobileMenuBtn.addEventListener("click", () => {
+    if (mobileContainer.style.display === "flex") {
+	    mobileContainer.style.display = "none";
+    } 
+    else {
+    	mobileContainer.style.display = "flex";
+  	}
+});

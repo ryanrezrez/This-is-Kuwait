@@ -1,0 +1,55 @@
+@font-face {
+    font-family: quickSand;
+	src: url('../*/quicksand.ttf');
+}
+
+body {
+    font-family: 'quickSand', Arial, Helvetica, sans-serif;
+	background-color:#202124;
+	padding: 0px;
+	margin: 0px;
+	width:100%;
+	height: auto;
+	display: flex;
+  	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.sponsorsContainer {
+    background-image:
+	linear-gradient(
+		hsl(0, 0%, 77%),
+		hsl(10, 5%, 53%)
+	);
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	color: white;
+}
+
+#videoContainer {
+	display: none;
+    text-align: center;
+}
+
+video {
+	max-width: 100%;
+	max-height: auto;
+}
+
+.aboutUsContent {
+	display: flex;
+	flex-direction: column;
+	font-size: 22px;
+}
+
+.instaButton {
+	width: 100%;
+	background: linear-gradient(#8124AF, #DD2A7B, #FFDC80); 
+	padding: 30px 10px; 
+	margin-bottom: 10px;
+}

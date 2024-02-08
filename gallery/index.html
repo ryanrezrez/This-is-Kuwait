@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="device-width, initial-scale=1.0">
+        <title>Gallery | This is Kuwait</title>
+        <link rel="icon" type="image/png" href="../*/Images/icon.png">
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+        <link rel="stylesheet" href="../*/navStyle.css">
+		<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+        <link rel="stylesheet" href="gallery.css">
+    </head>
+    <body>
+        <div class="navbar">
+			<h2>This is Kuwait</h2>
+			<div class="desktop-container">
+				<a href="../index.html" class="link home"></a>
+				<a href="../learnkuwaiti/index.html" class="link learnkuwaiti"></a>
+				<a href="../gallery/index.html" class="link gallery"></a>
+				<a href="../aboutus/index.html" class="link aboutus"></a>
+				<a href="../sponsors/index.html" class="link sponsors"></a>
+				<a onclick="switchMainLanguage('gallery')" class="link switchLanguage"></a>
+			</div>
+			<button id="mobile-menu-btn"><i class="fas fa-bars"></i></button>
+		</div>
+		<div class="mobile-container">
+			<a href="../index.html" class="link home"></a>
+			<a href="../learnkuwaiti/index.html" class="link learnkuwaiti" ></a>
+			<a href="../gallery/index.html" class="link gallery"></a>
+			<a href="../aboutus/index.html" class="link aboutus"></a>
+			<a href="../sponsors/index.html" class="link sponsors"></a>
+			<a onclick="switchMainLanguage('gallery')" class="link switchLanguage"></a>
+		</div>
+
+        <div class="heading">
+            <h1 id="heading"></h1>
+            <p id="paragraph"></p>
+        </div>
+        
+        <div class="mainButtonsContainer" id="mainButtons">
+            <button class="mainButtons funplaces" id="recreationalPlaces"></button>
+            <button class="mainButtons historicalplaces" id="historicalPlaces"></button>
+            <button class="mainButtons culture" id="culture"></button>
+            <button class="mainButtons influentialfigures" id="influentialFigures"></button>
+        </div>
+
+        <section id="containerCollection"></section>
+        
+        <hr>
+
+        <footer>
+            <p id="footer"></p>
+        </footer>
+
+        <script src="../*/navbar.js"></script>
+
+        <script src="../*/translateNavbar.js"></script>
+        <script src="gallery.js"></script>
+
+        <script src="../*/run.js"></script>
+
+    </body>
+</html>

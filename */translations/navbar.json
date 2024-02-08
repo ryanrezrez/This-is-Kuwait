@@ -1,0 +1,18 @@
+{
+    "en": {
+        "home": "Home",
+        "learnkuwaiti": "Learn Kuwaiti Accent",
+        "gallery": "Gallery",
+        "aboutus": "About us",
+        "sponsors": "Sponsors",
+        "switchlang": "عربي"
+    },
+    "ar": {
+        "home": "الرئيسية",
+        "learnkuwaiti": "اللهجة الكويتية",
+        "gallery": "المعرض",
+        "aboutus": "عنا",
+        "sponsors": "رعاتنا",
+        "switchlang": "English"
+    }
+}

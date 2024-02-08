@@ -1,0 +1,22 @@
+{
+    "en": {
+        "heading1": "Our Sponsors",
+        "p1": "We give our most special thanks to our sponsors",
+
+        "sponsor1": "Messila Clinic",
+        "sponsor2": "Fototells",
+
+        "instaButton": "Visit instagram page",
+        "learnMore": "Learn More"
+    },
+    "ar": {
+        "heading1": "رعاتنا",
+        "p1": "نقدم شكرنا الخاص لرعاتنا",
+
+        "sponsor1": "مسيلة كلينك",
+        "sponsor2": "فوتوتلس",
+
+        "instaButton": "زيارة صفحة الإنستجرام",
+        "learnMore": "تعرف أكثر"
+    }
+}

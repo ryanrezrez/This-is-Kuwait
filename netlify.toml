@@ -1,0 +1,20 @@
+[[redirects]]
+  from = "/learnkuwaiti/index.html"
+  to = "/learnkuwaiti"
+  status = 301
+
+[[redirects]]
+  from = "/gallery/index.html"
+  to = "/gallery"
+  status = 301
+
+[[redirects]]
+  from = "/aboutus/index.html"
+  to = "/aboutus"
+  status = 301
+
+[[redirects]]
+  from = "/sponsors/index.html"
+  to = "/sponsors"
+  status = 301
+

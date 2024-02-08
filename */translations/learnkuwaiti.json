@@ -1,0 +1,20 @@
+{
+    "en": {
+        "heading1": "Kuwait Vocabulary",
+        "p1": "Search the unique vocabulary of the Kuwaiti accent, or try a random word or phrase!",
+        "button1": "Generate random word or phrase",
+        "english": "English",
+        "arabic": "Arabic",
+        "kuwaiti": "Kuwaiti",
+        "footer": "If you believe there are missing or misleading information, please contact us here: mahmoud.salman@gba.edu.kw"
+    },
+    "ar": {
+        "heading1": "اللهجة الكويتية",
+        "p1": "بحث في المعجم الفريدة لللهجة الكويتية، أو جرب كلمة أو عبارة عشوائية!",
+        "button1": "طلع كلمة أو عبارة عشوائية",
+        "english": "إنجليزي",
+        "arabic": "عربي",
+        "kuwaiti": "كويتي",
+        "footer": ":إذا كانت هناك معلومات مفقودة أو مضللة، يرجى الاتصال بنا mahmoud.salman@gba.edu.kw "
+    }
+}

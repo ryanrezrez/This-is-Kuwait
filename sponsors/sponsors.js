@@ -1,0 +1,69 @@
+document.addEventListener('DOMContentLoaded', function() {
+const elements = document.querySelectorAll('.fade-in-container');
+
+function isElementInViewport(el) {
+    const rect = el.getBoundingClientRect();
+    return (
+          rect.top >= 0 &&
+          rect.left >= 0 &&
+          rect.bottom-300 <= (window.innerHeight || document.documentElement.clientHeight)
+        );
+    }
+
+    function handleScroll() {
+        elements.forEach(function(element) {
+        if (isElementInViewport(element)) {
+            element.classList.add('fade-in-show');
+          }
+        });
+    }
+
+    window.addEventListener('scroll', handleScroll);
+    window.addEventListener('resize', handleScroll);
+    handleScroll();
+});
+
+document.addEventListener('DOMContentLoaded', function () {
+    var loadVideoButton = document.getElementById('loadVideo');
+    var videoContainer = document.getElementById('videoContainer');
+    var videoPlayer = document.getElementById('videoPlayer');
+
+    loadVideo.addEventListener('click', function () {
+        loadVideoButton.style.display = 'none';
+        videoContainer.style.display = 'block';
+    });
+});
+
+let sponsorsTranslations = {};
+
+fetch('../*/translations/sponsors.json')
+    .then(response => response.json())
+    .then(data => {
+        sponsorsTranslations = data;
+        updateContentSponsors();
+    })
+    .catch(error => console.error('Error loading translations:', error));
+
+function updateContentSponsors() {
+    const h1 = document.getElementById('heading1');
+    const p1 = document.getElementById('p1');
+    const sponsor1 = document.getElementById('sponsor1');
+    const sponsor2 = document.getElementById('sponsor2'); 
+    const learnMore = document.getElementById('loadVideo');
+
+    var instaButton = document.querySelectorAll('.instaButton');
+
+    instaButton.forEach(function(button) {
+        button.textContent = sponsorsTranslations[currentLanguage].instaButton;
+    });
+
+    h1.textContent = sponsorsTranslations[currentLanguage].heading1;
+    p1.textContent = sponsorsTranslations[currentLanguage].p1;
+    sponsor1.textContent = sponsorsTranslations[currentLanguage].sponsor1;
+    sponsor2.textContent = sponsorsTranslations[currentLanguage].sponsor2;
+    learnMore.textContent = sponsorsTranslations[currentLanguage].learnMore;
+}
+
+function switchLanguageSponsors() {
+    updateContentSponsors();
+}
