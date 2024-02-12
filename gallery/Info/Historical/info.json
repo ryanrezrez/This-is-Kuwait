@@ -9,6 +9,7 @@
             "p": "hello hello test"
         },
         "img": "url('../gallery/Images/winterwonderland.png') center/cover",
+        "googleMaps": "true",
         "latitude": "29.341643938747342",
         "longitude": "48.04539146451538"
     }

@@ -29,6 +29,7 @@ let aboutusTranslations = {};
 fetch('../*/translations/aboutus.json')
     .then(response => response.json())
     .then(data => {
+        //data.replace('/\n/g', '<br>');
         aboutusTranslations = data;
         updateContentAboutUs();
     })

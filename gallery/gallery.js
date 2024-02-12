@@ -12,6 +12,7 @@ $(document).ready(function() {
         fadeOut(mainButtons);
 
         setTimeout(() => {
+            scrollToTop();
             fadeIn(heading, 'block');
             fadeIn(containerCollection, 'flex');
             page = 'recreational';
@@ -28,6 +29,7 @@ $(document).ready(function() {
         fadeOut(mainButtons);
 
         setTimeout(() => {
+            scrollToTop();
             fadeIn(heading, 'block');
             fadeIn(containerCollection, 'flex');
             page = 'historical';
@@ -43,6 +45,7 @@ $(document).ready(function() {
         fadeOut(mainButtons);
 
         setTimeout(() => {
+            scrollToTop();
             fadeIn(heading, 'block');
             fadeIn(containerCollection, 'flex');
             page = 'influential';
@@ -58,9 +61,25 @@ $(document).ready(function() {
         fadeOut(mainButtons);
 
         setTimeout(() => {
+            scrollToTop();
             fadeIn(heading, 'block');
             fadeIn(containerCollection, 'flex');
             page = 'culture';
+            updateContentGallery();
+        }, 500);
+    });
+
+    $('#tribes').on('click', function() {
+        loadInfo('../gallery/Info/Tribes/info.json');
+        fadeOut(heading);
+        fadeOut(paragraph);
+        fadeOut(mainButtons);
+
+        setTimeout(() => {
+            scrollToTop();
+            fadeIn(heading, 'block');
+            fadeIn(containerCollection, 'flex');
+            page = 'tribes';
             updateContentGallery();
         }, 500);
     });
@@ -92,6 +111,7 @@ function displayWords(container) {
         fadeOut(containerCollection);
 
         setTimeout(() => {
+            scrollToTop();
             fadeIn(heading, 'block');
             fadeIn(paragraph, 'block');
             fadeIn(mainButtons, 'flex');
@@ -111,6 +131,22 @@ function displayWords(container) {
 function createContainerElement(containers) {
     const container = document.createElement('div');
     container.classList.add('container');
+    container.addEventListener('mouseover', function() {
+        h1.classList.add('text-hidden');
+        p.classList.add('text-hidden');
+    });
+
+    container.addEventListener('mouseout', function() {
+        h1.classList.remove('text-hidden');
+        p.classList.remove('text-hidden');
+    });
+
+    if (currentLanguage === 'en') {
+        container.style.direction = 'ltr';
+    } else {
+        container.style.direction = 'rtl';
+    }
+
     container.style.background = containers.img;
         
     const h1 = document.createElement('h1');
@@ -121,19 +157,19 @@ function createContainerElement(containers) {
     p.textContent = containers[currentLanguage].p;
     container.appendChild(p);
 
-    const mapButton = document.createElement('button');
-    mapButton.textContent = galleryTranslations[currentLanguage].googlemaps;
-    mapButton.classList.add('googleMaps');
-    container.appendChild(mapButton);
-
-    mapButton.addEventListener('click', function() {
-        var latitude = containers.latitude;
-        var longitude = containers.longitude;
-        
-        var mapsUrl = 'https://www.google.com/maps?q=' + latitude + ',' + longitude;
-        window.open(mapsUrl, '_blank');
-    });
-
+    if (containers.googlemaps === "true") {
+        const mapButton = document.createElement('button');
+        mapButton.textContent = galleryTranslations[currentLanguage].googlemaps;
+        mapButton.classList.add('googleMaps');
+        container.appendChild(mapButton);
+        mapButton.addEventListener('click', function() {
+            var latitude = containers.latitude;
+            var longitude = containers.longitude;
+            
+            var mapsUrl = 'https://www.google.com/maps?q=' + latitude + ',' + longitude;
+            window.open(mapsUrl, '_blank');
+        });
+    }
 
     return container;
 }
@@ -169,6 +205,7 @@ function updateContentGallery() {
     const hp = document.getElementById('historicalPlaces');
     const c = document.getElementById('culture');
     const IF = document.getElementById('influentialFigures');
+    const tribes = document.getElementById('tribes');
 
     const footer = document.getElementById('footer');
 
@@ -179,11 +216,17 @@ function updateContentGallery() {
     hp.textContent = galleryTranslations[currentLanguage].heading['historical'];
     c.textContent = galleryTranslations[currentLanguage].heading['culture'];
     IF.textContent = galleryTranslations[currentLanguage].heading['influential'];
-
+    tribes.textContent = galleryTranslations[currentLanguage].heading['tribes'];
     footer.textContent = galleryTranslations[currentLanguage].footer;
 }
 
 function switchLanguageGallery() {
     updateContentGallery();
     displayWords(containers);
+}
+
+function scrollToTop() {
+    window.scrollTo({
+        top: 0
+    });
 }

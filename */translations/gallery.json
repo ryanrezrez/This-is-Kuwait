@@ -5,7 +5,8 @@
             "recreational": "Recreational Places",
             "historical": "Historical Places",
             "culture": "Culture",
-            "influential": "Influential figures"
+            "influential": "Influential figures",
+            "tribes": "Tribes"
         },
         "paragraph": "Explore Kuwait's recreational places, historical places, culture, and influential figures in our Gallery!",
         "footer": "If you believe there are missing or misleading information, please contact us here: mahmoud.salman@gba.edu.kw",
@@ -21,7 +22,7 @@
             "influential": "الشخصيات المؤثرة"
         },
         "paragraph": "استكشف الأماكن الترفيهية في الكويت، والأماكن التاريخية، والثقافة، والشخصيات المؤثرة في معرضن",
-        "footer": ":إذا كانت هناك معلومات مفقودة أو مضللة، يرجى الاتصال بنا mahmoud.salman@gba.edu.kw",
+        "footer": "إذا كانت هناك معلومات مفقودة أو مضللة، يرجى الاتصال بنا mahmoud.salman@gba.edu.kw",
         "back": "خروج",
         "googlemaps": "Google maps افتح في"
     }
