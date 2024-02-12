@@ -131,14 +131,9 @@ function displayWords(container) {
 function createContainerElement(containers) {
     const container = document.createElement('div');
     container.classList.add('container');
-    container.addEventListener('mouseover', function() {
-        h1.classList.add('text-hidden');
-        p.classList.add('text-hidden');
-    });
-
-    container.addEventListener('mouseout', function() {
-        h1.classList.remove('text-hidden');
-        p.classList.remove('text-hidden');
+    container.addEventListener('click', function() {
+        h1.classList.toggle('text-hidden');
+        p.classList.toggle('text-hidden');
     });
 
     if (currentLanguage === 'en') {
