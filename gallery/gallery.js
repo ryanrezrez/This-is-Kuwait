@@ -53,22 +53,6 @@ $(document).ready(function() {
         }, 500);
     });
 
-    // Influential Figures
-    $('#culture').on('click', function() {
-        loadInfo('../gallery/Info/Culture/info.json');
-        fadeOut(heading);
-        fadeOut(paragraph);
-        fadeOut(mainButtons);
-
-        setTimeout(() => {
-            scrollToTop();
-            fadeIn(heading, 'block');
-            fadeIn(containerCollection, 'flex');
-            page = 'culture';
-            updateContentGallery();
-        }, 500);
-    });
-
     $('#tribes').on('click', function() {
         loadInfo('../gallery/Info/Tribes/info.json');
         fadeOut(heading);
