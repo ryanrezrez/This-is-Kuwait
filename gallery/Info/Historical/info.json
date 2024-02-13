@@ -1,16 +1,128 @@
 [
     {
         "en": {
-            "h1": "[Container Test]",
-            "p": "hello hello test"
+            "h1": "Sheikh Abdullah Al Salem Cultural Centre",
+            "p": "The Sheikh Abdullah Al Salem Cultural Centre in Kuwait City is a renowned cultural complex, established in 2018 and named after Sheikh Abdullah Al Salem Al Sabah, a key figure in Kuwait's history. It offers a vast range of educational experiences through interactive exhibits and displays focusing on art, science, history, and technology. As one of the world's largest cultural hubs, it serves to enrich visitors' understanding of various subjects while promoting cultural exchange and innovation."
         },
         "ar": {
-            "h1": "[Container Test]",
-            "p": "hello hello test"
+            "h1": "مركز الشيخ عبدالله السالم الثقافي",
+            "p": ".مركز الشيخ عبدالله السالم الثقافي في مدينة الكويت هو مجمع ثقافي معاصر، تأسس في عام 2018 ويحمل اسم الشيخ عبدالله السالم الصباح، شخصية بارزة في تاريخ الكويت. يقدم المركز مجموعة واسعة من التجارب التعليمية من خلال المعارض التفاعلية والعروض التي تركز على الفن والعلوم والتاريخ والتكنولوجيا. بصفته واحدًا من أكبر المراكز الثقافية في العالم، يعمل على إثراء فهم الزوار لمختلف الموضوعات بينما يعزز التبادل الثقافي والابتكار"
         },
-        "img": "url('../gallery/Images/winterwonderland.png') center/cover",
+        "img": "url('../gallery/Images/Historical/1.png') center/cover",
         "googleMaps": "true",
-        "latitude": "29.341643938747342",
-        "longitude": "48.04539146451538"
+        "latitude": "29.34358841557679",
+        "longitude": "48.040956144121424"
+    },
+    {
+        "en": {
+            "h1": "Kuwait Towers",
+            "p": "These iconic towers are a symbol of Kuwait's economic resurgence and a must-visit for their panoramic views of the city."
+        },
+        "ar": {
+            "h1": "أبراج الكويت",
+            "p": "تعتبر هذه الأبراج البارزة رمزًا لانتعاش الاقتصاد الكويتي ووجهة ضرورية لاحتوائها على مناظر بانورامية للمدينة."
+        },
+        "img": "url('../gallery/Images/Recreational/3.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.389837587160542",
+        "longitude": "48.00310650569936"
+    },
+    {
+        "en": {
+            "h1": "The Grand Mosque",
+            "p": "The largest mosque in Kuwait, known for its stunning Islamic architecture and interior design."
+        },
+        "ar": {
+            "h1": "المسجد الكبير",
+            "p": "أكبر مسجد في الكويت، مشهور بتصميمه المعماري الإسلامي الرائع وتصميم داخلي فاخر."
+        },
+        "img": "url('../gallery/Images/Historical/2.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.379387575169293",
+        "longitude": "47.975265453651566"
+    },
+    {
+        "en": {
+            "h1": "Tareq Rajab Museum",
+            "p": "Houses a vast collection of Islamic art, calligraphy, and musical instruments, reflecting the rich history of the region."
+        },
+        "ar": {
+            "h1": "متحف طارق رجب",
+            "p": "يحوي مجموعة واسعة من الفن الإسلامي والخط العربي والآلات الموسيقية، معبرًا عن التاريخ الغني للمنطقة."
+        },
+        "img": "url('../gallery/Images/Historical/3.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.317103871044136",
+        "longitude": "48.04724228628033"
+    },
+    {
+        "en": {
+            "h1": "Kuwait National Museum",
+            "p": "The main museum in Kuwait, showcasing the archaeological and cultural history of the country."
+        },
+        "ar": {
+            "h1": "المتحف الوطني الكويتي",
+            "p": "المتحف الرئيسي في الكويت، يعرض التاريخ الأثري والثقافي للبلاد."
+        },
+        "img": "url('../gallery/Images/Historical/4.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.373238031525794",
+        "longitude": "47.96691923535371"
+    },
+    {
+        "en": {
+            "h1": "Sadu House",
+            "p": "Dedicated to preserving Bedouin arts and crafts, this house offers insight into traditional Kuwaiti textile arts."
+        },
+        "ar": {
+            "h1": "بيت السدو",
+            "p": "مكرس للحفاظ على الفنون والحرف البدوية، يقدم هذا البيت رؤيةً في الفنون النسيجية التقليدية الكويتية."
+        },
+        "img": "url('../gallery/Images/Historical/5.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.3746976932767",
+        "longitude": "47.96727199008493"
+    },
+    {
+        "en": {
+            "h1": "Mirror House",
+            "p": "An artistic house entirely covered with mirror mosaics, created by artist Lidia Al-Qattan."
+        },
+        "ar": {
+            "h1": "بيت المرآة",
+            "p": "بيت فني مغطى بالكامل بفسيفساء المرايا، صُنع من قبل الفنانة ليديا القطان."
+        },
+        "img": "url('../gallery/Images/Historical/6.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.3479094964291",
+        "longitude": "48.009309194784116"
+    },
+    {
+        "en": {
+            "h1": "Al Shaheed Park",
+            "p": "The largest urban park in Kuwait, combining green landscapes with cultural and historical elements."
+        },
+        "ar": {
+            "h1": "حديقة الشهيد",
+            "p": "أكبر حديقة حضرية في الكويت، تجمع بين المناظر الخضراء والعناصر الثقافية والتاريخية."
+        },
+        "img": "url('../gallery/Images/Historical/7.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.369331982034353",
+        "longitude": "47.99375382691371"
+    },
+    {
+        "en": {
+            "h1": "Souq Al-Mubarakiya",
+            "p": "A traditional market offering a glimpse into old Kuwaiti life, with shops selling spices, textiles, and souvenirs."
+        },
+        "ar": {
+            "h1": "سوق المباركية",
+            "p": "سوق تقليدي يقدم نظرة فاحصة إلى الحياة الكويتية القديمة، مع محلات تبيع التوابل والنسيج والهدايا التذكارية."
+        },
+        "img": "url('../gallery/Images/Historical/8.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.373826475172244",
+        "longitude": "47.972932395979505"
     }
 ]

@@ -47,6 +47,14 @@ video {
 	font-size: 22px;
 }
 
+.googleMaps {
+	width: 100%;
+	padding: 30px 10px;
+	margin-top: 10px;
+	background: white;
+	color: black;
+}
+
 .instaButton {
 	width: 100%;
 	background: linear-gradient(#8124AF, #DD2A7B, #FFDC80); 

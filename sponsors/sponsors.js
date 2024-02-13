@@ -50,6 +50,7 @@ function updateContentSponsors() {
     const sponsor1 = document.getElementById('sponsor1');
     const sponsor2 = document.getElementById('sponsor2'); 
     const learnMore = document.getElementById('loadVideo');
+    const googleMaps = document.getElementById('googlemaps');
 
     var instaButton = document.querySelectorAll('.instaButton');
 
@@ -62,6 +63,7 @@ function updateContentSponsors() {
     sponsor1.textContent = sponsorsTranslations[currentLanguage].sponsor1;
     sponsor2.textContent = sponsorsTranslations[currentLanguage].sponsor2;
     learnMore.textContent = sponsorsTranslations[currentLanguage].learnMore;
+    googleMaps.textContent = sponsorsTranslations[currentLanguage].googleMaps;
 }
 
 function switchLanguageSponsors() {

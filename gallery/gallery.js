@@ -152,7 +152,7 @@ function createContainerElement(containers) {
     p.textContent = containers[currentLanguage].p;
     container.appendChild(p);
 
-    if (containers.googlemaps === "true") {
+    if (containers.googleMaps === "true") {
         const mapButton = document.createElement('button');
         mapButton.textContent = galleryTranslations[currentLanguage].googlemaps;
         mapButton.classList.add('googleMaps');
@@ -198,7 +198,6 @@ function updateContentGallery() {
 
     const rp = document.getElementById('recreationalPlaces');
     const hp = document.getElementById('historicalPlaces');
-    const c = document.getElementById('culture');
     const IF = document.getElementById('influentialFigures');
     const tribes = document.getElementById('tribes');
 
@@ -209,7 +208,6 @@ function updateContentGallery() {
 
     rp.textContent = galleryTranslations[currentLanguage].heading['recreational'];
     hp.textContent = galleryTranslations[currentLanguage].heading['historical'];
-    c.textContent = galleryTranslations[currentLanguage].heading['culture'];
     IF.textContent = galleryTranslations[currentLanguage].heading['influential'];
     tribes.textContent = galleryTranslations[currentLanguage].heading['tribes'];
     footer.textContent = galleryTranslations[currentLanguage].footer;

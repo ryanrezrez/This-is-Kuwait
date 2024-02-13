@@ -1,12 +1,75 @@
-[
-    {
-        "en": {
 
+    [
+        {
+            "en": {
+                "h1": "Al-Sabah",
+                "p": "The Al-Sabah tribe is the ruling family in Kuwait. Their history dates back to the early 18th century when they migrated from the Najd region. The Al-Sabah family has been ruling Kuwait since 1752, with Sheikh Sabah I being the first ruler. The family has played a crucial role in shaping Kuwait's political and economic landscape."
+            },
+            "ar": {
+                "h1": "آل صباح",
+                "p": "قبيلة آل صباح هي العائلة الحاكمة في الكويت. يعود تاريخهم إلى أوائل القرن الثامن عشر عندما هاجروا من منطقة النجد. وقد حكمت عائلة آل صباح الكويت منذ عام 1752، حيث كان الشيخ صباح الأول أول حاكم. لعبت العائلة دورًا حاسمًا في تشكيل المشهد السياسي والاقتصادي في الكويت."
+            },
+            "img": "url('../gallery/Images/Tribes/1.png') center/cover",
+            "googleMaps": "false"
         },
-        "ar": {
-
+        {
+            "en": {
+                "h1": "Al-Azmi",
+                "p": "The Al-Azmi tribe, originally from the Arabian Peninsula's Najd region, is one of Kuwait's largest tribes. Known for their significant influence and presence, they have been integral to Kuwait's cultural and social fabric. They are traditionally known for their expertise in camel herding and agriculture."
+            },
+            "ar": {
+                "h1": "العازمي",
+                "p": "تعتبر قبيلة العذيم، التي هاجرت أصلاً من منطقة النجد في شبه الجزيرة العربية، واحدة من أكبر قبائل الكويت. معروفة بتأثيرها ووجودها الكبيرين، فقد كانت جزءًا أساسيًا من نسيج الثقافة والمجتمع الكويتي. وهم معروفون تقليديًا بخبرتهم في تربية الإبل والزراعة."
+            },
+            "img": "url('../gallery/Images/Tribes/2.png') center/cover",
+            "googleMaps": "false"
         },
-        "img": "",
-        "googleMaps": "false"
-    }
+        {
+            "en": {
+                "h1": "Al-Rashayda",
+                "p": "This tribe is known for their expertise in trade and commerce. They have been influential in the development of Kuwait's market economy, especially in the early days before oil was discovered."
+            },
+            "ar": {
+                "h1": "الرشايدة",
+                "p": "تشتهر هذه القبيلة بخبرتها في التجارة والتجارة. لقد كان لهم تأثير في تطوير الاقتصاد السوقي في الكويت، خاصة في الأيام الأولى قبل اكتشاف النفط."
+            },
+            "img": "url('../gallery/Images/Tribes/3.png') center/cover",
+            "googleMaps": "false"
+        },
+        {
+            "en": {
+                "h1": "Mutair",
+                "p": "The Mutair tribe, originating from central Arabia, is known for their strong presence in the military and police forces. They have been influential in Kuwait's defense and security sectors."
+            },
+            "ar": {
+                "h1": "مطير",
+                "p": "تُعرف قبيلة المطير، التي تنحدر أصلاً من وسط الجزيرة العربية، بوجودها القوي في القوات العسكرية والشرطة. لقد كان لهم تأثير في قطاعات الدفاع والأمن في الكويت."
+            },
+            "img": "url('../gallery/Images/Tribes/4.png') center/cover",
+            "googleMaps": "false"
+        },
+        {
+            "en": {
+                "h1": "Awazim",
+                "p": "This tribe has a strong presence in Kuwait and is known for their cultural contributions, especially in poetry and traditional Kuwaiti music. The Awazim tribe has also been involved in various aspects of public service."
+            },
+            "ar": {
+                "h1": "عوازم",
+                "p": "تمتلك هذه القبيلة وجوداً قوياً في الكويت وتُعرف بمساهماتها الثقافية، خاصة في الشعر والموسيقى الكويتية التقليدية. كما شاركت قبيلة العوازم في جوانب مختلفة من الخدمة العامة."
+            },
+            "img": "url('../gallery/Images/Tribes/5.png') center/cover",
+            "googleMaps": "false"
+        },
+        {
+            "en": {
+                "h1": "Ajman",
+                "p": "Originally from the Najd region, the Ajman tribe has a notable presence in Kuwait. They have been involved in various sectors, including commerce and public administration."
+            },
+            "ar": {
+                "h1": "عجمان",
+                "p": "تنحدر قبيلة عجمان أصلاً من منطقة النجد، ولها وجود ملحوظ في الكويت. شاركوا في مختلف القطاعات، بما في ذلك التجارة والإدارة العامة."
+            },
+            "img": "url('../gallery/Images/Tribes/6.png') center/cover",
+            "googleMaps": "false"
+        }   
 ]

@@ -1,30 +1,156 @@
 [
     {
         "en": {
-            "h1": "[Container Test]",
-            "p": "hello hello test"
+            "h1": "Sheikh Abdullah Al Salem Cultural Centre",
+            "p": "The Sheikh Abdullah Al Salem Cultural Centre in Kuwait City is a renowned cultural complex, established in 2018 and named after Sheikh Abdullah Al Salem Al Sabah, a key figure in Kuwait's history. It offers a vast range of educational experiences through interactive exhibits and displays focusing on art, science, history, and technology. As one of the world's largest cultural hubs, it serves to enrich visitors' understanding of various subjects while promoting cultural exchange and innovation."
         },
         "ar": {
-            "h1": "[Container Test]",
-            "p": "hello hello test"
+            "h1": "مركز الشيخ عبدالله السالم الثقافي",
+            "p": ".مركز الشيخ عبدالله السالم الثقافي في مدينة الكويت هو مجمع ثقافي معاصر، تأسس في عام 2018 ويحمل اسم الشيخ عبدالله السالم الصباح، شخصية بارزة في تاريخ الكويت. يقدم المركز مجموعة واسعة من التجارب التعليمية من خلال المعارض التفاعلية والعروض التي تركز على الفن والعلوم والتاريخ والتكنولوجيا. بصفته واحدًا من أكبر المراكز الثقافية في العالم، يعمل على إثراء فهم الزوار لمختلف الموضوعات بينما يعزز التبادل الثقافي والابتكار"
         },
-        "img": "url('../gallery/Images/winterwonderland.png') center/cover",
+        "img": "url('../gallery/Images/Historical/1.png') center/cover",
         "googleMaps": "true",
-        "latitude": "29.341643938747342",
-        "longitude": "48.04539146451538"
+        "latitude": "29.34358841557679",
+        "longitude": "48.040956144121424"
     },
     {
         "en": {
-            "h1": "[Container Test 2]",
-            "p": "hello hello test"
+            "h1": "The Avenues Mall",
+            "p": "The Avenues Mall in Kuwait is one of the world's largest malls, divided into sections like Grand Avenue, Prestige, SoKu, The Mall, The Souk, and The Gardens. It's packed with shops for clothes, electronics, home goods, beauty products, and more, featuring famous brands such as Louis Vuitton, Chanel, Gucci, and Apple. There are plenty of dining options too, from international cuisine to fast food. For fun, there's a big cinema, game centers, and play areas for kids. The mall also has two hotels: the Hilton Garden Inn and the Waldorf Astoria."
         },
         "ar": {
-            "h1": "[Container Test]",
-            "p": "hello hello test"
+            "h1": "مركز الأفنيوز",
+            "p": "مركز الأفنيوز في الكويت هو واحد من أكبر المراكز التجارية في العالم، مقسم إلى أقسام مثل جراند أفنيو، بريستيج، سوكو، المول، السوق، والحدائق. يتميز المركز بمجموعة كبيرة من المحلات التي تبيع الملابس، الإلكترونيات، الديكور المنزلي، منتجات الجمال، وغيرها، مع وجود علامات تجارية شهيرة مثل لويس فويتون، شانيل، جوتشي، وأبل. هناك أيضًا العديد من الخيارات لتناول الطعام، من المأكولات الدولية إلى الوجبات السريعة. بالنسبة للتسلية، يتوفر في المركز صالة سينما كبيرة ومراكز ترفيهية وأماكن للأطفال للعب. كما يوجد في المركز فندقان: فندق هيلتون جاردن إن وفندق والدورف أستوريا."
         },
-        "img": "url('../gallery/Images/winterwonderland.png') center/cover",
+        "img": "url('../gallery/Images/Recreational/1.png') center/cover",
         "googleMaps": "true",
-        "latitude": "29.341643938747342",
-        "longitude": "48.04539146451538"
+        "latitude": "29.303302235141192",
+        "longitude": "47.936958607532176"
+    },
+    {
+        "en": {
+            "h1": "360 MALL",
+            "p": "360 Mall is a shopping mall located on the Sixth Ring Highway in South Surra that opened on July 5, 2009. known for offering a mix of international and luxury brands, providing a diverse shopping experience. It typically includes a range of retail stores, entertainment options, and dining establishments. The mall also hosts events or special promotions during different seasons. The mall covers an area of 82,000 m2 (880,000 sq ft) and consists of three floors and three floors of offices. It contains 15 halls of Cinescape cinemas, featuring an IMAX hall and a VIP hall."
+        },
+        "ar": {
+            "h1": "مركز 360",
+            "p": "مركز 360 هو مركز تسوق يقع على الطريق السادس في سورة الجنوبية وتم افتتاحه في 5 يوليو 2009. يشتهر بتقديم مزيج من العلامات التجارية الدولية والفاخرة، مما يوفر تجربة تسوق متنوعة. وعادة ما يشمل مجموعة من المتاجر التجارية وخيارات الترفيه ومطاعم متنوعة. يستضيف المركز أيضًا فعاليات أو عروض ترويجية خاصة خلال مواسم مختلفة. يغطي المركز مساحة تبلغ 82،000 متر مربع (880،000 قدم مربع) ويتكون من ثلاثة طوابق وثلاثة طوابق من المكاتب. ويحتوي على 15 قاعة سينما لسينسكيب، بما في ذلك قاعة IMAX وقاعة VIP."
+        },
+        "img": "url('../gallery/Images/Recreational/2.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.26764349534356",
+        "longitude": "47.992808080764455"
+    },
+    {
+        "en": {
+            "h1": "Kuwait Towers",
+            "p": "Established in 1979, The Kuwait Towers are a renowned, go-to tourist destination that has many restaurants and is now regarded as one of the modern symbols of Kuwait. Located on the Arabian Gulf Street in Kuwait City, they are the last group of the larger Kuwait Water Towers system, which consists of 34 towers (one that stores equipment and the other 33 that store water). Their construction style has a very distinct style and shape from that of the previous five groups."
+        },
+        "ar": {
+            "h1": "أبراج الكويت",
+            "p": "أنشئت في عام 1979، أبراج الكويت هي وجهة سياحية مشهورة ومطلوبة تحتوي على العديد من المطاعم وتُعتبر الآن واحدة من الرموز الحديثة للكويت. تقع على شارع الخليج العربي في مدينة الكويت، وهي المجموعة الأخيرة من نظام أبراج مياه الكويت الأكبر، والذي يتكون من 34 برجًا (برج يخزن المعدات والباقي 33 يخزن الماء). يتمتع نمط بناءها بشكل وشكل مميزين عن تلك الخمس مجموعات السابقة."
+        },
+        "img": "url('../gallery/Images/Recreational/3.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.389837587160542",
+        "longitude": "48.00310650569936"
+    },
+    {
+        "en": {
+            "h1": "Kuwait Winter Wonderland",
+            "p": "The whole family will enjoy the lively and joyful winter-themed carnival at Winter Wonderland Kuwait. This winter, Kuwait is experiencing a kind of celebration that offers the biggest entertainment events. More than 30 rides, skill games, entertainment, food, beverages, and a ton of other things are all included in the event. It is located in salmiya. As of 2023-2024 it is the second winter wonderland in kuwait."
+        },
+        "ar": {
+            "h1": "ًًًكويت Winter Wonderland",
+            "p": "سيستمتع العائلة بأكملها بمهرجان الشتاء بموضوعه الشتوي المفعم بالحيوية والفرح في عجائب الشتاء في الكويت. في هذا الشتاء، تعيش الكويت نوعًا من الاحتفالات التي تقدم أكبر فعاليات الترفيه. يتضمن الحدث أكثر من 30 لعبة، وألعاب مهارات، وترفيه، وطعام، ومشروبات، والعديد من الأشياء الأخرى. يقع في السالمية. حتى عام 2023-2024، هو ثاني Winter Wonderland في الكويت."
+        },
+        "img": "url('../gallery/Images/Recreational/4.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.341504866571004",
+        "longitude": "48.045420551954166"
+    },
+    {
+        "en": {
+            "h1": "South Sabahiya park",
+            "p": "Established by the touristic enterprises company (TEC) south sabahiya park is a land of adventure launched on December 12, 2023. The purpose is to entertain young and old generations, the south sabahiya park is located at sabahiya, the west of kuwait, open today and the following days but limited for 6 months only, and will reopen in the next following december. Operating hours are from 3:30 pm to 11:30 pm, seven days a week, accommodating approximately 10,000 visitors daily. Feel free to visit! It's a place to admire."
+        },
+        "ar": {
+            "h1": "حديقة ساوث الصباحية",
+            "p": "تأسست من قبل شركة المشاريع السياحية (TEC)، حديقة ساوث الصباحية هي أرض مغامرة تم إطلاقها في 12 ديسمبر 2023. الغرض منها هو تسلية الأجيال الشابة والكبيرة، تقع حديقة ساوث الصباحية في الصباحية، غرب الكويت، مفتوحة اليوم وخلال الأيام القادمة ولكن بشكل محدود لمدة 6 أشهر فقط، وستعاد فتحها في ديسمبر القادم. ساعات العمل من الساعة 3:30 مساءً حتى الساعة 11:30 مساءً، سبعة أيام في الأسبوع، متسعة لحوالي 10,000 زائر يوميًا. لا تتردد في زيارتها! إنها مكان يستحق الإعجاب."
+        },
+        "img": "url('../gallery/Images/Recreational/5.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.08900602644454",
+        "longitude": "48.10149156713401"
+    },
+    {
+        "en": {
+            "h1": "Kuwait Diving Center",
+            "p": "Offers scuba diving courses and excursions, providing an opportunity to explore the rich marine life of the Arabian Gulf."
+        },
+        "ar": {
+            "h1": "مركز الغوص الكويتي",
+            "p": "يقدم دورات ورحلات الغوص بالزجاج البحري، مما يوفر فرصة لاستكشاف الحياة البحرية الغنية في الخليج العربي."
+        },
+        "img": "url('../gallery/Images/Recreational/6.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.339406140497285",
+        "longitude": "48.08995690140778"
+    },
+    {
+        "en": {
+            "h1": "The Paintball Kuwait",
+            "p": "A popular spot for paintball enthusiasts, offering a thrilling experience for groups and individuals."
+        },
+        "ar": {
+            "h1": "بينتبول الكويت",
+            "p": "مكان شهير بين هواة لعبة البينتبول، يقدم تجربة مثيرة للأفراد والمجموعات."
+        },
+        "img": "url('../gallery/Images/Recreational/7.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.391441991780564",
+        "longitude": "48.00545175116227"
+    },
+    {
+        "en": {
+            "h1": "Al-Hashemi Marine Museum",
+            "p": "Located at the Radisson Blu Hotel, this museum showcases maritime history and features the world's largest wooden dhow."
+        },
+        "ar": {
+            "h1": "متحف الهاشمي البحري",
+            "p": "يقع في فندق راديسون بلو، يعرض هذا المتحف تاريخ الملاحة ويضم أكبر داو خشبي في العالم."
+        },
+        "img": "url('../gallery/Images/Recreational/8.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.30138381904945",
+        "longitude": "48.089271795977"
+    },
+    {
+        "en": {
+            "h1": "Boulevard Park",
+            "p": "A beautifully landscaped park with walking tracks, bike paths, children's play areas, and water features, ideal for family outings and outdoor activities."
+        },
+        "ar": {
+            "h1": "حديقة بوليفارد",
+            "p": "حديقة مجمّلة بشكل جميل مع مسارات للمشي ومسارات لركوب الدراجات ومناطق لعب للأطفال وميزات مائية، مثالية للرحلات العائلية والأنشطة في الهواء الطلق."
+        },
+        "img": "url('../gallery/Images/Recreational/9.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.332373595079925",
+        "longitude": "48.07515041212002"
+    },
+    {
+        "en": {
+            "h1": "Sahara Kuwait Golf Resort",
+            "p": "An 18-hole golf course offering a premium golfing experience in a beautifully landscaped setting."
+        },
+        "ar": {
+            "h1": "منتجع الصحراء للغولف الكويت",
+            "p": "ملعب جولف 18 حفرة يقدم تجربة لعب جولف رائعة في إطار طبيعي جميل."
+        },
+        "img": "url('../gallery/Images/Recreational/10.png') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.260010308970937",
+        "longitude": "48.02413081470741"
     }
 ]
