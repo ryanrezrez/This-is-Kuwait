@@ -70,6 +70,13 @@
         <script src="../*/translateNavbar.js"></script>
         <script src="sponsors.js"></script>
 
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+        <script>
+          window.addEventListener('load', function() {
+              var link = document.createElement('link');
+              link.rel = 'stylesheet';
+              link.href = 'https://use.fontawesome.com/releases/v5.6.3/css/all.css';
+              document.head.appendChild(link);
+          });
+      </script>
     </body>
 </html>
