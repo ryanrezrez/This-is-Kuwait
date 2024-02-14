@@ -45,6 +45,23 @@ function createWordElement(word, index, animate) {
     kwElement.textContent = `${word.kw}`;
     wordElement.appendChild(kwElement);
 
+    const soundImage = document.createElement('img');
+    soundImage.setAttribute('src', '../*/Images/soundLogo.png');
+    kwElement.appendChild(soundImage);
+
+    const sound = document.createElement('audio');
+    sound.setAttribute('src', word.src);
+    wordElement.appendChild(sound);
+
+    kwElement.addEventListener('click', function() {
+        soundImage.setAttribute('src', '../*/Images/soundLogoPlayed.png');
+        sound.play();
+    });
+
+    sound.addEventListener('ended', function(){
+        soundImage.setAttribute('src', '../*/Images/soundLogo.png');
+    });
+
     wordElement.style.transitionDelay = `${index * 0.2}s`;
 
     return wordElement;
