@@ -50,10 +50,10 @@ function createWordElement(word, index, animate) {
     kwElement.appendChild(soundImage);
 
     const sound = document.createElement('audio');
-    sound.setAttribute('src', word.src);
     wordElement.appendChild(sound);
 
     kwElement.addEventListener('click', function() {
+        sound.setAttribute('src', word.src);
         soundImage.setAttribute('src', '../*/Images/soundLogoPlayed.png');
         sound.play();
     });
@@ -62,7 +62,7 @@ function createWordElement(word, index, animate) {
         soundImage.setAttribute('src', '../*/Images/soundLogo.png');
     });
 
-    wordElement.style.transitionDelay = `${index * 0.2}s`;
+    wordElement.style.transitionDelay = `${index * 0.15}s`;
 
     return wordElement;
 }

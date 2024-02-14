@@ -8,1046 +8,1357 @@
     {
         "en": "Is there",
         "ar": "يوجد",
-        "kw": "اكو"
+        "kw": "اكو",
+        "src": "Audio/اكو.mp3"
     },
     {
         "en": "There is not",
         "ar": "لا يوجد",
-        "kw": "ماكو"
+        "kw": "ماكو",
+        "src": "Audio/ماكو.mp3"
     },
     {
         "en": "Go straight",
         "ar": "الئ الامام",
-        "kw": "سيده"
+        "kw": "سيده",
+        "src": "Audio/سيده.mp3"
     },
     {
         "en": "Jumped",
         "ar": "اقفز",
-        "kw": "انقز"
+        "kw": "انقز",
+        "src": "Audio/انقز.mp3"
     },
     {
         "en": "Front",
         "ar": "امام",
-        "kw": "جدام"
+        "kw": "جدام",
+        "src": "Audio/جدام.mp3"
     },
     {
         "en": "Close",
         "ar": "اغلق",
-        "kw": "صكر"
+        "kw": "صكر",
+        "src": "Audio/صكر.mp3"
     },
     {
         "en": "Open",
         "ar": "افتح",
-        "kw": "بطل"
+        "kw": "بطل",
+        "src": "Audio/بطل.mp3"
     },
     {
         "en": "True",
         "ar": "حقا",
-        "kw": "صج"
+        "kw": "صج",
+        "src": "Audio/صج.mp3"
     },
     {
         "en": "Under",
         "ar": "اسفل",
-        "kw": "حدر"
+        "kw": "حدر",
+        "src": "Audio/حدر.mp3"
     },
     {
         "en": "Hot sauce",
         "ar": "شطة",
-        "kw": "دقوس"
+        "kw": "دقوس",
+        "src": "Audio/دقوس.mp3"
     },
     {
         "en": "Head",
         "ar": "راس",
-        "kw": "صماخ"
+        "kw": "صماخ",
+        "src": "Audio/صماخ.mp3"
     },
     {
         "en": "See",
         "ar": "انظر",
-        "kw": "شوف"
+        "kw": "شوف",
+        "src": "Audio/شوف.mp3"
     },
     {
         "en": "What do you want?",
         "ar": "ماذا تريد؟",
-        "kw": "شتبي؟"
+        "kw": "شتبي؟",
+        "src": "Audio/شتبي.mp3"
     },
     {
         "en": "Steering wheel",
         "ar": "عجلة القيادة",
-        "kw": "سكان"
+        "kw": "سكان",
+        "src": "Audio/سكان.mp3"
     },
     {
         "en": "Near",
         "ar": "جانب",
-        "kw": "يم"
+        "kw": "يم",
+        "src": "Audio/يم.mp3"
     },
     {
         "en": "What?",
         "ar": "ماذا؟",
-        "kw": "شنو؟"
+        "kw": "شنو؟",
+        "src": "Audio/شنو.mp3"
     },
     {
         "en": "Will",
         "ar": "سوفه",
-        "kw": "راح"
+        "kw": "راح",
+        "src": "Audio/راح.mp3"
     },
     {
         "en": "Fear",
         "ar": "خاف",
-        "kw": "تصرقع"
+        "kw": "تصرقع",
+        "src": "Audio/تصرقع.mp3"
     },
     {
         "en": "You think?",
         "ar": "تظن؟/تعتقد؟",
-        "kw": "تهقا؟"
+        "kw": "تهقا؟",
+        "src": "Audio/تهقا.mp3"
     },
     {
         "en": "Child",
         "ar": "طفل",
-        "kw": "ياهل"
+        "kw": "ياهل",
+        "src": "Audio/ياهل.mp3"
     },
     {
         "en": "A lot",
         "ar": "كثر",
-        "kw": "وايد"
+        "kw": "وايد",
+        "src": "Audio/وايد.mp3"
     },
     {
         "en": "Too much",
         "ar": "جدا",
-        "kw": "حيل"
+        "kw": "حيل",
+        "src": "Audio/حيل.mp3"
     },
     {
         "en": "Boring",
         "ar": "ملل",
-        "kw": "زهقه"
+        "kw": "زهقه",
+        "src": "Audio/زهقه.mp3"
     },
     {
         "en": "Bring",
         "ar": "احضر",
-        "kw": "اييب"
+        "kw": "اييب",
+        "src": "Audio/اييب.mp3"
     },
     {
         "en": "Bend",
         "ar": "ينحني",
-        "kw": "يچندس"
+        "kw": "يچندس",
+        "src": "Audio/يچندس.mp3"
     },
     {
         "en": "What's wrong with you?",
         "ar": "ماذا بك؟",
-        "kw": "علامك؟"
+        "kw": "علامك؟",
+        "src": "Audio/علامك.mp3"
     },
     {
         "en": "Elegant",
         "ar": "انيق",
-        "kw": "زقرت"
+        "kw": "زقرت",
+        "src": "Audio/زقرت.mp3"
     },
     {
         "en": "Perfect",
         "ar": "ممتاز",
-        "kw": "زقرتي"
+        "kw": "زقرتي",
+        "src": "Audio/زقرتي.mp3"
     },
     {
         "en": "Brown color",
         "ar": "اللون بني",
-        "kw": "أدعم"
+        "kw": "أدعم",
+        "src": "Audio/ادعم.mp3"
     },
     {
         "en": "Harnesses",
         "ar": "يسخر",
-        "kw": "يطنز"
+        "kw": "يطنز",
+        "src": "Audio/يطنز.mp3"
     },
     {
         "en": "Stupid",
         "ar": "خفيف العقل",
-        "kw": "اثول"
+        "kw": "اثول",
+        "src": "Audio/اثول.mp3"
     },
     {
         "en": "A little person",
         "ar": "كناية عن الشخص الصغير",
-        "kw": "زبوط النقعة"
+        "kw": "زبوط النقعة",
+        "src": "Audio/زبوط.mp3"
     },
     {
         "en": "Got me involved",
         "ar": "ورط(ني)",
-        "kw": "وهق(ني)"
+        "kw": "وهق(ني)",
+        "src": "Audio/وهقني.mp3"
     },
     {
         "en": "Something easy",
         "ar": "الشيء السهل",
-        "kw": "سهالات"
-    },
-    {
-        "en": "Nervous",
-        "ar": "متوتر",
-        "kw": "متدوده"
+        "kw": "سهالات",
+        "src": "Audio/سهالات.mp3"
     },
     {
         "en": "Hair tie",
         "ar": "ربطة شعر",
-        "kw": "شباصة"
+        "kw": "شباصة",
+        "src": "Audio/شباصة.mp3"
     },
     {
         "en": "Fancy",
         "ar": "اللبس الجميل",
-        "kw": "كشخه"
+        "kw": "كشخه",
+        "src": "Audio/كشخه.mp3"
     },
     {
         "en": "Remove",
         "ar": "اقلع",
-        "kw": "فصخ"
+        "kw": "فصخ",
+        "src": "Audio/فصخ.mp3"
     },
     {
         "en": "Spoon",
         "ar": "ملعقة",
-        "kw": "قفشة"
+        "kw": "قفشة",
+        "src": "Audio/قفشة.mp3"
     },
     {
         "en": "Watermelon",
         "ar": "بطيخ",
-        "kw": "رقي"
+        "kw": "رقي",
+        "src": "Audio/رقي.mp3"
     },
     {
         "en": "Swing",
         "ar": "أورجوحا",
-        "kw": "ديروفه"
+        "kw": "ديروفه",
+        "src": "Audio/ديروفه.mp3"
     },
     {
         "en": "Nosy",
         "ar": "من يتدخل فيما لا يعنيه",
-        "kw": "ملقوف"
+        "kw": "ملقوف",
+        "src": "Audio/ملقوف.mp3"
     },
     {
         "en": "Sofa",
         "ar": "اريكه",
-        "kw": "قنفه"
+        "kw": "قنفه",
+        "src": "Audio/قنفه.mp3"
     },
     {
         "en": "Field",
         "ar": "ساحه",
-        "kw": "براحه"
+        "kw": "براحه",
+        "src": "Audio/براحه.mp3"
     },
     {
         "en": "Camping",
         "ar": "رحله الى البر",
-        "kw": "كشته"
+        "kw": "كشته",
+        "src": "Audio/كشته.mp3"
     },
     {
         "en": "Iron",
         "ar": "مكواة",
-        "kw": "اوتي"
+        "kw": "اوتي",
+        "src": "Audio/اوتي.mp3"
     },
     {
         "en": "Hand fan",
         "ar": "مروحة يدويه",
-        "kw": "مهفه"
+        "kw": "مهفه",
+        "src": "Audio/مهفه.mp3"
     },
     {
         "en": "Sock",
         "ar": "جورب",
-        "kw": "دلاق"
+        "kw": "دلاق",
+        "src": "Audio/دلاق.mp3"
     },
     {
         "en": "Shoes",
         "ar": "حذاء",
-        "kw": "جوتي"
+        "kw": "جوتي",
+        "src": "Audio/جوتي.mp3"
     },
     {
         "en": "Window",
         "ar": "شباك",
-        "kw": "دريشه"
+        "kw": "دريشه",
+        "src": "Audio/دريشه.mp3"
     },
     {
         "en": "Bed",
         "ar": "سرير/فراش",
-        "kw": "كرفايه"
+        "kw": "كرفايه",
+        "src": "Audio/كرفايه.mp3"
     },
     {
         "en": "Earrings",
         "ar": "الاقراط",
-        "kw": "تراجي"
+        "kw": "تراجي",
+        "src": "Audio/تراجي.mp3"
     },
     {
         "en": "Necklace",
         "ar": "قلادة",
-        "kw": "بقمه"
+        "kw": "بقمه",
+        "src": "Audio/بقمه.mp3"
     },
     {
         "en": "Bracelet",
         "ar": "اسوارة",
-        "kw": "مظاعد"
+        "kw": "مظاعد",
+        "src": "Audio/مظاعد.mp3"
     },
     {
         "en": "Pot",
         "ar": "وعاء",
-        "kw": "جدر"
+        "kw": "جدر",
+        "src": "Audio/جدر.mp3"
     },
     {
         "en": "Rice",
         "ar": "الرز",
-        "kw": "عيش"
+        "kw": "عيش",
+        "src": "Audio/عيش.mp3"
     },
     {
         "en": "Runs away",
         "ar": "يهرب",
-        "kw": "ينحاش"
+        "kw": "ينحاش",
+        "src": "Audio/ينحاش.mp3"
     },
     {
         "en": "Don't listen",
         "ar": "لا تسمع",
-        "kw": "اصمخ"
+        "kw": "اصمخ",
+        "src": "Audio/اصمخ.mp3"
     },
     {
         "en": "Cup",
         "ar": "كأس",
-        "kw": "قلاص"
+        "kw": "قلاص",
+        "src": "Audio/قلاص.mp3"
     },
     {
         "en": "Light",
         "ar": "اظائة",
-        "kw": "ليت"
+        "kw": "ليت",
+        "src": "Audio/ليت.mp3"
     },
     {
         "en": "Lips",
         "ar": "شفاه",
-        "kw": "براطم"
+        "kw": "براطم",
+        "src": "Audio/براطم.mp3"
     },
     {
         "en": "Nose",
         "ar": "انف",
-        "kw": "خشم"
+        "kw": "خشم",
+        "src": "Audio/خشم.mp3"
     },
     {
         "en": "Wheel",
         "ar": "عجلة",
-        "kw": "تاير"
+        "kw": "تاير",
+        "src": "Audio/تاير.mp3"
     },
     {
         "en": "Mustache",
         "ar": "شارب",
-        "kw": "شنب"
+        "kw": "شنب",
+        "src": "Audio/شنب.mp3"
     },
     {
         "en": "Mouth",
         "ar": "فم",
-        "kw": "حلج"
+        "kw": "حلج",
+        "src": "Audio/حلج.mp3"
     },
     {
         "en": "Car drift",
         "ar": "انجراف السياره",
-        "kw": "يقحص"
+        "kw": "يقحص",
+        "src": "Audio/يقحص.mp3"
     },
     {
         "en": "Plate",
         "ar": "صحن",
-        "kw": "ماعون"
+        "kw": "ماعون",
+        "src": "Audio/ماعون.mp3"
     },
     {
         "en": "Small",
         "ar": "صغير",
-        "kw": "امجكنم"
+        "kw": "امجكنم",
+        "src": "Audio/امجكنم.mp3"
     },
     {
         "en": "Bus",
         "ar": "حافلة",
-        "kw": "باص"
+        "kw": "باص",
+        "src": "Audio/باص.mp3"
     },
     {
         "en": "A lot",
         "ar": "كثير",
-        "kw": "وايد"
+        "kw": "وايد",
+        "src": "Audio/وايد.mp3"
     },
     {
         "en": "Bag",
         "ar": "حقيبة",
-        "kw": "جنطه"
+        "kw": "جنطه",
+        "src": "Audio/جنطه.mp3"
     },
     {
         "en": "Dress",
         "ar": "فستان",
-        "kw": "نفنوف"
+        "kw": "نفنوف",
+        "src": "Audio/نفنوف.mp3"
     },
     {
         "en": "Fine",
         "ar": "بخير",
-        "kw": "زين"
+        "kw": "زين",
+        "src": "Audio/زين.mp3"
     },
     {
         "en": "Stand up",
         "ar": "اقف",
-        "kw": "قوم"
+        "kw": "قوم",
+        "src": "Audio/قوم.mp3"
     },
     {
         "en": "Slowly",
         "ar": "تمهل",
-        "kw": "شوي"
+        "kw": "شوي",
+        "src": "Audio/شوي.mp3"
     },
     {
         "en": "Make",
         "ar": "اعمل",
-        "kw": "اسوي"
+        "kw": "اسوي",
+        "src": "Audio/اسوي.mp3"
     },
     {
         "en": "Go",
         "ar": "اذهب",
-        "kw": "روح"
+        "kw": "روح",
+        "src": "Audio/روح.mp3"
     },
     {
         "en": "Shut up",
         "ar": "اسكت",
-        "kw": "انجعم"
+        "kw": "انجعم",
+        "src": "Audio/انجعم.mp3"
     },
     {
         "en": "OMG",
         "ar": "ياللهول",
-        "kw": "امبيه"
+        "kw": "امبيه",
+        "src": "Audio/امبيه.mp3"
     },
     {
         "en": "Person with bad luck",
         "ar": "شخص يحمل حظ سيى",
-        "kw": "قوبس"
+        "kw": "قوبس",
+        "src": "Audio/قوبس.mp3"
     },
     {
         "en": "Prank",
         "ar": "مقلب",
-        "kw": "دقه"
+        "kw": "دقه",
+        "src": "Audio/دقه.mp3"
     },
     {
         "en": "Boy",
         "ar": "ولد",
-        "kw": "صبي"
+        "kw": "صبي",
+        "src": "Audio/صبي.mp3"
     },
     {
         "en": "Girl",
         "ar": "بنت",
-        "kw": "بنيه"
+        "kw": "بنيه",
+        "src": "Audio/بنيه.mp3"
     },
     {
         "en": "Pants",
         "ar": "بنطال",
-        "kw": "بنطرون"
+        "kw": "بنطرون",
+        "src": "Audio/بنطرون.mp3"
     },
     {
         "en": "Okay",
         "ar": "حسنا",
-        "kw": "انزين"
+        "kw": "انزين",
+        "src": "Audio/انزين.mp3"
     },
     {
         "en": "Teacup",
         "ar": "فنجان",
-        "kw": "استكانه"
+        "kw": "استكانه",
+        "src": "Audio/استكانه.mp3"
     },
     {
         "en": "Go away",
         "ar": "اذهب",
-        "kw": "وخر"
+        "kw": "وخر",
+        "src": "Audio/وخر.mp3"
     },
     {
         "en": "Give me",
         "ar": "اعطني",
-        "kw": "عطني"
+        "kw": "عطني",
+        "src": "Audio/عطني.mp3"
     },
     {
         "en": "Market",
         "ar": "سوق",
-        "kw": "جمعيه"
+        "kw": "جمعيه",
+        "src": "Audio/جمعيه.mp3"
     },
     {
         "en": "Nagging",
         "ar": "يشكو",
-        "kw": "حنه"
+        "kw": "حنه",
+        "src": "Audio/حنه.mp3"
     },
     {
         "en": "There is time",
         "ar": "هناك وقت",
-        "kw": "يمدي"
+        "kw": "يمدي",
+        "src": "Audio/يمدي.mp3"
     },
     {
         "en": "Without permission",
         "ar": "بدون اذن",
-        "kw": "يدرعم"
+        "kw": "يدرعم",
+        "src": "Audio/يدرعم.mp3"
     },
     {
         "en": "Something exaggerated",
         "ar": "شيء مبالغ فيه",
-        "kw": "جايد"
+        "kw": "جايد",
+        "src": "Audio/جايد.mp3"
     },
     {
         "en": "You deserve it",
         "ar": "أنت تستحق ذلك",
-        "kw": "قلعتك"
+        "kw": "قلعتك",
+        "src": "Audio/قلعتك.mp3"
     },
     {
         "en": "Small",
         "ar": "صغير",
-        "kw": "امجكنم"
+        "kw": "امجكنم",
+        "src": "Audio/امجكنم.mp3"
     },
     {
         "en": "Shoes",
         "ar": "حذاء",
-        "kw": "نعال بو صبع"
+        "kw": "نعال بو صبع",
+        "src": "Audio/نعال بو صبع.mp3"
     },
     {
         "en": "Time",
         "ar": "وقت",
-        "kw": "حزه"
+        "kw": "حزه",
+        "src": "Audio/حزه.mp3"
     },
     {
         "en": "Here he is",
         "ar": "ها هو",
-        "kw": "كاه"
+        "kw": "كاه",
+        "src": "Audio/كاه.mp3"
     },
     {
         "en": "Coming",
         "ar": "قادم",
-        "kw": "ياي"
+        "kw": "ياي",
+        "src": "Audio/ياي.mp3"
     },
     {
         "en": "Friend",
         "ar": "صديق",
-        "kw": "رفيج"
+        "kw": "رفيج",
+        "src": "Audio/رفيج.mp3"
     },
     {
         "en": "Enter",
         "ar": "ادخل",
-        "kw": "دش"
+        "kw": "دش",
+        "src": "Audio/دش.mp3"
     },
     {
         "en": "Ugly",
         "ar": "قبيح",
-        "kw": "شيفه"
+        "kw": "شيفه",
+        "src": "Audio/شيفه.mp3"
     },
     {
         "en": "Laughing out loud",
         "ar": "الضحك بصوت عالي",
-        "kw": "يتكعكع"
+        "kw": "يتكعكع",
+        "src": "Audio/يتكعكع.mp3"
     },
     {
         "en": "Cowardly",
         "ar": "الشخص الجبان",
-        "kw": "خيخي"
-    },
-    {
-        "en": "Sure",
-        "ar": "متأكد",
-        "kw": "الوكاد"
+        "kw": "خيخي",
+        "src": "Audio/خيخي.mp3"
     },
     {
         "en": "Go away",
         "ar": "اذهب من هنا",
-        "kw": "طس"
+        "kw": "طس",
+        "src": "Audio/طس.mp3"
     },
     {
         "en": "Maybe",
         "ar": "ربما",
-        "kw": "كود"
+        "kw": "جود",
+        "src": "Audio/جود.mp3"
     },
     {
         "en": "Crazy",
         "ar": "مجنون",
-        "kw": "مرجوج"
-    },
-    {
-        "en": "Hypocrite",
-        "ar": "منافق",
-        "kw": "مجونس"
+        "kw": "مرجوج",
+        "src": "Audio/مرجوج.mp3"
     },
     {
         "en": "Talk",
         "ar": "الكلام",
-        "kw": "هرج"
+        "kw": "هرج",
+        "src": "Audio/هرج.mp3"
     },
     {
         "en": "Lay down",
         "ar": "استلق",
-        "kw": "امبطح"
+        "kw": "امبطح",
+        "src": "Audio/امبطح.mp3"
     },
     {
         "en": "Fell",
         "ar": "سقط",
-        "kw": "طاح"
+        "kw": "طاح",
+        "src": "Audio/طاح.mp3"
     },
     {
         "en": "Plain",
         "ar": "ساده",
-        "kw": "خالي"
-    },
-    {
-        "en": "Shut up",
-        "ar": "اخرس",
-        "kw": "اعقب"
+        "kw": "خالي",
+        "src": "Audio/خالي.mp3"
     },
     {
         "en": "Wait",
         "ar": "انتظر",
-        "kw": "انطر"
+        "kw": "انطر",
+        "src": "Audio/انطر.mp3"
     },
     {
         "en": "Clearly",
         "ar": "بشكل واضح",
-        "kw": "أشكره"
+        "kw": "أشكره",
+        "src": "Audio/اشكره.mp3"
     },
     {
         "en": "Feet",
         "ar": "الاقدام",
-        "kw": "ايول"
+        "kw": "اريول/ارجول",
+        "src": "Audio/اريول.mp3"
     },
     {
         "en": "An disappointment",
         "ar": "كتعبير عن خيبة الامل",
-        "kw": "أفا"
+        "kw": "أفا",
+        "src": "Audio/افا.mp3"
     },
     {
         "en": "People",
         "ar": "البشر",
-        "kw": "أوادم"
+        "kw": "أوادم",
+        "src": "Audio/اوادم.mp3"
     },
     {
         "en": "Hide",
         "ar": "اختبأ",
-        "kw": "أزبن"
+        "kw": "أزبن",
+        "src": "Audio/ازبن.mp3"
     },
     {
         "en": "Count on",
         "ar": "اعتمد",
-        "kw": "أزهلها"
+        "kw": "أزهلها",
+        "src": "Audio/ازهلها.mp3"
     },
     {
         "en": "How are you?",
         "ar": "كيف حالك؟",
-        "kw": "شلونك؟"
+        "kw": "شلونك؟",
+        "src": "Audio/شلونك.mp3"
     },
     {
         "en": "Remove",
         "ar": "أخلع",
-        "kw": "أشلع"
+        "kw": "أشلع",
+        "src": "Audio/اشلع.mp3"
     },
     {
         "en": "Escape",
         "ar": "هروب",
-        "kw": "أنحاش"
+        "kw": "أنحاش",
+        "src": "Audio/انحاش.mp3"
     },
     {
         "en": "Kiss you",
         "ar": "اقبلك",
-        "kw": "ابوسك"
+        "kw": "ابوسك",
+        "src": "Audio/ابوسك.mp3"
     },
     {
         "en": "Got scared",
         "ar": "خاف",
-        "kw": "أخترع"
+        "kw": "أخترع",
+        "src": "Audio/اخترع.mp3"
     },
     {
         "en": "Big",
         "ar": "كبير",
-        "kw": "العود"
+        "kw": "العود",
+        "src": "Audio/العود.mp3"
     },
     {
         "en": "Jump",
         "ar": "أقفز",
-        "kw": "اطمر"
+        "kw": "اطمر",
+        "src": "Audio/اطمر.mp3"
     },
     {
         "en": "Jug",
         "ar": "الابريق",
-        "kw": "الغوري"
-    },
-    {
-        "en": "Plate",
-        "ar": "الصحن",
-        "kw": "الماعون"
+        "kw": "الغوري",
+        "src": "Audio/الغوري.mp3"
     },
     {
         "en": "Sleep",
         "ar": "نام",
-        "kw": "أخمد"
+        "kw": "أخمد",
+        "src": "Audio/اخمد.mp3"
     },
     {
         "en": "Searching",
         "ar": "ابحث",
-        "kw": "ادور"
+        "kw": "ادور",
+        "src": "Audio/ادور.mp3"
     },
     {
         "en": "Take quickly",
         "ar": "خذ الشيء بسرعه",
-        "kw": "اخمط"
+        "kw": "اخمط",
+        "src": "Audio/اخمط.mp3"
     },
     {
         "en": "Sit",
         "ar": "اجلس",
-        "kw": "اقعد"
+        "kw": "اقعد",
+        "src": "Audio/اقعد.mp3"
     },
     {
         "en": "Don’t talk",
         "ar": "اسكت",
-        "kw": "أوش"
+        "kw": "أوش",
+        "src": "Audio/اوش.mp3"
     },
     {
         "en": "Take a shower",
         "ar": "استحم",
-        "kw": "اتسبح"
+        "kw": "اتسبح",
+        "src": "Audio/اتسبح.mp3"
     },
     {
         "en": "Clothing",
         "ar": "الملابس",
-        "kw": "الهدوم"
+        "kw": "الهدوم",
+        "src": "Audio/الهدوم.mp3"
     },
     {
         "en": "Talking",
         "ar": "الكلام",
-        "kw": "الحجي"
+        "kw": "الحجي",
+        "src": "Audio/الحجي.mp3"
     },
     {
         "en": "Outside",
         "ar": "في الخارج",
-        "kw": "بره"
+        "kw": "بره",
+        "src": "Audio/بره.mp3"
     },
     {
         "en": "Sloppy work",
         "ar": "العمل الغير متقن",
-        "kw": "بربسه"
+        "kw": "بربسه",
+        "src": "Audio/بربسه.mp3"
     },
     {
         "en": "Freshener",
         "ar": "المعطر",
-        "kw": "البخاخ"
+        "kw": "بخاخ",
+        "src": "Audio/بخاخ.mp3"
     },
     {
         "en": "Cooler",
         "ar": "جهاز كهربائي خاص لتبريد المياه العذبه",
-        "kw": "برادة"
+        "kw": "برادة",
+        "src": "Audio/برادة.mp3"
     },
     {
         "en": "Ice cream",
         "ar": "الايسكريم",
-        "kw": "برد"
+        "kw": "برد",
+        "src": "Audio/برد.mp3"
     },
     {
         "en": "Started",
         "ar": "بدأ",
-        "kw": "بلش"
+        "kw": "بلش",
+        "src": "Audio/بلش.mp3"
     },
     {
         "en": "Air fan",
         "ar": "المروحه الهوائيه",
-        "kw": "بنكه"
+        "kw": "بنكه",
+        "src": "Audio/بنكه.mp3"
     },
     {
         "en": "A tire puncture",
         "ar": "أصبح في اطار السيارة ثقب",
-        "kw": "بنجر"
+        "kw": "بنجر",
+        "src": "Audio/بنجر.mp3"
     },
     {
         "en": "A person who eats a lot",
         "ar": "شخص الكثير الاكل",
-        "kw": "بلعه"
+        "kw": "بلعه",
+        "src": "Audio/بلعه.mp3"
     },
     {
         "en": "Mistakes in words while speaking",
         "ar": "اخطائه في الكلمات اثناء الحديث",
-        "kw": "بدليات"
+        "kw": "بدليات",
+        "src": "Audio/بدليات.mp3"
     },
     {
         "en": "Tomorrow",
         "ar": "بكرا",
-        "kw": "باجر"
+        "kw": "باجر",
+        "src": "Audio/باجر.mp3"
     },
     {
         "en": "Dilate",
         "ar": "تمدد",
-        "kw": "تمغط"
+        "kw": "تمغط",
+        "src": "Audio/تمغط.mp3"
     },
     {
         "en": "Now",
         "ar": "الآن",
-        "kw": "توني"
+        "kw": "توني",
+        "src": "Audio/توني.mp3"
     },
     {
         "en": "Water/fuel tank",
         "ar": "خزان مياه /وقود الخ",
-        "kw": "تانكي"
+        "kw": "تانكي",
+        "src": "Audio/تانكي.mp3"
     },
     {
         "en": "Don't be lazy",
         "ar": "انهض بسرعة ولا تكن كسول",
-        "kw": "تلحلح"
+        "kw": "تلحلح",
+        "src": "Audio/تلحلح.mp3"
     },
     {
         "en": "Face",
         "ar": "وجه",
-        "kw": "ويه"
+        "kw": "ويه",
+        "src": "Audio/ويه.mp3"
     },
     {
         "en": "Run along",
         "ar": "انصرف",
-        "kw": "تت"
+        "kw": "تت",
+        "src": "Audio/تت.mp3"
     },
     {
         "en": "Because",
         "ar": "على شأن/لأن",
-        "kw": "عشان"
+        "kw": "عشان",
+        "src": "Audio/عشان.mp3"
     },
     {
         "en": "Stay away",
         "ar": "ابتعد",
-        "kw": "وخر"
+        "kw": "وخر",
+        "src": "Audio/وخر.mp3"
     },
     {
         "en": "Why?",
         "ar": "لماذا؟",
-        "kw": "شحقه/وش حقه"
+        "kw": "شحقه/وش حقه",
+        "src": "Audio/شحقه.mp3"
     },
     {
         "en": "We want nothing",
         "ar": "نحن لا نريد شيء",
-        "kw": "احنا ما نبي شي"
+        "kw": "احنا ما نبي شي",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com).mp3"
     },
     {
         "en": "I will slap you on the face",
         "ar": "اضربك على وجهك",
-        "kw": "اصكك طراق"
+        "kw": "اصكك طراق",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (1).mp3"
     },
     {
         "en": "Go away (a way of rejection)",
         "ar": "اذهب عني",
-        "kw": "اقلب ويهك"
+        "kw": "اقلب ويهك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (2).mp3"
     },
     {
         "en": "Too early (ironically)",
         "ar": "مبكرا",
-        "kw": "تو الناس"
+        "kw": "تو الناس",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (3).mp3"
     },
     {
         "en": "Too early",
         "ar": "متاخر",
-        "kw": "تو الناس"
+        "kw": "تو الناس",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (4).mp3"
     },
     {
         "en": "Broke my heart",
         "ar": "كسر خاطر",
-        "kw": "خنة حيلي"
+        "kw": "خنة حيلي",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (5).mp3"
     },
     {
         "en": "The time",
         "ar": "الوقت",
-        "kw": "حزه الحزه"
+        "kw": "حزه الحزه",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (6).mp3"
     },
     {
         "en": "Same face",
         "ar": "نفس الشكل",
-        "kw": "نفس البوها"
+        "kw": "نفس البوها",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (7).mp3"
     },
     {
         "en": "Welcome",
         "ar": "اهلاً وسهلاً",
-        "kw": "ساعه المباركه"
+        "kw": "ساعه المباركه",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (8).mp3"
     },
     {
         "en": "I will hit you",
         "ar": "اضربك",
-        "kw": "اقسل شراعك"
+        "kw": "اقسل شراعك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (9).mp3"
     },
     {
         "en": "Fighting",
         "ar": "تضارب",
-        "kw": "طق مطاقط"
+        "kw": "طق مطاقط",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (10).mp3"
     },
     {
         "en": "Traffic",
         "ar": "ازدحام",
-        "kw": "طق اعصي"
+        "kw": "طق اعصي",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (11).mp3"
     },
     {
         "en": "Hello",
         "ar": "مرحبا",
-        "kw": "يلا حياه"
+        "kw": "يلا حياه",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (12).mp3"
     },
     {
         "en": "God saves you",
         "ar": "الله يخليك",
-        "kw": "الله يبقيك"
+        "kw": "الله يبقيك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (13).mp3"
     },
     {
         "en": "God's reward is good",
         "ar": "جزاك الله خيراً",
-        "kw": "يجزاك خير/يزاك خير"
+        "kw": "يجزاك خير/يزاك خير",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (14).mp3"
     },
     {
         "en": "The beginning of the morning",
         "ar": "بداية الصباح",
-        "kw": "يلا صباح خير"
+        "kw": "يلا صباح خير",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (15).mp3"
     },
     {
         "en": "I don't like",
         "ar": "شيء غير محبب",
-        "kw": "لاعت جبدي/لوعة جبد"
+        "kw": "لاعت جبدي/لوعة جبد",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (16).mp3"
     },
     {
         "en": "I will show you",
         "ar": "سوف ترا",
-        "kw": "انا ارويك"
+        "kw": "انا ارويك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (17).mp3"
     },
     {
         "en": "U-turn",
         "ar": "انعطاف شرير",
-        "kw": "فوق تحت"
+        "kw": "فوق تحت",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (18).mp3"
     },
     {
         "en": "God sends it away",
         "ar": "الله يبعدنه",
-        "kw": "يا دافع البلا"
+        "kw": "يا دافع البلا",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (19).mp3"
     },
     {
         "en": "Here you go",
         "ar": "تفضل",
-        "kw": "انطح فالك"
+        "kw": "انطح فالك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (20).mp3"
     },
     {
         "en": "Depend on you",
         "ar": "اعتمد عليك",
-        "kw": "على الله وعليك"
+        "kw": "على الله وعليك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (21).mp3"
     },
     {
         "en": "Who has no past has no present",
         "ar": "الذي ليس له ماضي ليس له حاضر",
-        "kw": "اللي ماله اول ماله تالي"
+        "kw": "اللي ماله اول ماله تالي",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (22).mp3"
     },
     {
         "en": "Someone who's stupid",
         "ar": "تشير على أن هذا الشخص غبي",
-        "kw": "ما يعرف كوعه من بوعه"
+        "kw": "ما يعرف كوعه من بوعه",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (23).mp3"
     },
     {
         "en": "A person that acts like he doesn't hear",
         "ar": "الشخص الذي يمثل بأنه لا يسمع",
-        "kw": "من قال (ها) سمع"
+        "kw": "من قال (ها) سمع",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (24).mp3"
     },
     {
         "en": "There's no point in a thing too late",
         "ar": "لا فائدة من الشيء بعد فوات أوانه",
-        "kw": "اذا فات الفوت ماينفع الصوت"
+        "kw": "اذا فات الفوت ماينفع الصوت",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (25).mp3"
     },
     {
         "en": "Welcome to you and him and everyone you would like to bring with you",
         "ar": "اهلا به وبكل شخص تحب ان تحضره معك ايضاً",
-        "kw": "هاته وهات عباته"
+        "kw": "هاته وهات عباته",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (26).mp3"
     },
     {
         "en": "The person who doesn't know the value of something will lose it",
         "ar": "الذي لا يعرف قيمة الشيء يخسره",
-        "kw": "اللي ما يعرف الصقر يشويه وياكله"
+        "kw": "اللي ما يعرف الصقر يشويه وياكله",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (27).mp3"
     },
     {
         "en": "The one who can't do something",
         "ar": "الشخص الذي لا يستطيع أن يعمل شيء",
-        "kw": "دياية ام احمد"
+        "kw": "دياية ام احمد",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (28).mp3"
     },
     {
         "en": "The caliber will eat the money of a miser",
         "ar": "العيار سوف يأكل المال من البخيل",
-        "kw": "مال البخيل ياكله العيار"
+        "kw": "مال البخيل ياكله العيار",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (29).mp3"
     },
     {
         "en": "Everything that happens to us from God is certainly good",
         "ar": "كل ما يصيبنا من الله فهو خيرا بالتاكيد",
-        "kw": "اللي يجي من الله حياه الله."
+        "kw": "اللي يجي من الله حياه الله.",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (30).mp3"
     },
     {
         "en": "A person who is rude and not ashamed of others you shouldn't be ashamed of him",
         "ar": "الشخص الوقح ولا يخجل من الآخر يجب أن لا يخجل منه",
-        "kw": "اللي ما يستحي منك لا تستحي منه"
+        "kw": "اللي ما يستحي منك لا تستحي منه",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (31).mp3"
     },
     {
         "en": "The unwelcome person",
         "ar": "يقال للشخص الغير مرحب به",
-        "kw": "الباب ياسع جمل"
+        "kw": "الباب ياسع جمل",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (32).mp3"
     },
     {
         "en": "A bad neighbor",
         "ar": "كناية عن جار السوء",
-        "kw": "كوم حجار ولا هالجار"
+        "kw": "كوم حجار ولا هالجار",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (33).mp3"
     },
     {
         "en": "Whoever we asked for help came to hold us accountable",
         "ar": "أي طلبنا منه المساعدة جاء ليُحاسبنا",
-        "kw": "بغيناه عون صار فرعون"
+        "kw": "بغيناه عون صار فرعون",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (34).mp3"
     },
     {
         "en": "No matter how much you try to earn money, you will only take what God has written for you, so be satisfied with what you have",
         "ar": "مهما حاولت أن تكسب من المال لن تأخذ سوى ما كتبه الله لك فكن راضيًا برزقك",
-        "kw": "لو جريت جري الوحوش غير رزقك ما تحوش."
+        "kw": "لو جريت جري الوحوش غير رزقك ما تحوش.",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (35).mp3"
     },
     {
         "en": "Do not overload yourself and live your life as much as your livelihood",
         "ar": "لا تحمّل نفسك فوق طاقتها وعش حياتك على قدر رزقك",
-        "kw": "مد رجولك على قد لحافك"
+        "kw": "مد رجولك على قد لحافك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (36).mp3"
     },
     {
         "en": "A man who leaves his wife to manage his household affairs and act as she pleases",
         "ar": "الرجل الذي يترك زوجته تُدير شؤون منزله وتتصرف بما يحلو لها",
-        "kw": "الفرس من خيالها والمره من ريالها"
+        "kw": "الفرس من خيالها والمره من ريالها",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (37).mp3"
     },
     {
         "en": "You will find your rest in your own home",
         "ar": "أنّ الإنسان لا يجد راحته سوى في بيته",
-        "kw": "من طلع من داره قل مقداره"
+        "kw": "من طلع من داره قل مقداره",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (38).mp3"
     },
     {
         "en": "Choose the food you like and choose your clothes on people's taste",
         "ar": "اختر الطعام الذي تحبه واختر ثيابك على ذوق الناس",
-        "kw": "أُكل اللي تبيه وإلبس اللي يعجب الناس"
+        "kw": "أُكل اللي تبيه وإلبس اللي يعجب الناس",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (39).mp3"
     },
     {
         "en": "The greedy man who, although his deadline is approaching, still runs after the possessions of life",
         "ar": "الإنسان الطماع الذي رغم اقتراب أجله إلّا أنّه يبقى راكضًا وراء متاع الحياة",
-        "kw": "تموت الديايه وعينها على السبوس"
+        "kw": "تموت الديايه وعينها على السبوس",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (40).mp3"
     },
     {
         "en": "That when a person grows up, it becomes difficult to raise and educate him again",
         "ar": "أن الإنسان عندما يكبر يُصبح من الصعب تربيته وتعليمه من جديد",
-        "kw": "القطو العود ما يتربى"
+        "kw": "القطو العود ما يتربى",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (41).mp3"
     },
     {
         "en": "That appearances remain deceptive, so the form does not tempt you",
         "ar": "أنّ المظاهر تبقى خداعة فلا يغرّك الشكل",
-        "kw": "الشيفه شيفه والمعاني ضعيفه"
+        "kw": "الشيفه شيفه والمعاني ضعيفه",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (42).mp3"
     },
     {
         "en": "As soon as he falls he lies down",
         "ar": "لم يسقط الى استلقى",
-        "kw": "ما طاح اله امبطح"
+        "kw": "ما طاح اله امبطح",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (43).mp3"
     },
     {
         "en": "Don’t steal and don’t be afraid",
         "ar": "لا تسرق ولا تخَف",
-        "kw": "لا تبوق ولا تخاف"
+        "kw": "لا تبوق ولا تخاف",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (44).mp3"
     },
     {
         "en": "Everyone who knocked his drum said, ' I’m before him",
         "ar": "كل من ضرب على الطبل قال انا جأت قبله",
-        "kw": "كل من طق طبله قال انا قبله"
+        "kw": "كل من طق طبله قال انا قبله",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (45).mp3"
     },
     {
         "en": "A metaphor for Uncle's mandate",
         "ar": "كناية عن ولاية العم",
-        "kw": "الخال خلي والعم ولي"
+        "kw": "الخال خلي والعم ولي",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (46).mp3"
+    },
+    {
+        "en": "Big brother",
+        "ar": "اخي الكبير",
+        "kw": "اخوي العود",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (47).mp3"
+    },
+    {
+        "en": "This news or position will appear with the days",
+        "ar": "أن الخبر أو الموضع هذا سوف يظهر مع الأيام",
+        "kw": "اللي بالجدر يطلعه الملاس",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (49).mp3"
+    },
+    {
+        "en": "Walk and see people who benefit you, not who spoil you",
+        "ar": "المشي ورا الناس الذي ينفعونك وليس الذي يفسدونك",
+        "kw": "أمش ورا مزعلينك ولاتمشي ورا المبجينك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (50).mp3"
+    },
+    {
+        "en": "If a person grows up, it's hard to change him",
+        "ar": "ان الشخص اذا كبر من الصعب ان تغيره",
+        "kw": "القطو العود ما منه فود",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (51).mp3"
+    },
+    {
+        "en": "He wanted to do good, but I became evil",
+        "ar": "اراد ان يفعل خير ولاكن اصبحه شرا",
+        "kw": "جا بيكحلها عماها",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (52).mp3"
+    },
+    {
+        "en": "The impossibility of getting what you wish for",
+        "ar": "استحالة حصول ما تتمناه",
+        "kw": "حامض على بوزك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (53).mp3"
+    },
+    {
+        "en": "No one is useful except your hand",
+        "ar": "اي لا احد ينفع سوى يدك",
+        "kw": "ما تعينك الا يمينك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (54).mp3"
+    },
+    {
+        "en": "That greed imprints on the human heart and covers it",
+        "ar": "أن الطمع يطبع على قلب الإنسان ويغطيه",
+        "kw": "من طمع طبع",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (55).mp3"
+    },
+    {
+        "en": "Long absences bring good things",
+        "ar": "الذي يتاخر بالقدوم سوف ياتي باشياء جميله",
+        "kw": "يا مطول الغيبات هات الغنائم",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (56).mp3"
+    },
+    {
+        "en": "The neighbor has a positive influence",
+        "ar": "الجار له تاثير ايجابي",
+        "kw": "جارك ثم دارك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (57).mp3"
+    },
+    {
+        "en": "Do not enlarge the topic",
+        "ar": "اي لا تكبر الموضوع",
+        "kw": "لا تطولها واهي قصيره",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (58).mp3"
+    },
+    {
+        "en": "An ignoramus who does not know his head from his foot",
+        "ar": "جاهل لا يعرف راسه من قدمه",
+        "kw": "مايعرف راسه من كرياسه",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (59).mp3"
+    },
+    {
+        "en": "Luck will come to you",
+        "ar": "الحظ سوف ياتيك",
+        "kw": "نصيبك يصيبك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (60).mp3"
+    },
+    {
+        "en": "When a person feels hungry and sounds come out of his stomach",
+        "ar": "عندما يشعر الانسان بالجوع و تخرج الأصوات من بطنه",
+        "kw": "بطني يوصوص",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (61).mp3"
+    },
+    {
+        "en": "To be careful",
+        "ar": "اي كن حذراً",
+        "kw": "دير بالك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (62).mp3"
+    },
+    {
+        "en": "I didn't expect you to do this thing",
+        "ar": "لم اتوقعها منك ان تفعل هذا الشيء",
+        "kw": "ما هقيتها منك",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (63).mp3"
+    },
+    {
+        "en": "It doesn't matter",
+        "ar": "مالها أهمية",
+        "kw": "مالها صرفه",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (64).mp3"
+    },
+    {
+        "en": "Who is knocking on our door at this time",
+        "ar": "من يطرق بابنا في هذا الوقت",
+        "kw": "منو ياينا هالحزة",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (65).mp3"
+    },
+    {
+        "en": "Sweeping the courtyard of the house",
+        "ar": "يكنس فناء البيت او الدار",
+        "kw": "يخم الحوش",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (66).mp3"
+    },
+    {
+        "en": "To wish someone with a painful illness",
+        "ar": "أن تتمنى لشخص بالمرض الموجع",
+        "kw": "يمال الوجع",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (67).mp3"
+    },
+    {
+        "en": "I don't care about anything",
+        "ar": "اي لا يهمني شيء",
+        "kw": "مو هامني شي",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (68).mp3"
+    },
+    {
+        "en": "Whoever arrived first is the first to nail and get the thing",
+        "ar": "مَن وَصل أوّلاً فهو أولى بالظفر والحصول على الشيء",
+        "kw": "من سبق لبق",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (69).mp3"
     },
     {
         "en": "I don't think",
         "ar": "لا اعتقد",
-        "kw": "ما ظنتي"
+        "kw": "ما ظنتي",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (70).mp3"
     },
     {
         "en": "Good job!!",
         "ar": "احسنت عملا!!",
-        "kw": "كفوو عليك!!"
+        "kw": "كفوو عليك!!",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (71).mp3"
     },
     {
         "en": "Evil is gone",
         "ar": "ذهب الشر",
-        "kw": "غدى الشر"
+        "kw": "غدى الشر",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (72).mp3"
     },
     {
         "en": "Open the door",
         "ar": "افتح الباب قليلا",
-        "kw": "طرف الباب"
+        "kw": "طرف الباب",
+        "src": "Audio/Phrases/Record (online-voice-recorder.com) (73).mp3"
     }
 ]
