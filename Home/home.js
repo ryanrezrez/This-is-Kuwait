@@ -22,22 +22,6 @@ function updateContentHome() {
     button1.textContent = homeTranslations[currentLanguage].button1;
     button2.textContent = homeTranslations[currentLanguage].button2;
     or.textContent = homeTranslations[currentLanguage].or;
-
-    if (currentLanguage === 'en') {
-        containers.forEach(function(container) {
-            container.style.letterSpacing = '1px';
-        });
-        buttons.forEach(function(container) {
-            container.style.letterSpacing = '1px';
-        });
-    } else {
-        containers.forEach(function(container) {
-            container.style.letterSpacing = '0px';
-        });
-        buttons.forEach(function(container) {
-            container.style.letterSpacing = '0px';
-        });
-    }
 } 
 
 function switchLanguageHome() {
