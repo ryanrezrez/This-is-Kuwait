@@ -1,14 +1,38 @@
 [
     {
         "en": {
-            "h1": "Sheikh Sabah Ahmed Al-Sabah",
-            "p": "Sheikh Sabah Ahmed Al-Sabah, born on June 16 1929, was a prominent Kuwaiti statesman and a member of the ruling Al Sabah family. Renowned for his diplomatic finesse and dedication to public service, he served as the Emir of Kuwait from 2006 until his death, succeeding Sheikh Jaber Al Ahmad Al Sabah. Sheikh Sabah played a pivotal role in steering Kuwait through various regional challenges, particularly during the Iraqi invasion in 1990. His commitment to diplomacy earned him the title of the \"Dean of Arab Diplomacy.\" Beyond his role as a head of state, Sheikh Sabah was widely respected for his humanitarian efforts and contributions to global diplomacy. His legacy is characterized by a deep commitment to stability, regional cooperation, and the well-being of the Kuwaiti people."
+            "h1": "Sheikh Sabah Ahmad Al-Sabah",
+            "p": "Sheikh Sabah Ahmad Al-Sabah, the fifteenth ruler of Kuwait, made significant contributions to his country during his reign from 2006 to 2020. He played a key role in shaping Kuwait's foreign policy, particularly in maintaining diplomatic relations and mediating in regional conflicts. His efforts in promoting peace and stability in the Gulf region were widely recognized. Domestically, he focused on economic diversification and social development, seeking to improve the standard of living for Kuwaiti citizens. Additionally, he was a strong advocate for human rights and worked towards ensuring a just and transparent government. His leadership and vision continue to have a lasting impact on Kuwait."
         },
         "ar": {
             "h1": "الشيخ صباح أحمد الصباح",
-            "p": "وُلد الشيخ صباح أحمد الصباح في 16 يونيو 1929، كان دبلوماسيًا كويتيًا بارزًا وعضوًا في عائلة آل الصباح الحاكمة. مشهور بحنكته الدبلوماسية واهتمامه بالخدمة العامة، شغل منصب أمير الكويت منذ عام 2006 حتى وفاته، خلفًا للشيخ جابر الأحمد الصباح. لعب الشيخ صباح دورًا حاسمًا في توجيه الكويت خلال تحديات إقليمية مختلفة، خاصة خلال الغزو العراقي في عام 1990. حازت التزامه بالدبلوماسية على لقب \"عميد الدبلوماسية العربية\". وبالإضافة إلى دوره كرئيس للدولة، كان الشيخ صباح محترمًا على نطاق واسع بسبب جهوده الإنسانية ومساهماته في الدبلوماسية العالمية. يتميز إرثه بالتزام عميق بالاستقرار والتعاون الإقليمي ورفاهية الشعب الكويتي."
+            "p": "الشيخ صباح أحمد الصباح، الحاكم الخامس عشر للكويت، قدم إسهامات هامة لبلاده خلال فترة حكمه من عام 2006 إلى 2020. لعب دورًا رئيسيًا في تشكيل السياسة الخارجية للكويت، خاصة في الحفاظ على العلاقات الدبلوماسية ووساطة النزاعات الإقليمية. كانت جهوده في تعزيز السلام والاستقرار في منطقة الخليج معترف بها على نطاق واسع. على الصعيدين المحلي والدولي، كان يركز على التنويع الاقتصادي وتطوير الجوانب الاجتماعية، سعيًا لتحسين مستوى المعيشة للمواطنين الكويتيين. بالإضافة إلى ذلك، كان مناصرًا قويًا لحقوق الإنسان وعمل نحو ضمان حكومة عادلة وشفافة. تستمر قيادته ورؤيته في ترك تأثير دائم على الكويت"
         },
         "img": "url('../gallery/Images/Figures/1.png') center/cover",
+        "googleMaps": "false"
+    },
+    {
+        "en": {
+            "h1": "Sheikh Mubarak Al-Sabah",
+            "p": "Sheikh Mubarak Al-Sabah, the seventh ruler of Kuwait, played a crucial role in the early modernization and development of the country during his reign from 1896 to 1915. He played a pivotal role in the Anglo-Kuwaiti Agreement of 1899, formalizing Kuwait's autonomy in exchange for British protection against external threats. This agreement helped safeguard Kuwait from regional conflicts, ensuring its stability. Sheikh Mubarak implemented administrative reforms, enhancing governance, and encouraging economic diversification beyond traditional activities such as pearl diving. His leadership laid the groundwork for Kuwait's emergence as a key trading hub in the Arabian Gulf, setting the stage for its later economic prosperity and development."
+        },
+        "ar": {
+            "h1": "الشيخ مبارك الصباح",
+            "p": "الشيخ عبد الله السالم الصباح، الحاكم الحادي عشر للكويت، لعب دورًا حيويًا في توجيه الأمة نحو الاستقلال والسيادة خلال حكمه من عام 1950 إلى 1965. كانت قيادته حاسمة في تأمين تحرير الكويت من الحماية البريطانية في عام 1961، مما يشكل إنجازًا هامًا في تاريخ البلاد. أسفرت التفاني الذي أظهره الشيخ عبد الله في تطوير الدستور عن إقرار أول دستور للكويت في عام 1962، ووضع الأساس لنظام حكم دستوري. تحت إرشاده، تم تحقيق تقدم ملحوظ في التنويع الاقتصادي وتطوير البنية التحتية ومبادرات الرعاية الاجتماعية، مسهمًا في نمو الكويت الشامل. يتميز إرثه بتعزيز الهوية الوطنية، وتوفير إطار دستوري قوي، ووضع أسس التحديث في الكويت"
+        },
+        "img": "url('../gallery/Images/Figures/7.png') center/cover",
+        "googleMaps": "false"
+    },
+    {
+        "en": {
+            "h1": "Sheikh Abdullah Al-Salim Al-Sabah",
+            "p": "Sheikh Abdullah Al-Salim Al-Sabah, the eleventh ruler of Kuwait, played a pivotal role in steering the nation towards independence and sovereignty during his reign from 1950 to 1965. His leadership was instrumental in securing Kuwait's liberation from British protection in 1961, marking a significant milestone in the country's history. Sheikh Abdullah's commitment to constitutional development resulted in the establishment of Kuwait's first constitution in 1962, setting the foundation for a constitutional monarchy. Under his guidance, there were notable strides in economic diversification, infrastructure development, and social welfare initiatives, contributing to Kuwait's overall growth. His legacy is characterized by a strengthened national identity, a resilient constitutional framework, and the groundwork for Kuwait's modernization."
+        },
+        "ar": {
+            "h1": "الشيخ عبد الله السالم الصباح",
+            "p": "لعب الشيخ مبارك الصباح، الحاكم السابع للكويت، دورًا حيويًا في التحديث المبكر وتطوير البلاد خلال حكمه من عام 1896 إلى 1915. لعب دورًا محوريًا في اتفاقية الكويت الإنجليزية عام 1899، حيث قام بتشكيل استقلال الكويت مقابل الحماية البريطانية من التهديدات الخارجية. ساعدت هذه الاتفاقية في حماية الكويت من النزاعات الإقليمية، مضمنة استقرارها. قام الشيخ مبارك بتنفيذ إصلاحات إدارية، معززًا الحوكمة وتشجيع التنويع الاقتصادي وراء الأنشطة التقليدية مثل صيد اللؤلؤ. قاد قيادته لتمهيد الطريق لظهور الكويت كمركز تجاري رئيسي في الخليج العربي، ووضع المسرح لازدهارها الاقتصادي وتطورها لاحقًا"
+        },
+        "img": "url('../gallery/Images/Figures/8.png') center/cover",
         "googleMaps": "false"
     },
     {
