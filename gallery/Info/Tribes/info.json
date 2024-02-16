@@ -14,18 +14,6 @@
         },
         {
             "en": {
-                "h1": "Al-Azmi",
-                "p": "The Al-Azmi tribe, originally from the Arabian Peninsula's Najd region, is one of Kuwait's largest tribes. Known for their significant influence and presence, they have been integral to Kuwait's cultural and social fabric. They are traditionally known for their expertise in camel herding and agriculture."
-            },
-            "ar": {
-                "h1": "العازمي",
-                "p": "تعتبر قبيلة العذيم، التي هاجرت أصلاً من منطقة النجد في شبه الجزيرة العربية، واحدة من أكبر قبائل الكويت. معروفة بتأثيرها ووجودها الكبيرين، فقد كانت جزءًا أساسيًا من نسيج الثقافة والمجتمع الكويتي. وهم معروفون تقليديًا بخبرتهم في تربية الإبل والزراعة."
-            },
-            "img": "url('../gallery/Images/Tribes/2.png') center/cover",
-            "googleMaps": "false"
-        },
-        {
-            "en": {
                 "h1": "Al-Rashayda",
                 "p": "This tribe is known for their expertise in trade and commerce. They have been influential in the development of Kuwait's market economy, especially in the early days before oil was discovered."
             },
@@ -50,11 +38,11 @@
         },
         {
             "en": {
-                "h1": "Awazim",
+                "h1": "Al-Awazim",
                 "p": "This tribe has a strong presence in Kuwait and is known for their cultural contributions, especially in poetry and traditional Kuwaiti music. The Awazim tribe has also been involved in various aspects of public service."
             },
             "ar": {
-                "h1": "عوازم",
+                "h1": "العوازم",
                 "p": "تمتلك هذه القبيلة وجوداً قوياً في الكويت وتُعرف بمساهماتها الثقافية، خاصة في الشعر والموسيقى الكويتية التقليدية. كما شاركت قبيلة العوازم في جوانب مختلفة من الخدمة العامة."
             },
             "img": "url('../gallery/Images/Tribes/5.png') center/cover",
