@@ -6,7 +6,10 @@
             "historical": "Historical Places",
             "culture": "Culture",
             "influential": "Influential figures",
-            "tribes": "Tribes"
+            "tribes": "Tribes",
+            "i1": "Amirs and Sheikhs of Kuwait",
+            "i2": "National Assembly",
+            "i3": "Scientific and cultural figures"
         },
         "paragraph": "Explore Kuwait's recreational places, historical places, influential figures, and tribes in our Gallery!",
         "footer": "If you believe there are missing or misleading information, please contact us here: mahmoud.salman@gba.edu.kw",
@@ -20,8 +23,14 @@
             "historical": "الأماكن التاريخية",
             "culture": "الثقافة",
             "influential": "الشخصيات المؤثرة",
-            "tribes": "القبائل"
+            "tribes": "القبائل",
+            "i1": "أمراء و شيوخ الكويت",
+            "i2": "مجلس الأمة",
+            "i3": "الشخصيات العلمية والثقافية"
         },
+        "i1": "Amirs and Sheikhs of Kuwait",
+        "i2": "National Assembly",
+        "i3": "Scientific and cultural figures",
         "paragraph": "استكشف أماكن الترفيه في الكويت، والأماكن التاريخية، والشخصيات المؤثرة، والقبائل في معرضنا",
         "footer": "إذا كانت هناك معلومات مفقودة أو مضللة، يرجى الاتصال بنا mahmoud.salman@gba.edu.kw",
         "back": "خروج",

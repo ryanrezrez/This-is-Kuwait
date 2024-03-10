@@ -122,7 +122,63 @@
         },
         "img": "url('../gallery/Images/Historical/8.png') center/cover",
         "googleMaps": "true",
-        "latitude": "29.373826475172244",
-        "longitude": "47.972932395979505"
+        "latitude": "29.374345911610263",
+        "longitude": "47.97289023311236"
+    },
+    {
+        "en": {
+            "h1": "Liberation Tower",
+            "p": "In Kuwait City, the Liberation Tower is a 1,220-foot (1,722-meter) tall telecommunications tower. It is the 39th-highest skyscraper in the world and the second-tallest building in the nation. Tourists are not permitted to approach the tower openly."
+        },
+        "ar": {
+            "h1": "برج التحرير",
+            "p": "في مدينة الكويت، برج التحرير هو برج اتصالات يبلغ ارتفاعه 1،220 قدمًا (1،722 مترًا). إنه الـ 39 في قائمة أعلى ناطحات السحاب في العالم وثاني أطول مبنى في البلاد. لا يُسمح للسياح بالاقتراب من البرج بشكل مفتوح."
+        },
+        "img": "url('../gallery/Images/Historical/LiberationTower.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.368187385924113",
+        "longitude": "47.974936353094456"
+    },
+    {
+        "en": {
+            "h1": "Jaber Al-Ahmad International Stadium",
+            "p": "Constructed in 2009, its primary uses are for sporting events and football games. The stadium can hold 60,000 people in seats; it is a four-story structure with 54 corporate boxes and 6,001 parking spaces."
+        },
+        "ar": {
+            "h1": "استاد جابر الأحمد الدولي",
+            "p": "تم بناؤه في عام 2009، ويستخدم بشكل أساسي للأحداث الرياضية والمباريات الكروية. يمكن للملعب استيعاب 60،000 شخص في المقاعد؛ إنها هيكل من أربع طوابق مع 54 صندوقًا شركيًا و6،001 موقف للسيارات."
+        },
+        "img": "url('../gallery/Images/Historical/stadium.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.271377454777095",
+        "longitude": "47.918706760552325"
+    },
+    {
+        "en": {
+            "h1": "Al Shamlan Mosque",
+            "p": "This mosque is special due to the fact it is situated on a roundabout. Given that the mosque is a historical landmark and a very ancient building, it illustrates how the area has changed throughout the years around it."
+        },
+        "ar": {
+            "h1": "مسجد الشملان",
+            "p": "يعتبر هذا المسجد خاصًا بسبب وجوده على دوار. نظرًا لأن المسجد هو معلم تاريخي ومبنى قديم جدًا، فإنه يوضح كيف تغيرت المنطقة على مر السنين من حوله."
+        },
+        "img": "url('../gallery/Images/Historical/AlShamlanMosque.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.369615374788175",
+        "longitude": "47.979104395979526"
+    },
+    {
+        "en": {
+            "h1": "Failaka Island",
+            "p": "The island of Failaka in Kuwait has a rich history dating back over 4,000 years. Ruins from the classical Seleucid Empire and the ancient Dilmun culture may be found there. It may have served as a base for pirates operating in the Arabian Gulf in the 1600s and has the remnants of a medieval Christian monastery."
+        },
+        "ar": {
+            "h1": "جزيرة فيلكا",
+            "p": "تمتلك جزيرة فيلكا في الكويت تاريخًا غنيًا يعود إلى أكثر من 4،000 عام. يمكن العثور على آثار من الإمبراطورية السلوقية الكلاسيكية وثقافة ديلمون القديمة هناك. قد تكون قد خدمت كقاعدة للقراصنة الذين كانوا يعملون في الخليج العربي في القرن السابع عشر وتحتوي على بقايا دير مسيحي من العصور الوسطى."
+        },
+        "img": "url('../gallery/Images/Historical/FailakaIsland.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.445523777429578",
+        "longitude": "48.288602991987794"
     }
 ]

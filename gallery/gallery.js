@@ -1,1 +1,231 @@
-const mainButtons=document.getElementById("mainButtons");const containerCollection=document.getElementById("containerCollection");const heading=document.getElementById("heading");const paragraph=document.getElementById("paragraph");$(document).ready(function(){$("#recreationalPlaces").on("click",function(){loadInfo("../gallery/Info/Recreational/info.json");fadeOut(heading);fadeOut(paragraph);fadeOut(mainButtons);setTimeout(()=>{scrollToTop();fadeIn(heading,"block");fadeIn(containerCollection,"flex");page="recreational";updateContentGallery()},500)});$("#historicalPlaces").on("click",function(){loadInfo("../gallery/Info/Historical/info.json");fadeOut(heading);fadeOut(paragraph);fadeOut(mainButtons);setTimeout(()=>{scrollToTop();fadeIn(heading,"block");fadeIn(containerCollection,"flex");page="historical";updateContentGallery()},500)});$("#influentialFigures").on("click",function(){loadInfo("../gallery/Info/Figures/info.json");fadeOut(heading);fadeOut(paragraph);fadeOut(mainButtons);setTimeout(()=>{scrollToTop();fadeIn(heading,"block");fadeIn(containerCollection,"flex");page="influential";updateContentGallery()},500)});$("#tribes").on("click",function(){loadInfo("../gallery/Info/Tribes/info.json");fadeOut(heading);fadeOut(paragraph);fadeOut(mainButtons);setTimeout(()=>{scrollToTop();fadeIn(heading,"block");fadeIn(containerCollection,"flex");page="tribes";updateContentGallery()},500)})});let containers={};let galleryTranslations={};let page="gallery";function loadInfo(jsonFile){fetch(jsonFile).then(response=>response.json()).then(data=>{containers=data;displayWords(containers)}).catch(error=>console.error("Error loading translations:",error))}function displayWords(container){const containerCollection=document.getElementById("containerCollection");containerCollection.innerHTML="";const backButton=document.createElement("button");backButton.classList.add("backButton");backButton.textContent=galleryTranslations[currentLanguage].back;backButton.addEventListener("click",function(){fadeOut(heading);fadeOut(containerCollection);setTimeout(()=>{scrollToTop();fadeIn(heading,"block");fadeIn(paragraph,"block");fadeIn(mainButtons,"flex");page="gallery";updateContentGallery()},500)});containerCollection.appendChild(backButton);container.forEach(con=>{const containerElement=createContainerElement(con);containerCollection.appendChild(containerElement)})}function createContainerElement(containers){const container=document.createElement("div");container.classList.add("container");container.addEventListener("click",function(){h1.classList.toggle("text-hidden");p.classList.toggle("text-hidden")});if(currentLanguage==="en"){container.style.direction="ltr"}else{container.style.direction="rtl"}container.style.background=containers.img;const h1=document.createElement("h1");h1.textContent=containers[currentLanguage].h1;container.appendChild(h1);const p=document.createElement("p");p.textContent=containers[currentLanguage].p;container.appendChild(p);if(containers.googleMaps==="true"){const mapButton=document.createElement("button");mapButton.textContent=galleryTranslations[currentLanguage].googlemaps;mapButton.classList.add("googleMaps");container.appendChild(mapButton);mapButton.addEventListener("click",function(){var latitude=containers.latitude;var longitude=containers.longitude;var mapsUrl="https://www.google.com/maps?q="+latitude+","+longitude;window.open(mapsUrl,"_blank")})}return container}function fadeOut(element){element.style.opacity=0;setTimeout(()=>{element.style.display="none"},500)}function fadeIn(element,display){element.style.display=display;setTimeout(()=>{element.style.opacity=1},500)}fetch("../*/translations/gallery.json").then(response=>response.json()).then(data=>{galleryTranslations=data;updateContentGallery()}).catch(error=>console.error("Error loading translations:",error));function updateContentGallery(){const h1=document.getElementById("heading");const p=document.getElementById("paragraph");const rp=document.getElementById("recreationalPlaces");const hp=document.getElementById("historicalPlaces");const IF=document.getElementById("influentialFigures");const tribes=document.getElementById("tribes");const footer=document.getElementById("footer");h1.textContent=galleryTranslations[currentLanguage].heading[page];p.textContent=galleryTranslations[currentLanguage].paragraph;rp.textContent=galleryTranslations[currentLanguage].heading["recreational"];hp.textContent=galleryTranslations[currentLanguage].heading["historical"];IF.textContent=galleryTranslations[currentLanguage].heading["influential"];tribes.textContent=galleryTranslations[currentLanguage].heading["tribes"];footer.textContent=galleryTranslations[currentLanguage].footer}function switchLanguageGallery(){updateContentGallery();displayWords(containers)}function scrollToTop(){window.scrollTo({top:0})}
+const mainButtons = document.getElementById("mainButtons");
+const containerCollection = document.getElementById("containerCollection");
+const influentialButtons = document.getElementById("influentialButtons");
+const heading = document.getElementById("heading");
+const paragraph = document.getElementById("paragraph");
+
+$(document).ready(function() {
+    $("#recreationalPlaces").on("click", function() {
+        loadInfo("../gallery/Info/Recreational/info.json");
+        fadeOut(heading);
+        fadeOut(paragraph);
+        fadeOut(mainButtons);
+        setTimeout(() => {
+            scrollToTop();
+            fadeIn(heading, "block");
+            fadeIn(containerCollection, "flex");
+            page = "recreational";
+            updateContentGallery();
+        }, 500);
+    });
+
+    $("#historicalPlaces").on("click", function() {
+        loadInfo("../gallery/Info/Historical/info.json");
+        fadeOut(heading);
+        fadeOut(paragraph);
+        fadeOut(mainButtons);
+        setTimeout(() => {
+            scrollToTop();
+            fadeIn(heading, "block");
+            fadeIn(containerCollection, "flex");
+            page = "historical";
+            updateContentGallery();
+        }, 500);
+    });
+
+    $("#influentialFigures").on("click", function() {
+        fadeOut(heading);
+        fadeOut(paragraph);
+        fadeOut(mainButtons);
+        setTimeout(() => {
+            scrollToTop();
+            fadeIn(heading, "block");
+            fadeIn(influentialButtons, "flex");
+            page = "influential";
+            updateContentGallery();
+        }, 500);
+    });
+
+    $("#tribes").on("click", function() {
+        loadInfo("../gallery/Info/Tribes/info.json");
+        fadeOut(heading);
+        fadeOut(paragraph);
+        fadeOut(mainButtons);
+        setTimeout(() => {
+            scrollToTop();
+            fadeIn(heading, "block");
+            fadeIn(containerCollection, "flex");
+            page = "tribes";
+            updateContentGallery();
+        }, 500);
+    });
+
+    $("#i1").on("click", function() {
+        loadInfo("../gallery/Info/Figures/amir/info.json");
+        fadeOut(heading);
+        fadeOut(paragraph);
+        fadeOut(influentialButtons);
+        setTimeout(() => {
+            scrollToTop();
+            fadeIn(heading, "block");
+            fadeIn(containerCollection, "flex");
+            page = "i1";
+            updateContentGallery();
+        }, 500);
+    });
+
+    $("#i2").on("click", function() {
+        loadInfo("../gallery/Info/Figures/national/info.json");
+        fadeOut(heading);
+        fadeOut(paragraph);
+        fadeOut(influentialButtons);
+        setTimeout(() => {
+            scrollToTop();
+            fadeIn(heading, "block");
+            fadeIn(containerCollection, "flex");
+            page = "i2";
+            updateContentGallery();
+        }, 500);
+    });
+
+    $("#i3").on("click", function() {
+        loadInfo("../gallery/Info/Figures/scientific/info.json");
+        fadeOut(heading);
+        fadeOut(paragraph);
+        fadeOut(influentialButtons);
+        setTimeout(() => {
+            scrollToTop();
+            fadeIn(heading, "block");
+            fadeIn(containerCollection, "flex");
+            page = "i3";
+            updateContentGallery();
+        }, 500);
+    });
+});
+
+let containers = {};
+let galleryTranslations = {};
+let page = "gallery";
+
+function loadInfo(jsonFile) {
+    fetch(jsonFile)
+        .then(response => response.json())
+        .then(data => {
+            containers = data;
+            displayWords(containers);
+        })
+        .catch(error => console.error("Error loading translations:", error));
+}
+
+function displayWords(container) {
+    const containerCollection = document.getElementById("containerCollection");
+    containerCollection.innerHTML = "";
+    const backButton = document.createElement("button");
+    backButton.classList.add("backButton");
+    backButton.textContent = galleryTranslations[currentLanguage].back;
+    backButton.addEventListener("click", function() {
+        fadeOut(heading);
+        fadeOut(containerCollection);
+        setTimeout(() => {
+            scrollToTop();
+            fadeIn(heading, "block");
+            fadeIn(paragraph, "block");
+            fadeIn(mainButtons, "flex");
+            page = "gallery";
+            updateContentGallery();
+        }, 500);
+    });
+    containerCollection.appendChild(backButton);
+    container.forEach(con => {
+        const containerElement = createContainerElement(con);
+        containerCollection.appendChild(containerElement);
+    });
+}
+
+function createContainerElement(containers) {
+    const container = document.createElement("div");
+    container.classList.add("container");
+    container.addEventListener("click", function() {
+        h1.classList.toggle("text-hidden");
+        p.classList.toggle("text-hidden");
+    });
+    if (currentLanguage === "en") {
+        container.style.direction = "ltr";
+    } else {
+        container.style.direction = "rtl";
+    }
+    container.style.background = containers.img;
+    const h1 = document.createElement("h1");
+    h1.textContent = containers[currentLanguage].h1;
+    container.appendChild(h1);
+    const p = document.createElement("p");
+    p.textContent = containers[currentLanguage].p;
+    container.appendChild(p);
+    if (containers.googleMaps === "true") {
+        const mapButton = document.createElement("button");
+        mapButton.textContent = galleryTranslations[currentLanguage].googlemaps;
+        mapButton.classList.add("googleMaps");
+        container.appendChild(mapButton);
+        mapButton.addEventListener("click", function() {
+            var latitude = containers.latitude;
+            var longitude = containers.longitude;
+            var mapsUrl = "https://www.google.com/maps?q=" + latitude + "," + longitude;
+            window.open(mapsUrl, "_blank");
+        });
+    }
+    return container;
+}
+
+function fadeOut(element) {
+    element.style.opacity = 0;
+    setTimeout(() => {
+        element.style.display = "none";
+    }, 500);
+}
+
+function fadeIn(element, display) {
+    element.style.display = display;
+    setTimeout(() => {
+        element.style.opacity = 1;
+    }, 500);
+}
+
+fetch("../*/translations/gallery.json")
+    .then(response => response.json())
+    .then(data => {
+        galleryTranslations = data;
+        updateContentGallery();
+    })
+    .catch(error => console.error("Error loading translations:", error));
+
+function updateContentGallery() {
+    const h1 = document.getElementById("heading");
+    const p = document.getElementById("paragraph");
+    const rp = document.getElementById("recreationalPlaces");
+    const hp = document.getElementById("historicalPlaces");
+    const IF = document.getElementById("influentialFigures");
+    const i1 = document.getElementById("i1");
+    const i2 = document.getElementById("i2");
+    const i3 = document.getElementById("i3");
+    const tribes = document.getElementById("tribes");
+    const footer = document.getElementById("footer");
+    h1.textContent = galleryTranslations[currentLanguage].heading[page];
+    p.textContent = galleryTranslations[currentLanguage].paragraph;
+    rp.textContent = galleryTranslations[currentLanguage].heading["recreational"];
+    hp.textContent = galleryTranslations[currentLanguage].heading["historical"];
+    IF.textContent = galleryTranslations[currentLanguage].heading["influential"];
+    i1.textContent = galleryTranslations[currentLanguage].heading["i1"];
+    i2.textContent = galleryTranslations[currentLanguage].heading["i2"];
+    i3.textContent = galleryTranslations[currentLanguage].heading["i3"];
+    tribes.textContent = galleryTranslations[currentLanguage].heading["tribes"];
+    footer.textContent = galleryTranslations[currentLanguage].footer;
+}
+
+function switchLanguageGallery() {
+    updateContentGallery();
+    displayWords(containers);
+}
+
+function scrollToTop() {
+    window.scrollTo({ top: 0 });
+}

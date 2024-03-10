@@ -108,6 +108,12 @@ body {
 	animation: fadeInAnimation 0.3s ease-in-out forwards;
 }
 
+@media (max-width: 830px) {
+	.mainButtons {
+		height: 250px;
+	}
+}
+
 .funplaces::before {
 	content: "";
   	position: absolute;
@@ -168,6 +174,42 @@ body {
   	transition: transform 0.3s ease-in-out;
 }
 
+#i1::before {
+	content: "";
+	position: absolute;
+  	top: 0;
+  	left: 0;
+  	right: 0;
+  	bottom: 0;
+  	background: url('../*/Images/kuwaitfigures.jpeg') center/cover; /* Replace 'your-image.jpg' with your image URL */
+  	z-index: -1;
+  	transition: transform 0.3s ease-in-out;
+}
+
+#i2::before {
+	content: "";
+	position: absolute;
+  	top: 0;
+  	left: 0;
+  	right: 0;
+  	bottom: 0;
+  	background: url('../*/Images/assembly.jpeg') center/cover; /* Replace 'your-image.jpg' with your image URL */
+  	z-index: -1;
+  	transition: transform 0.3s ease-in-out;
+}
+
+#i3::before {
+	content: "";
+	position: absolute;
+  	top: 0;
+  	left: 0;
+  	right: 0;
+  	bottom: 0;
+  	background: url('../*/Images/tribes.png') center/cover; /* Replace 'your-image.jpg' with your image URL */
+  	z-index: -1;
+  	transition: transform 0.3s ease-in-out;
+}
+
 .mainButtons:hover {
 	background-size: 120%;
 }
@@ -177,19 +219,18 @@ body {
 }
 
 .mainButtonsContainer {
+	margin-top: 30px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	width: 100%;
-	height: 1000px;
+	height: auto;
 }
 
-.funPlacesContainer {
+#influentialButtons {
 	display: none;
-	flex-direction: column;
-	align-items: center;
-	width: 100%;
-	height: 1000px;
+	opacity: 0;
+	transition: 0.5s opacity ease;
 }
 
 footer {
@@ -223,8 +264,11 @@ p {
 	flex-direction: column;
 	text-align: center;
 	font-family: 'quickSand', Arial, Helvetica, sans-serif;
-
+	background-size: cover;
+	background-position: center;
 	width: 80%;
+	height: auto;
+	min-height: 600px;
 	align-items: center;
 	justify-content: center;
 	text-align: center;

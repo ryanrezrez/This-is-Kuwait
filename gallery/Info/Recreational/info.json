@@ -141,6 +141,132 @@
     },
     {
         "en": {
+            "h1": "K-Land",
+            "p": "K-Land is Kuwait’s newest entertainment family destination, offering an enjoyable and entertaining experience that celebrates Kuwait’s rich cultural heritage. Developed in strategic partnership with the Touristic Enterprises Company (TEC), K-Land features fountains overlooking the Arabian Gulf and is designed for both young and old generations. The games, attractions, and facilities at K-Land are inspired by Kuwait’s culture and are aimed at stimulating sensory and cognitive growth for children. Exciting new attractions like the Zain Kventure area, with games such as bicycle slackline, ziplines, and karting race on artificial sand dunes, are introduced for the first time in Kuwait. K-Land also includes numerous other games and attractions designed to resemble Kuwait’s iconic landmarks. From Kuwait Towers to Souq Mubarakiya, visitors can enjoy a sense of national pride while creating wonderful memories with their families."
+        },
+        "ar": {
+            "h1": "كي لاند",
+            "p": "كي لاند هي وجهة الترفيه الجديدة للعائلات في الكويت، تقدم تجربة ممتعة ومسلية تحتفي بالتراث الثقافي الغني للكويت. تم تطويرها بشراكة استراتيجية مع شركة المشاريع السياحية (TEC)، وتتميز بحيرات تطل على الخليج العربي وتم تصميمها لكل من الأجيال الشابة والكبار. تستمد الألعاب والمعالم والمرافق في كي لاند إلهامها من ثقافة الكويت وتهدف إلى تحفيز النمو الحسي والمعرفي للأطفال. تم تقديم معالم جديدة مثيرة مثل منطقة المغامرة Zain Kventure، بألعاب مثل سلسلة الدراجات، وخطوط الزلاقة، وسباق الكارتينغ على الكثبان الرملية الصناعية، لأول مرة في الكويت. تشمل كي لاند أيضًا العديد من الألعاب والمعالم الأخرى التي تم تصميمها لتشبه المعالم البارزة في الكويت. من أبراج الكويت إلى سوق المباركية، يمكن للزوار الاستمتاع بشعور بالفخر الوطني أثناء خلق ذكريات رائعة مع عائلاتهم."
+        },
+        "img": "url('../gallery/Images/Recreational/KLand.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.341829799058882",
+        "longitude": "48.09725593171888"
+    },
+    {
+        "en": {
+            "h1": "Blajat",
+            "p": "TEC has been active with new projects lately and they just announced their amazing beach activity and hangout, Blajat. The Blajat project is located in Salmiya and runs the distance from the Bida’a roundabout down to Showbiz. It’s being launched in phases and the first phase has now just been completed. It is an amazing experience for those who like to sit by the beach, and for the kids, don't worry, there are obstacle courses on the water! Blajat is your ultimate beachside haven! Come and make a splash!"
+        },
+        "ar": {
+            "h1": "بلاجات",
+            "p": "شركة المشاريع السياحية كانت نشطة مؤخرًا في المشاريع الجديدة وأعلنوا للتو نشاطهم الشاطئي المذهل ومكان الجلوس، بلاجات. يقع مشروع بلاجات في السالمية ويمتد على مسافة من دوار بدعاء إلى شوبيز. تم إطلاقه بمراحل وتم الانتهاء من المرحلة الأولى الآن. إنها تجربة رائعة لأولئك الذين يحبون الجلوس على الشاطئ، وبالنسبة للأطفال، لا داعي للقلق، هناك دورات عقبة على الماء! بلاجات هي ملاذك النهائي على الشاطئ! تعال وانطلق!"
+        },
+        "img": "url('../gallery/Images/Recreational/Blajat.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.33744688649861",
+        "longitude": "48.09571318050485"
+    },
+    {
+        "en": {
+            "h1": "By the Sea",
+            "p": "Deriving inspiration from one of the voguish summer spots internationally, and netting the immense demand of accessibility, and diversity, Seazen Group presents a complete novel take on their annual experience. By The Sea 2023 brings you an Andalusian experience that will include Melanzane, Okra; a Mediterranean concept, a Garden Cafe, and The Beach. Feast your eyes on aesthetic villas, and spacious courtyards adorned with bougainvilleas and water."
+        },
+        "ar": {
+            "h1": "بجوار البحر",
+            "p": "استمد الإلهام من أحد أماكن الصيف الرائجة عالميًا، واستغل الطلب الهائل على التوفر والتنوع، تقدم مجموعة Seazen تقديمًا جديدًا كليًا لتجربتهم السنوية. بجوار البحر 2023 يقدم لك تجربة أندلسية ستشمل Melanzane، Okra؛ مفهوم من البحر الأبيض المتوسط، ومقهى الحديقة، والشاطئ. استمتع بالنظر إلى الفلل الجمالية والفناء الواسع المزين بأزهار السعدي والمياه."
+        },
+        "img": "url('../gallery/Images/Recreational/ByTheSea.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.18265721529868",
+        "longitude": "48.119947850779795"
+    },
+    {
+        "en": {
+            "h1": "Khairan Resort",
+            "p": "One of Kuwait's most well-liked vacation spots is Khiran Resort, which first opened its doors in February 1987. Situated around 110 kilometers from Kuwait City in the Khiran District, it is a prime seaside property that stretches 1800 meters and covers an area of more than 789,380 square meters, with views of the Arabian Gulf. Rich vegetation, exquisitely designed lawns, and finely sandy beaches envelop the Resort, creating an exquisite contrast with the glistening azure sea, transforming it into an authentic coastal sanctuary."
+        },
+        "ar": {
+            "h1": "منتجع خيران",
+            "p": "أحد أكثر أماكن الإجازات المحبوبة في الكويت هو منتجع الخيران، الذي فتح أبوابه لأول مرة في فبراير 1987. يقع المنتجع على بعد حوالي 110 كيلومترات من مدينة الكويت في منطقة الخيران، وهو ملكية ساحلية رئيسية تمتد على مسافة 1800 متر وتغطي مساحة تزيد عن 789,380 متر مربع، مع إطلالة على الخليج العربي. النباتات الغنية، والحدائق المصممة بشكل رائع، والشواطئ الرملية الناعمة تكسو المنتجع، مما يخلق تناقضًا رائعًا مع البحر الأزرق اللامع، محولًا إياه إلى ملاذ ساحلي أصيل."
+        },
+        "img": "url('../gallery/Images/Recreational/KhairanResort.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "28.662272192289723",
+        "longitude": "48.38802788629589"
+    },
+    {
+        "en": {
+            "h1": "Green Island",
+            "p": "Off the promenade in Kuwait City, there lies an artificial island known as Green Island. After opening in 1988, it started to draw tourists. In the Persian Gulf, it is the first man-made island. There are picnic spaces at this park beside the lake as well."
+        },
+        "ar": {
+            "h1": "الجزيرة الخضراء",
+            "p": "قبالة الممشى في مدينة الكويت، توجد جزيرة صناعية تُعرف باسم الجزيرة الخضراء. بعد افتتاحها في عام 1988، بدأت في جذب السياح. في الخليج الفارسي، هي أول جزيرة صناعية. هناك مساحات للنزهات في هذا الحديقة بجانب البحيرة أيضًا."
+        },
+        "img": "url('../gallery/Images/Recreational/GreenIsland.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.36488264976923",
+        "longitude": "48.02763973171987"
+    },
+    {
+        "en": {
+            "h1": "Assima Mall",
+            "p": "The biggest shopping center in Kuwait City's downtown is part of the Capital Complex. With a movie theater, fitness center, spa, and entertainment areas in addition to a wide variety of culinary options, Assima Mall offers an incredible lifestyle and enjoyment."
+        },
+        "ar": {
+            "h1": "مركز العاصمة",
+            "p": "أكبر مركز تسوق في وسط مدينة الكويت يتبع لمجمع العاصمة. بالإضافة إلى مجموعة واسعة من الخيارات الطهي، يقدم مركز العاصمة أسواقًا ومطاعم ومقاهي مميزة ومتنوعة."
+        },
+        "img": "url('../gallery/Images/Recreational/AssimaMall.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.37418660943971",
+        "longitude": "47.98757453298132"
+    },
+    {
+        "en": {
+            "h1": "Promenade Mall",
+            "p": "Convenient for families, the Promenade Mall includes kid-friendly arcade games. The ground level features signature boutiques, and the Arabic café in the middle is a local favorite."
+        },
+        "ar": {
+            "h1": "مركز البرومنيد",
+            "p": "مناسب للعائلات، يتضمن مركز البرومنيد ألعاب ممتعة للأطفال. يضم الطابق السفلي بوتيكات تحمل توقيعات مميزة، والمقهى العربي في الوسط هو المفضل المحلي."
+        },
+        "img": "url('../gallery/Images/Recreational/PromenadeMall.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.347038376097743",
+        "longitude": "48.01204696309372"
+    },
+    {
+        "en": {
+            "h1": "Ice Skating at Kuwait Winter Games",
+            "p": "The Kuwait Winter Games Club, an ice skating rink, appeared in Bayan very recently. The Kuwait Ice Hockey team used the arena for practice when the 2020 Open Championship for Professional Arab Ice Hockey Clubs was held there. Also, it is now accessible to the whole public."
+        },
+        "ar": {
+            "h1": "التزلج على الجليد في ألعاب الشتاء بالكويت",
+            "p": "ظهر نادي ألعاب الشتاء بالكويت، الذي يضم حلبة تزلج على الجليد، في بيان مؤخرًا جدًا. استخدمت فرق هوكي الجليد في الكويت الحلبة للتدريب عندما أقيمت بطولة 2020 المفتوحة لأندية هوكي الجليد العربية المحترفة هناك. أيضًا، أصبح الآن متاحًا للجمهور بأكمله."
+        },
+        "img": "url('../gallery/Images/Recreational/IceSkating.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.302789029377863",
+        "longitude": "48.06109257515374"
+    },
+    {
+        "en": {
+            "h1": "Kuwait Bowling Sporting Club",
+            "p": "An amazing place to go bowling with your friends in Salmiya."
+        },
+        "ar": {
+            "h1": "نادي الكويت للبولينغ الرياضي",
+            "p": "مكان مذهل للذهاب للعب البولينج مع أصدقائك في السالمية."
+        },
+        "img": "url('../gallery/Images/Recreational/Bowling.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.340675670074916",
+        "longitude": "48.08463659597854"
+    },
+    {
+        "en": {
             "h1": "Sahara Kuwait Golf Resort",
             "p": "An 18-hole golf course offering a premium golfing experience in a beautifully landscaped setting."
         },

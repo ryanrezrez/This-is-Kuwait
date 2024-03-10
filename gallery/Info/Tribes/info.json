@@ -9,7 +9,7 @@
                 "h1": "آل صباح",
                 "p": "قبيلة آل صباح هي العائلة الحاكمة في الكويت. يعود تاريخهم إلى أوائل القرن الثامن عشر عندما هاجروا من منطقة النجد. وقد حكمت عائلة آل صباح الكويت منذ عام 1752، حيث كان الشيخ صباح الأول أول حاكم. لعبت العائلة دورًا حاسمًا في تشكيل المشهد السياسي والاقتصادي في الكويت."
             },
-            "img": "url('../gallery/Images/Tribes/1.png') center/cover",
+            "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
             "googleMaps": "false"
         },
         {
@@ -21,7 +21,7 @@
                 "h1": "الرشايدة",
                 "p": "تشتهر هذه القبيلة بخبرتها في التجارة والتجارة. لقد كان لهم تأثير في تطوير الاقتصاد السوقي في الكويت، خاصة في الأيام الأولى قبل اكتشاف النفط."
             },
-            "img": "url('../gallery/Images/Tribes/3.png') center/cover",
+            "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
             "googleMaps": "false"
         },
         {
@@ -33,7 +33,7 @@
                 "h1": "مطير",
                 "p": "تُعرف قبيلة المطير، التي تنحدر أصلاً من وسط الجزيرة العربية، بوجودها القوي في القوات العسكرية والشرطة. لقد كان لهم تأثير في قطاعات الدفاع والأمن في الكويت."
             },
-            "img": "url('../gallery/Images/Tribes/4.png') center/cover",
+            "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
             "googleMaps": "false"
         },
         {
@@ -45,7 +45,7 @@
                 "h1": "العوازم",
                 "p": "تمتلك هذه القبيلة وجوداً قوياً في الكويت وتُعرف بمساهماتها الثقافية، خاصة في الشعر والموسيقى الكويتية التقليدية. كما شاركت قبيلة العوازم في جوانب مختلفة من الخدمة العامة."
             },
-            "img": "url('../gallery/Images/Tribes/5.png') center/cover",
+            "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
             "googleMaps": "false"
         },
         {
@@ -57,7 +57,7 @@
                 "h1": "عجمان",
                 "p": "تنحدر قبيلة عجمان أصلاً من منطقة النجد، ولها وجود ملحوظ في الكويت. شاركوا في مختلف القطاعات، بما في ذلك التجارة والإدارة العامة."
             },
-            "img": "url('../gallery/Images/Tribes/6.png') center/cover",
+            "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
             "googleMaps": "false"
         }   
 ]
