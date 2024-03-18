@@ -2,13 +2,14 @@ const mainButtons = document.getElementById("mainButtons");
 const containerCollection = document.getElementById("containerCollection");
 const influentialButtons = document.getElementById("influentialButtons");
 const heading = document.getElementById("heading");
-const paragraph = document.getElementById("paragraph");
+const subheading = document.getElementById("subheading");
+const containerElement = document.getElementsByClassName("container");
 
 $(document).ready(function() {
     $("#recreationalPlaces").on("click", function() {
         loadInfo("../gallery/Info/Recreational/info.json");
         fadeOut(heading);
-        fadeOut(paragraph);
+        fadeOut(subheading);
         fadeOut(mainButtons);
         setTimeout(() => {
             scrollToTop();
@@ -22,7 +23,7 @@ $(document).ready(function() {
     $("#historicalPlaces").on("click", function() {
         loadInfo("../gallery/Info/Historical/info.json");
         fadeOut(heading);
-        fadeOut(paragraph);
+        fadeOut(subheading);
         fadeOut(mainButtons);
         setTimeout(() => {
             scrollToTop();
@@ -35,7 +36,7 @@ $(document).ready(function() {
 
     $("#influentialFigures").on("click", function() {
         fadeOut(heading);
-        fadeOut(paragraph);
+        fadeOut(subheading);
         fadeOut(mainButtons);
         setTimeout(() => {
             scrollToTop();
@@ -47,13 +48,14 @@ $(document).ready(function() {
     });
 
     $("#tribes").on("click", function() {
-        loadInfo("../gallery/Info/Tribes/info.json");
+        loadInfo("../gallery/Info/Tribes/info.json", true);
         fadeOut(heading);
-        fadeOut(paragraph);
+        fadeOut(subheading);
         fadeOut(mainButtons);
         setTimeout(() => {
             scrollToTop();
             fadeIn(heading, "block");
+            fadeIn(subheading, "block");
             fadeIn(containerCollection, "flex");
             page = "tribes";
             updateContentGallery();
@@ -63,7 +65,7 @@ $(document).ready(function() {
     $("#i1").on("click", function() {
         loadInfo("../gallery/Info/Figures/amir/info.json");
         fadeOut(heading);
-        fadeOut(paragraph);
+        fadeOut(subheading);
         fadeOut(influentialButtons);
         setTimeout(() => {
             scrollToTop();
@@ -77,7 +79,7 @@ $(document).ready(function() {
     $("#i2").on("click", function() {
         loadInfo("../gallery/Info/Figures/national/info.json");
         fadeOut(heading);
-        fadeOut(paragraph);
+        fadeOut(subheading);
         fadeOut(influentialButtons);
         setTimeout(() => {
             scrollToTop();
@@ -91,7 +93,7 @@ $(document).ready(function() {
     $("#i3").on("click", function() {
         loadInfo("../gallery/Info/Figures/scientific/info.json");
         fadeOut(heading);
-        fadeOut(paragraph);
+        fadeOut(subheading);
         fadeOut(influentialButtons);
         setTimeout(() => {
             scrollToTop();
@@ -107,17 +109,17 @@ let containers = {};
 let galleryTranslations = {};
 let page = "gallery";
 
-function loadInfo(jsonFile) {
+function loadInfo(jsonFile, tribe) {
     fetch(jsonFile)
         .then(response => response.json())
         .then(data => {
             containers = data;
-            displayWords(containers);
+            displayWords(containers, tribe);
         })
         .catch(error => console.error("Error loading translations:", error));
 }
 
-function displayWords(container) {
+function displayWords(container, tribes) {
     const containerCollection = document.getElementById("containerCollection");
     containerCollection.innerHTML = "";
     const backButton = document.createElement("button");
@@ -125,26 +127,31 @@ function displayWords(container) {
     backButton.textContent = galleryTranslations[currentLanguage].back;
     backButton.addEventListener("click", function() {
         fadeOut(heading);
+        fadeOut(subheading);
         fadeOut(containerCollection);
         setTimeout(() => {
             scrollToTop();
             fadeIn(heading, "block");
-            fadeIn(paragraph, "block");
+            fadeIn(subheading, "block");
             fadeIn(mainButtons, "flex");
             page = "gallery";
+            //containerElement.style.height = '200px';
             updateContentGallery();
         }, 500);
     });
     containerCollection.appendChild(backButton);
     container.forEach(con => {
-        const containerElement = createContainerElement(con);
+        const containerElement = createContainerElement(con, tribes);
         containerCollection.appendChild(containerElement);
     });
 }
 
-function createContainerElement(containers) {
+function createContainerElement(containers, tribes) {
     const container = document.createElement("div");
     container.classList.add("container");
+    if (tribes) {
+        container.classList.add("containerTribe");
+    }
     container.addEventListener("click", function() {
         h1.classList.toggle("text-hidden");
         p.classList.toggle("text-hidden");
@@ -199,8 +206,6 @@ fetch("../*/translations/gallery.json")
     .catch(error => console.error("Error loading translations:", error));
 
 function updateContentGallery() {
-    const h1 = document.getElementById("heading");
-    const p = document.getElementById("paragraph");
     const rp = document.getElementById("recreationalPlaces");
     const hp = document.getElementById("historicalPlaces");
     const IF = document.getElementById("influentialFigures");
@@ -209,8 +214,9 @@ function updateContentGallery() {
     const i3 = document.getElementById("i3");
     const tribes = document.getElementById("tribes");
     const footer = document.getElementById("footer");
-    h1.textContent = galleryTranslations[currentLanguage].heading[page];
-    p.textContent = galleryTranslations[currentLanguage].paragraph;
+
+    heading.textContent = galleryTranslations[currentLanguage].heading[page];
+    subheading.textContent = galleryTranslations[currentLanguage].subheading[page];
     rp.textContent = galleryTranslations[currentLanguage].heading["recreational"];
     hp.textContent = galleryTranslations[currentLanguage].heading["historical"];
     IF.textContent = galleryTranslations[currentLanguage].heading["influential"];

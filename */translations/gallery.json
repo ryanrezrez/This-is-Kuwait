@@ -11,7 +11,10 @@
             "i2": "National Assembly",
             "i3": "Scientific and cultural figures"
         },
-        "paragraph": "Explore Kuwait's recreational places, historical places, influential figures, and tribes in our Gallery!",
+        "subheading": {
+            "gallery": "Explore Kuwait's recreational places, historical places, influential figures, and tribes in our Gallery!",
+            "tribes": "Historians and genealogists differ in their views on the actual number of tribes in the state of Kuwait, as well as the number of tribes that make up Kuwaiti social fabric. However, public opinion agrees that there are 19 main tribes."
+        },
         "footer": "If you believe there are missing or misleading information, please contact us here: mahmoud.salman@gba.edu.kw",
         "back": "Back",
         "googlemaps": "Open in Google Maps"
@@ -28,10 +31,13 @@
             "i2": "مجلس الأمة",
             "i3": "الشخصيات العلمية والثقافية"
         },
+        "subheading": {
+            "gallery": "استكشف أماكن الترفيه في الكويت، والأماكن التاريخية، والشخصيات المؤثرة، والقبائل في معرضنا",
+            "tribes": "تختلف وجهات نظر علماء التاريخ و الأنساب حول عدد القبائل الحقيقي في دولة الكويت، و كذلك حول عدد القبائل التي تشكل النسيج الاجتماعي الكويتي. إلا أن الرأي العام يتفق على ان هناك 19 قبيلة رئيسية."
+        },
         "i1": "Amirs and Sheikhs of Kuwait",
         "i2": "National Assembly",
         "i3": "Scientific and cultural figures",
-        "paragraph": "استكشف أماكن الترفيه في الكويت، والأماكن التاريخية، والشخصيات المؤثرة، والقبائل في معرضنا",
         "footer": "إذا كانت هناك معلومات مفقودة أو مضللة، يرجى الاتصال بنا mahmoud.salman@gba.edu.kw",
         "back": "خروج",
         "googlemaps": "Google maps افتح في"
