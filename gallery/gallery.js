@@ -232,6 +232,11 @@ function switchLanguageGallery() {
     displayWords(containers);
 }
 
+function showRefrences() {
+    const refrences = document.getElementById("refrences");
+    refrences.style.display = 'block';
+}
+
 function scrollToTop() {
     window.scrollTo({ top: 0 });
 }
