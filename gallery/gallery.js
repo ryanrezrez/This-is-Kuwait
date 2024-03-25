@@ -17,6 +17,7 @@ $(document).ready(function() {
             fadeIn(containerCollection, "flex");
             page = "recreational";
             updateContentGallery();
+            hideRefrences();
         }, 500);
     });
 
@@ -31,6 +32,7 @@ $(document).ready(function() {
             fadeIn(containerCollection, "flex");
             page = "historical";
             updateContentGallery();
+            hideRefrences();
         }, 500);
     });
 
@@ -44,6 +46,7 @@ $(document).ready(function() {
             fadeIn(influentialButtons, "flex");
             page = "influential";
             updateContentGallery();
+            hideRefrences();
         }, 500);
     });
 
@@ -59,6 +62,7 @@ $(document).ready(function() {
             fadeIn(containerCollection, "flex");
             page = "tribes";
             updateContentGallery();
+            hideRefrences();
         }, 500);
     });
 
@@ -73,6 +77,7 @@ $(document).ready(function() {
             fadeIn(containerCollection, "flex");
             page = "i1";
             updateContentGallery();
+            hideRefrences();
         }, 500);
     });
 
@@ -87,6 +92,7 @@ $(document).ready(function() {
             fadeIn(containerCollection, "flex");
             page = "i2";
             updateContentGallery();
+            hideRefrences();
         }, 500);
     });
 
@@ -101,6 +107,7 @@ $(document).ready(function() {
             fadeIn(containerCollection, "flex");
             page = "i3";
             updateContentGallery();
+            hideRefrences();
         }, 500);
     });
 });
@@ -151,11 +158,12 @@ function createContainerElement(containers, tribes) {
     container.classList.add("container");
     if (tribes) {
         container.classList.add("containerTribe");
-    }
-    container.addEventListener("click", function() {
-        h1.classList.toggle("text-hidden");
-        p.classList.toggle("text-hidden");
-    });
+    } else {
+        container.addEventListener("click", function() {
+            h1.classList.toggle("text-hidden");
+            p.classList.toggle("text-hidden");
+        });
+    }   
     if (currentLanguage === "en") {
         container.style.direction = "ltr";
     } else {
@@ -229,12 +237,17 @@ function updateContentGallery() {
 
 function switchLanguageGallery() {
     updateContentGallery();
-    displayWords(containers);
+    displayWords(containers, page === "tribes");
 }
 
 function showRefrences() {
     const refrences = document.getElementById("refrences");
     refrences.style.display = 'block';
+    window.scrollTo(0, document.body.scrollHeight);
+}
+function hideRefrences() {
+    const refrences = document.getElementById("refrences");
+    refrences.style.display = 'none';
 }
 
 function scrollToTop() {
