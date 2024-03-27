@@ -37,18 +37,6 @@
         },
         {
             "en": {
-                "h1": "Hayat Al Fahad",
-                "p": "Hayat Al Fahad, a prominent Kuwaiti actress, made lasting contributions. Her performances captivated audiences and showcased Kuwait's cultural richness. Beyond acting, her philanthropy improves education and supports underprivileged communities."
-            },
-            "ar": {
-                "h1": "حياة الفهد",
-                "p": "حياة الفهد، ممثلة كويتية بارزة، قدمت إسهامات دائمة. أدوارها أسرت الجماهير وعرضت ثراء الثقافة الكويتية. خارج التمثيل، عطاءها الخيري يحسن التعليم ويدعم المجتمعات المحرومة."
-            },
-            "img": "url('../gallery/Images/Figures/scientific/hayatalfahad.jpg') center/cover",
-            "googleMaps": "false"
-        },
-        {
-            "en": {
                 "h1": "Jassem Al-Mutawa",
                 "p": "Jassem Al-Mutawa played a pivotal role as a Kuwaiti resistance leader during the Iraqi invasion in 1990, contributing significantly to Kuwait's eventual liberation."
             },
