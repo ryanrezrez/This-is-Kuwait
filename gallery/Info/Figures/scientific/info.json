@@ -10,43 +10,5 @@
         },
         "img": "url('../gallery/Images/Figures/scientific/salehajeery.jpg') center/cover",
         "googleMaps": "false"
-    },
-        {
-            "en": {
-                "h1": "Saleh Al Mulla",
-                "p": "Saleh Al Mulla's influence on Kuwait is undeniable. As the Chairman of the Al Mulla Group, he shaped the country's business landscape. The conglomerate, under his leadership, spans automotive, engineering, healthcare, and real estate sectors. His vision and decisions inspire others. His philanthropy supports education, healthcare, and social welfare programs."
-            },
-            "ar": {
-                "h1": "صالح الملا",
-                "p": "تأثير صالح الملا على الكويت لا يمكن إنكاره. بصفته رئيس مجموعة الملا، شكل مشهد الأعمال في البلاد. المجموعة، تحت قيادته، تشمل قطاعات السيارات والهندسة والرعاية الصحية والعقارات. رؤيته وقراراته تلهم الآخرين. إن الأعمال الخيرية التي يقوم بها تدعم التعليم والرعاية الصحية وبرامج الرعاية الاجتماعية."
-            },
-            "img": "url('../gallery/Images/Figures/scientific/salehalmulla.jpg') center/cover",
-            "googleMaps": "false"
-        },
-        {
-            "en": {
-                "h1": "Ahmed Zaid Alsarhan",
-                "p": "Ahmed Zaid Alsarhan has left a significant mark on Kuwait. As an entrepreneur, he shaped the economy, fostered innovation, and created jobs. His ventures positioned Kuwait as a hub for commerce and investment. Beyond business, his philanthropy addresses social issues, benefiting marginalized communities."
-            },
-            "ar": {
-                "h1": "أحمد زيد السرحان",
-                "p": "ترك أحمد زيد السرحان بصمة كبيرة على الكويت. بصفته رائد أعمال، شكل الاقتصاد، وشجع الابتكار، وخلق فرص عمل. جعلت مشاريعه الكويت مركزًا للتجارة والاستثمار. وبعيدًا عن الأعمال، يتناول عطاءه الخيري قضايا اجتماعية، مستفيدًا المجتمعات المهمشة."
-            },
-            "img": "url('../gallery/Images/Figures/scientific/ahmedzaid.jpg') center/cover",
-            "googleMaps": "false"
-        },
-        {
-            "en": {
-                "h1": "Jassem Al-Mutawa",
-                "p": "Jassem Al-Mutawa played a pivotal role as a Kuwaiti resistance leader during the Iraqi invasion in 1990, contributing significantly to Kuwait's eventual liberation."
-            },
-            "ar": {
-                "h1": "جاسم المطوع",
-                "p": "لعب جاسم المطوع دورًا حيويًا كزعيم للمقاومة الكويتية خلال غزو العراق في عام 1990، مساهمًا بشكل كبير في تحرير الكويت."
-            },
-            "img": "url('../gallery/Images/Figures/scientific/jassemalmutawa.jpg') center/cover",
-            "googleMaps": "false"
-        }
-    
-
+    }
 ]

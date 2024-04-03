@@ -154,14 +154,24 @@ function displayWords(container, tribes) {
 }
 
 function createContainerElement(containers, tribes) {
+    const mapButton = document.createElement("button");
     const container = document.createElement("div");
+    const p = document.createElement("p");
     container.classList.add("container");
     if (tribes) {
         container.classList.add("containerTribe");
+        p.style.display = 'block';
     } else {
         container.addEventListener("click", function() {
-            h1.classList.toggle("text-hidden");
-            p.classList.toggle("text-hidden");
+            if (container.style.height === '700px') {
+                container.style.height = '200px';
+                p.style.display = 'none';
+                mapButton.style.display = 'none';
+            } else {
+                container.style.height = '700px';
+                p.style.display = 'block';
+                mapButton.style.display = 'block';
+            }
         });
     }   
     if (currentLanguage === "en") {
@@ -173,11 +183,10 @@ function createContainerElement(containers, tribes) {
     const h1 = document.createElement("h1");
     h1.textContent = containers[currentLanguage].h1;
     container.appendChild(h1);
-    const p = document.createElement("p");
-    p.textContent = containers[currentLanguage].p;
+    const changedString = containers[currentLanguage].p.replace(/\n/g, '<br>');
+    p.innerHTML = changedString;
     container.appendChild(p);
     if (containers.googleMaps === "true") {
-        const mapButton = document.createElement("button");
         mapButton.textContent = galleryTranslations[currentLanguage].googlemaps;
         mapButton.classList.add("googleMaps");
         container.appendChild(mapButton);

@@ -6,7 +6,7 @@
     },
     "ar": {
       "h1": "الدواسر",
-      "p": "السكان التقريبي: 14,000."
+      "p": "العدد التقريبي: 14,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -18,7 +18,7 @@
     },
     "ar": {
       "h1": "الرشايدة",
-      "p": "السكان التقريبي: 90,000."
+      "p": "العدد التقريبي: 90,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -30,7 +30,7 @@
     },
     "ar": {
       "h1": "السهول",
-      "p": "السكان التقريبي: 4,000."
+      "p": "العدد التقريبي: 4,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -42,7 +42,7 @@
     },
     "ar": {
       "h1": "الظفير",
-      "p": "السكان التقريبي: 43,000."
+      "p": "العدد التقريبي: 43,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -54,7 +54,7 @@
     },
     "ar": {
       "h1": "العجمان",
-      "p": "السكان التقريبي: 128,000."
+      "p": "العدد التقريبي: 128,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -66,7 +66,7 @@
     },
     "ar": {
       "h1": "العوازم",
-      "p": "السكان التقريبي: 189,000."
+      "p": "العدد التقريبي: 189,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -78,7 +78,7 @@
     },
     "ar": {
       "h1": "الفضول",
-      "p": "السكان التقريبي: 31,000."
+      "p": "العدد التقريبي: 31,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -90,7 +90,7 @@
     },
     "ar": {
       "h1": "تميم",
-      "p": "السكان التقريبي: 229,000."
+      "p": "العدد التقريبي: 229,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -102,7 +102,7 @@
     },
     "ar": {
       "h1": "حرب", 
-      "p": "السكان التقريبي: 7,000."
+      "p": "العدد التقريبي: 7,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -114,7 +114,7 @@
     },
     "ar": {
       "h1": "خالد",
-      "p": "السكان التقريبي: 36,000."  
+      "p": "العدد التقريبي: 36,000."  
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -126,7 +126,7 @@
     },
     "ar": {
       "h1": "سبيع",
-      "p": "السكان التقريبي: 6,000."
+      "p": "العدد التقريبي: 6,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -138,7 +138,7 @@
     },
     "ar": {
       "h1": "شمّر",
-      "p": "السكان التقريبي: 79,000."
+      "p": "العدد التقريبي: 79,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover", 
     "googleMaps": "false"
@@ -150,7 +150,7 @@
     },
     "ar": {
       "h1": "عتيبة",
-      "p": "السكان التقريبي: 56,000."
+      "p": "العدد التقريبي: 56,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -162,7 +162,7 @@
     },
     "ar": {
       "h1": "عدوان",
-      "p": "السكان التقريبي: 8,000."
+      "p": "العدد التقريبي: 8,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -174,7 +174,7 @@
     },
     "ar": {
       "h1": "عنزة",
-      "p": "السكان التقريبي: 20,500."
+      "p": "العدد التقريبي: 20,500."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -186,7 +186,7 @@
     },
     "ar": {
       "h1": "غانم",
-      "p": "السكان التقريبي: 20,500." 
+      "p": "العدد التقريبي: 20,500." 
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -198,7 +198,7 @@
     },
     "ar": {
       "h1": "قحطان",
-      "p": "السكان التقريبي: 229,000."
+      "p": "العدد التقريبي: 229,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -210,7 +210,7 @@
     },
     "ar": {
       "h1": "مطير",
-      "p": "السكان التقريبي: 229,000."
+      "p": "العدد التقريبي: 229,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -222,7 +222,7 @@
     },
     "ar": {
       "h1": "هاجر",
-      "p": "السكان التقريبي: 128,000."
+      "p": "العدد التقريبي: 128,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
