@@ -223,12 +223,11 @@ body {
     height: auto;
 	margin-bottom: 10px;
 	border-radius: 5px;
-	
 }
 
 .image-item .qoute {
 	opacity: 0;
-  	transition: opacity 1s ease;
+  	transition:  1s ease;
 }
 
 .aboutSponsors {

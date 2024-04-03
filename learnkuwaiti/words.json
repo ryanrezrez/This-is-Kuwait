@@ -7,7 +7,7 @@
     },
     {
         "en": "Is there",
-        "ar": "يوجد",
+        "ar": "يوجد/في",
         "kw": "اكو",
         "src": "Audio/اكو.mp3"
     },
@@ -38,7 +38,7 @@
     {
         "en": "Close",
         "ar": "اغلق",
-        "kw": "صكر",
+        "kw": "صكر/سكر",
         "src": "Audio/صكر.mp3"
     },
     {
@@ -1033,7 +1033,7 @@
     },
     {
         "en": "U-turn",
-        "ar": "انعطاف شرير",
+        "ar": "انعطاف فوري",
         "kw": "فوق تحت",
         "src": "Audio/Phrases/Record (online-voice-recorder.com) (18).mp3"
     },
