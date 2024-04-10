@@ -8,7 +8,7 @@
             "h1": "مشعل الأحمد الجابر الصباح",
             "p": "٢٠٢٣-الحاضر"
         },
-        "img": "url('../gallery/Images/Figures/amirs/mishalalahmad.jpg') center/cover",
+        "img": "url('../gallery/Images/Figures/amirs/mishalalahmad.jpg') top 30% left/cover",
         "googleMaps": "false"
     },
     {
@@ -20,7 +20,7 @@
             "h1": "نواف الأحمد الجابر الصباح",
             "p": "٢٠٢٠-٢٠٢٣"
         },
-        "img": "url('../gallery/Images/Figures/amirs/nawafalahmad.jpg') center/cover",
+        "img": "url('../gallery/Images/Figures/amirs/nawafalahmad.jpg') top 30% left/cover",
         "googleMaps": "false"
     },
     {
@@ -32,7 +32,7 @@
             "h1": "صباح الأحمد الجابر الصباح",
             "p": "٢٠٠٦–٢٠٢٠"
         },
-        "img": "url('../gallery/Images/Figures/amirs/sabahalahmad.jpg') center/cover",
+        "img": "url('../gallery/Images/Figures/amirs/sabahalahmad.jpg') top 30% left/cover",
         "googleMaps": "false"
     },
     {
@@ -44,7 +44,7 @@
             "h1": "سعد العبدالله السالم الصباح",
             "p": "٢٠٠٦-٢٠٠٦"
         },
-        "img": "url('../gallery/Images/Figures/amirs/saadalahmad.jpg') center/cover",
+        "img": "url('../gallery/Images/Figures/amirs/saadalahmad.jpg') top 30% left/cover",
         "googleMaps": "false"
     },
     {
@@ -56,7 +56,7 @@
             "h1": "جابر الأحمد الصباح",
             "p": "١٩٧٧–٢٠٠٦"
         },
-        "img": "url('../gallery/Images/Figures/amirs/jaberalahmad.jpg') center/cover",
+        "img": "url('../gallery/Images/Figures/amirs/jaberalahmad.jpg') top 30% left/cover",
         "googleMaps": "false"
     },
     {
@@ -68,7 +68,7 @@
             "h1": "صباح السالم الصباح",
             "p": "١٩٦٥–١٩٧٧"
         },
-        "img": "url('../gallery/Images/Figures/amirs/sabahalsalim.jpg') center/cover",
+        "img": "url('../gallery/Images/Figures/amirs/sabahalsalim.jpg') top 30% left/cover",
         "googleMaps": "false"
     },
     {
@@ -92,7 +92,7 @@
             "h1": "أحمد الجابر الصباح",
             "p": "١٩٢١–١٩٥٠"
         },
-        "img": "url('../gallery/Images/Figures/amirs/ahmadaljabir.jpg') center/cover",
+        "img": "url('../gallery/Images/Figures/amirs/ahmadaljabir.jpg') top 30% left/cover",
         "googleMaps": "false"
     },
     {
@@ -116,7 +116,7 @@
             "h1": "جابر الثاني الصباح",
             "p": "١٩١٥–١٩١٧"
         },
-        "img": "url('../gallery/Images/Figures/amirs/jaberIIbinsabah.jpg') center/cover",
+        "img": "url('../gallery/Images/Figures/amirs/jaberIIbinsabah.jpg') top 30% left/cover",
         "googleMaps": "false"
     },
     {
@@ -128,7 +128,7 @@
             "h1": "مبارك بن صباح بن جابر الصباح (مبارك الكبير)",
             "p": "١٨٩٦-١٩١٥"
         },
-        "img": "url('../gallery/Images/Figures/amirs/mubarakbinsabah.jpg') center/cover",
+        "img": "url('../gallery/Images/Figures/amirs/mubarakbinsabah.jpg') top 10% left/cover",
         "googleMaps": "false"
     },
     {

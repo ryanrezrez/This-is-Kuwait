@@ -155,8 +155,10 @@ function displayWords(container, tribes) {
 
 function createContainerElement(containers, tribes) {
     const mapButton = document.createElement("button");
+    const refrenceButton = document.createElement("button");
     const container = document.createElement("div");
     const p = document.createElement("p");
+    const info = document.createElement('p');
     container.classList.add("container");
     if (tribes) {
         container.classList.add("containerTribe");
@@ -165,12 +167,18 @@ function createContainerElement(containers, tribes) {
         container.addEventListener("click", function() {
             if (container.style.height === '700px') {
                 container.style.height = '200px';
+                container.style.background = containers.img;
                 p.style.display = 'none';
+                info.style.display = 'none';
                 mapButton.style.display = 'none';
+                refrenceButton.style.display = 'none';
             } else {
                 container.style.height = '700px';
+                container.style.backgroundPosition = 'center';
+                p.style.display = 'block';
                 p.style.display = 'block';
                 mapButton.style.display = 'block';
+                refrenceButton.style.display = 'block';
             }
         });
     }   
@@ -185,16 +193,39 @@ function createContainerElement(containers, tribes) {
     container.appendChild(h1);
     const changedString = containers[currentLanguage].p.replace(/\n/g, '<br>');
     p.innerHTML = changedString;
+    p.addEventListener('click', function() {
+        event.stopPropagation();
+    });
     container.appendChild(p);
     if (containers.googleMaps === "true") {
         mapButton.textContent = galleryTranslations[currentLanguage].googlemaps;
         mapButton.classList.add("googleMaps");
         container.appendChild(mapButton);
         mapButton.addEventListener("click", function() {
+            event.stopPropagation();
             var latitude = containers.latitude;
             var longitude = containers.longitude;
             var mapsUrl = "https://www.google.com/maps?q=" + latitude + "," + longitude;
             window.open(mapsUrl, "_blank");
+        });
+    }
+    if (containers.refrence === "true") {
+        info.innerHTML = containers.refrences.replace(/\n/g, '<br>');
+        info.style.display = 'none';
+        info.style.direction = 'ltr';
+
+        refrenceButton.textContent = galleryTranslations[currentLanguage].refrences;
+        refrenceButton.classList.add("googleMaps");
+        container.appendChild(info);
+        container.appendChild(refrenceButton);
+
+        refrenceButton.addEventListener("click", function() {
+            event.stopPropagation();
+            info.style.display = 'block';
+        });
+
+        info.addEventListener("click", function() {
+            event.stopPropagation();
         });
     }
     return container;
@@ -231,6 +262,7 @@ function updateContentGallery() {
     const i3 = document.getElementById("i3");
     const tribes = document.getElementById("tribes");
     const footer = document.getElementById("footer");
+    const refrenceButton = document.getElementById("refrenceButton");
 
     heading.textContent = galleryTranslations[currentLanguage].heading[page];
     subheading.textContent = galleryTranslations[currentLanguage].subheading[page];
@@ -242,6 +274,7 @@ function updateContentGallery() {
     i3.textContent = galleryTranslations[currentLanguage].heading["i3"];
     tribes.textContent = galleryTranslations[currentLanguage].heading["tribes"];
     footer.textContent = galleryTranslations[currentLanguage].footer;
+    refrenceButton.textContent = galleryTranslations[currentLanguage].refrences;
 }
 
 function switchLanguageGallery() {

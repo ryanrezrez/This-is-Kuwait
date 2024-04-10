@@ -207,7 +207,7 @@ body {
   	left: 0;
   	right: 0;
   	bottom: 0;
-  	background: url('../gallery/Images/Figures/scientific/salehajeery.jpg') center/cover; /* Replace 'your-image.jpg' with your image URL */
+  	background: url('../gallery/Images/Figures/scientific/صالح الاعجيري.jpg') center/cover; /* Replace 'your-image.jpg' with your image URL */
   	z-index: -1;
   	transition: transform 0.3s ease-in-out;
 }
@@ -297,10 +297,6 @@ p {
 
 .container:hover {
 	transform: scale(1.1);
-}
-
-@keyframes enlarge {
-
 }
 
 .container h1 {

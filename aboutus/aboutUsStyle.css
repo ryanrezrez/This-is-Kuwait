@@ -197,7 +197,6 @@ body {
 	width: 100%;
 	margin: 0 auto;
 	margin-top: 50px;
-	transition: transform 0.3s ease-in-out;
 }
 
 .image-item {
@@ -211,7 +210,8 @@ body {
 	background-color: rgba(0, 0, 0, 0.1);
 	padding: 10px 10px;
 	border-radius: 5px;
-	transition: transform 0.3s ease-in-out;
+
+	overflow: hidden;
 }
 
 .image-item:hover {
@@ -225,9 +225,18 @@ body {
 	border-radius: 5px;
 }
 
+@keyframes fadeInAnimation {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
 .image-item .qoute {
-	opacity: 0;
-  	transition:  1s ease;
+	display: none;
+	animation: fadeInAnimation 1s forwards;
 }
 
 .aboutSponsors {

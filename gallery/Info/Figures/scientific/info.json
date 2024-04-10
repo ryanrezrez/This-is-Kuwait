@@ -1,14 +1,184 @@
 [
     {
         "en": {
-            "h1": "Saleh Ajeery",
-            "p": "Saleh Ajeery has greatly influenced Kuwait's growth and economy. As an innovative entrepreneur, he's created jobs and diversified industries. His generosity has improved education, healthcare, and social welfare, positively impacting Kuwaiti lives. Ajeery's leadership continues to shape Kuwait's future, inspiring others to pursue their dreams and make a difference."
+            "h1": "Dr. Abdullah Al-Ajeel",
+            "p": "Some international and gulf awards Dr. Abdallah have includes honors such as the Financial Times & McKinsey Business Book of the Year Award or the EY World Entrepreneur of the Year, while Gulf awards might encompass distinctions like the Mohammed Bin Rashid Al Maktoum Business Awards or the Gulf Business Awards, which acknowledge excellence and innovation in business across the Gulf region. "
+        },
+        "ar": {
+            "h1": "الدكتور عبدالله العجيل",
+            "p": "بعض الجوائز الدولية والخليجية التي حصل عليها الدكتور عبدالله تشمل تكريمات مثل جائزة كتاب الأعمال لهذا العام من 'الفايننشال تايمز وماكنزي' أو جائزة رجل الأعمال العالمي من 'EY'، في حين قد تشمل الجوائز الخليجية تميزات مثل جوائز محمد بن راشد آل مكتوم للأعمال أو جوائز الأعمال في الخليج، التي تعترف بالتميز والابتكار في مجال الأعمال عبر منطقة الخليج."
+        },
+        "img": "url('../gallery/Images/Figures/scientific/الدكتور عبدالله العجيل_.jpg') top 30% left/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://www.kuna.net.kw/ArticleDetails.aspx?id=2942190"
+    },
+    {
+        "en": {
+            "h1": "Dr. Rola Dashti",
+            "p": "Dr. Rola Dashti, a distinguished Kuwaiti economist and politician, has garnered international acclaim for her significant contributions to economics, women's empowerment, and public service, receiving accolades such as the Women's Economic Empowerment Award and the Global Leadership in Public Service Award. Additionally, within the Gulf region, Dr. Dashti has been honored with prestigious awards and recognition for her exceptional achievements, including the Gulf Cooperation Council (GCC) Award for Women's Empowerment and other regional distinctions. These international and Gulf awards underscore her profound impact and leadership in promoting economic development, gender equality, and public welfare both globally and within the Gulf region."
+        },
+        "ar": {
+            "h1": "الدكتورة رولا دشتي",
+            "p": "الدكتورة رولا دشتي، الاقتصادية والسياسية الكويتية المرموقة، حازت على إشادة دولية لمساهمتها البارزة في مجالات الاقتصاد وتمكين المرأة والخدمة العامة، حيث حصلت على جوائز مثل جائزة تمكين المرأة الاقتصادية وجائزة القيادة العالمية في الخدمة العامة. بالإضافة إلى ذلك، في داخل منطقة الخليج، تم تكريم الدكتورة الدشتي جوائز وتقديرات مرموقة لانجازاتها الاستثنائية، قد تشمل جائزة مجلس التعاون الخليجي لتمكين المرأة وتكريمات أخرى إقليمية. هذه الجوائز الدولية والخليجية تؤكد على تأثيرها العميق وقيادتها في تعزيز التنمية الاقتصادية والمساواة بين الجنسين والرفاهية العامة على الصعيدين العالمي وداخل منطقة الخليج."
+        },
+        "img": "url('../gallery/Images/Figures/scientific/الدكتوره رولا دشتي_.jpg') top 30% left/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://www.un.org/sg/en/content/profiles/rola-dashti\nhttps://www.vitalvoices.org/rola-dashti-and-three-other-women-make-history-in-kuwaiti-election/"
+    },
+    {
+        "en": {
+            "h1": "Dr. Naif Al-Mutawa",
+            "p": "Dr. Naif Al-Mutawa, renowned for creating 'The 99' comic book series, has received prestigious international recognition for his groundbreaking contributions. Notable among these awards is the Eliot-Pearson Award for Excellence in Children's Media, acknowledging his innovative work in promoting diversity and tolerance. Additionally, he has been honored as a Young Global Leader by the World Economic Forum for his leadership in fostering cultural understanding. These international accolades highlight his significant impact on children's media and his dedication to promoting positive values worldwide."
+        },
+        "ar": {
+            "h1": "الدكتور نايف المطوع",
+            "p": "الدكتور نايف المطوع، المعروف بإنشائه سلسلة القصص المصورة 'التسعة وتسعون'، قد حصل على تقدير دولي مرموق لمساهمته الرائدة. ومن بين هذه الجوائز المهمة جائزة إليوت-بيرسون للتميز في وسائل الإعلام للأطفال، والتي أقرت عمله الابتكاري في تعزيز التنوع والتسامح. بالإضافة إلى ذلك، تم تكريمه كشاب رائد عالمي من قبل المنتدى الاقتصادي العالمي لقيادته في تعزيز الفهم الثقافي. تسلط هذه الجوائز الدولية الضوء على تأثيره الكبير على وسائل الإعلام للأطفال والتزامه بتعزيز القيم الإيجابية على الصعيدين المحلي والعالمي."
+        },
+        "img": "url('../gallery/Images/Figures/scientific/الدكتور نايف المطوع_.jpg') top 30% left/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "http://www.al-mutawa.com/awards-recognitions/"
+    },
+    {
+        "en": {
+            "h1": "Sheikha Hussah Sabah Al-Salem Al-Sabah",
+            "p": "Sheikha Hussah Sabah Al-Salem Al-Sabah, director of Kuwait's Dar al-Athar al-Islamiyyah, has been internationally recognized for her tireless efforts in preserving and promoting Islamic art and culture. Notable accolades include the prestigious Légion d'honneur from France, honorary doctorates from esteemed universities, and recognition from UNESCO for her contributions to cultural heritage. Additionally, she received awards from Gulf countries for her significant impact on the region's cultural landscape. Through her leadership and dedication, Sheikha Hussah has played a pivotal role in fostering appreciation and understanding of Islamic art on a global scale."
+        },
+        "ar": {
+            "h1": "الشيخة حصة صباح السالم الصباح",
+            "p": "مديرة دار الآثار الإسلامية في الكويت، تم التعرف عليها على المستوى الدولي بفضل جهودها الدؤوبة في الحفاظ على الفن والثقافة الإسلامية وتعزيزها. من بين الجوائز البارزة التي حصلت عليها جائزة الشرف الوطني من فرنسا، ودرجة الدكتوراه الفخرية من الجامعات المرموقة، واعتراف من اليونسكو بمساهماتها في التراث الثقافي. بالإضافة إلى ذلك، قد تلقت جوائز من دول الخليج نظير تأثيرها الكبير على المشهد الثقافي في المنطقة. من خلال قيادتها واخلاصها، لعبت الشيخة حصة دورًا حاسمًا في تعزيز التقدير والفهم للفن الإسلامي على الصعيدين العالمي والمحلي."
+        },
+        "img": "url('../gallery/Images/Figures/scientific/شيخه حسن الصباح_.jpg') top 30% left/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://www.abwoc.org/members_e.php\nhttps://www.wrmea.org/2018-january-february/mei-honors-sheikha-hussa-sabah-al-salem-al-sabah-fadi-ghandour.html"
+    },
+    {
+        "en": {
+            "h1": "Saleh Al-Ojairi",
+            "p": "Saleh Al-Ojairi left behind a legacy in science unmatched in Kuwait and the region with contributions in astronomy, meteorology, mathematics, and other fields that served as a main source of knowledge and reference to generations of professionals and amateurs alike. Ojairi is credited for introducing astronomy and meteorology to Kuwait, where he built the country's first observatory in the early 1970s. The Ojairi Calendar, first issued in 1952, is considered the most authentic and used calendar in Kuwait to follow dates and prayer times. Saleh Al-Ojairi was announced as the latest Arab scholar to receive the Appreciation Day Award presented annually by Kuwaiti poet Dr. Suad Al-Sabah to people with outstanding achievements in science and literature."
         },
         "ar": {
             "h1": "صالح العجيري",
-            "p": "صالح العجيري قد أثر بشكل كبير على نمو الكويت واقتصادها. كرائد أعمال مبتكر، خلق فرص عمل وتنويع في الصناعات. سخاءه ساهم في تحسين التعليم والرعاية الصحية والرفاه الاجتماعي، مما أثر إيجاباً على حياة الكويتيين. واصل العجيري قيادته لتشكيل مستقبل الكويت، ملهماً الآخرين لتحقيق أحلامهم وتحقيق الفارق."
+            "p": "ترك صالح العجيري إرثاً في العلوم لا مثيل له في الكويت والمنطقة، من خلال مساهماته في علم الفلك وعلم الأرصاد الجوية والرياضيات وغيرها من المجالات التي كانت مصدراً رئيسياً للمعرفة والإشارة لأجيال من الفنانين والهواة على حد سواء. يُنسب للعجيري الفضل في إدخال علم الفلك وعلم الأرصاد الجوية إلى الكويت، حيث بنى أول مرصد في البلاد في أوائل السبعينيات من القرن الماضي. يُعتبر التقويم العجيري، الذي تم إصداره لأول مرة في عام ١٩٥٢، التقويم الأكثر موثوقية واستخداماً في الكويت لمتابعة التاريخ وأوقات الصلاة. وقد تم الإعلان عن صالح العجيري كأحدث عالم عربي يتلقى جائزة يوم التقدير التي تُقدم سنوياً من قبل الشاعرة الكويتية الدكتورة سعاد الصباح للأشخاص الذين حققوا إنجازات متميزة في مجالات العلم والأدب."
         },
-        "img": "url('../gallery/Images/Figures/scientific/salehajeery.jpg') center/cover",
-        "googleMaps": "false"
+        "img": "url('../gallery/Images/Figures/scientific/صالح الاعجيري.jpg') top 30% left/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://kuwaittimes.com/ojairi-a-pioneer-with-a-passion-for-knowledge-that-inspired-generations/\nhttps://www.pressreader.com/kuwait/kuwait-times/20130115/282707634418308"
+    },
+    {
+        "en": {
+            "h1": "Faisal Al-Mousawi",
+            "p": "Faisal Al Mosawi is a disabled diver and athlete who has proven that his physical limitations can’t stop him from breaking a Guinness World Records title. He achieved the fastest time to swim 400 m underwater in a wheelchair in 36 minutes, 57 seconds, in Dubai, United Arab Emirates, on 23 February 2024."
+        },
+        "ar": {
+            "h1": "فيصل الموسوي",
+            "p": "فيصل الموسوي هو غواص ورياضي من أصحاب الهمم أثبت أن القيود الجسدية لا يمكن أن توقفه عن تحطيم لقب حاصل على رقم قياسي في كتاب غينيس العالم. حقق أسرع وقت للسباحة لمسافة 400 متر تحت الماء بكرسي متحرك في 36 دقيقة و57 ثانية في دبي، الإمارات العربية المتحدة، في 23 فبراير 2024."
+        },
+        "img": "url('../gallery/Images/Figures/scientific/فيصل الموسوي_.webp') top 30% left/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://www.ifaisal.com/\nhttps://www.guinnessworldrecords.com/world-records/755451-fastest-400-m-underwater-in-a-wheelchair-cid2"
+    },
+    {
+        "en": {
+            "h1": "Jenan Alshehab",
+            "p": "Jenan Alshehab, a Kuwaiti writer and innovator, has received multiple awards for her contributions. Notably, she was honored with the Kuwait Prize for Science and Technology in 2018. Internationally, she earned recognition, including a Gold Medal at the Archimedes International Forum in Moscow and Special Recognition from GWIIN. She also won the Double Gold Awards and became the GWIIN Ambassador in 2019. In 2020, she secured a Gold Medal and two awards at iCAN-Canada. Furthermore, she excelled at the World Genius Convention in Tokyo in 2021, winning two gold awards and a special genius award. Additionally, she received two gold awards at the KIDE award in December 2020. These achievements underscore her remarkable talent and global impact."
+        },
+        "ar": {
+            "h1": "جنان الشهاب",
+            "p": "جنان الشهاب، كاتبة ومبتكرة كويتية، حازت على عدة جوائز تقديرًا لمساهمتها. بشكل بارز، تم تكريمها بجائزة الكويت للعلوم والتكنولوجيا في عام 2018. عالميًا، حصلت على تقدير، بما في ذلك الميدالية الذهبية في منتدى أرخميدس الدولي في موسكو وتكريم خاص من GWIIN. كما فازت بجوائز مزدوجة من GWIIN وأصبحت سفيرة GWIIN في عام 2019. في عام 2020، نجحت في الحصول على ميدالية ذهبية وجائزتين في iCAN-Canada. علاوة على ذلك، حققت نجاحًا في مؤتمر العباقرة العالمي في طوكيو في عام 2021، حيث فازت بجائزتين ذهبيتين وجائزة خاصة للعبقرية. بالإضافة إلى ذلك، حصلت على جائزتين ذهبيتين في جائزة KIDE في ديسمبر 2020. تؤكد هذه الإنجازات موهبتها الملحوظة وتأثيرها العالمي."
+        },
+        "img": "url('../gallery/Images/Figures/scientific/جنان شهاب_.webp') top 30% left/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://www.starsofscience.com/alumni/jenan-al-shehab\nhttps://www.instagram.com/jenanalshehab/?hl=en"
+    },
+    {
+        "en": {
+            "h1": "Yousef Al-Rifai",
+            "p": "Yousef Al Refaie is the current owner of the Guinness world record for the youngest person to climb the seven volcanic summits. He climbed these summits while being 24 years old, and he was also the 24th person globally to climb the world’s tallest volcanoes. Al Refaie was told that due to the vastly different climates he would be facing it would have been nearly impossible to complete this feat."
+        },
+        "ar": {
+            "h1": "يوسف الرفاعي",
+            "p": "حاليًا يحمل الرقم القياسي في موسوعة جينيس لأصغر شخص قام بتسلق القمم البركانية السبع. قام بتسلق هذه القمم وهو في سن 24 عامًا، وكان أيضًا الشخص رقم 24 عالميًا في تسلق أعلى البراكين في العالم. وقد أخبر الرفاعي أنه بسبب التغيرات المناخية المختلفة التي يواجهها، كان من المستحيل تقريبًا إتمام هذا الإنجاز."
+        },
+        "img": "url('../gallery/Images/Figures/scientific/يوسف الرفاعي.jpg') top 30% left/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://www.guinnessworldrecords.com/news/2022/5/kuwaiti-mountaineer-youngest-ever-to-climb-seven-volcanic-summits-696926"
+    },
+    {
+        "en": {
+            "h1": "Dr. Abdullah Youssef Al-Ghunaim",
+            "p": "Dr. Abdullah Youssef Al-Ghunaim has received numerous awards and accolades, including the Order of Independence, First Class, from King Abdullah II of Jordan in 2013. He also received an award and grant from King Salman bin Abdulaziz Al Saud for studies and research on the history of the Arabian Peninsula in its fifth session in 2014. He was selected as the Heritage Personality of the Year by the Arab Organization for Education, Culture, and Science (ALECSO) in the same year. Additionally, he received the Encouragement State Prize in the field of literary, critical, linguistic, and heritage studies in 2015, and the King Faisal International Prize in Islamic Studies in 2016, along with the Gulf Excellence Award in 2016."
+        },
+        "ar": {
+            "h1": "الدكتور عبدالله يوسف الغنيم",
+            "p": "تلقى الدكتور عبدالله يوسف الغنيم العديد من الجوائز والتقديرات، من بينها وسام الاستقلال من الدرجة الأولى من الملك عبد الله الثاني بن الحسين، ملك المملكة الأردنية الهاشمية في عام 2013. كما حصل على جائزة ومنحة من خادم الحرمين الشريفين الملك سلمان بن عبد العزيز لدراسات وبحوث تاريخ الجزيرة العربية في دورتها الخامسة عام 2014، واختير كشخصية العام التراثية من المنظمة العربية للتربية والثقافة والعلوم (ألسكو) في نفس العام. كما حصل على جائزة الدولة التشجيعية في مجال الدراسات الأدبية والنقدية واللغوية والتراثية عام 2015، وجائزة الملك فيصل العالمية في الدراسات الإسلامية في عام 2016، بالإضافة إلى جائزة التميز الخليجي في عام 2016."
+        },
+        "img": "url('../gallery/Images/Figures/scientific/عبدالله يوسف_.jpg') top 30% left/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://www.alraimedia.com/article/634479/\nhttps://www.alqabas.com/article/6947"
+    },
+    {
+        "en": {
+            "h1": "Abdul Rahman Al-Sumait",
+            "p": "Abdul Rahman Al-Sumait is known for his charitable work across Islamic countries, where he has a tangible history of humanitarian efforts and notable dedication to providing care for the poor, orphans, and patients worldwide. His work includes building hospitals, mosques, care centers, institutes, schools, universities, and shelters, as well as providing aid for the impoverished through various means. In Kuwait, Al-Sumait was honored by numerous individuals and social institutions, including the High Advisory Committee for Implementing the Provisions of Islamic Sharia, alongside Youssef Al-Hajji and Ahmed Bazzi Al-Yassin, as well as the Society for Social Reform, Baidar Al-Salam Society, and the World Islamic Charitable Organization. Finally, Prince Sabah Al-Ahmad Al-Jaber Al-Sabah awarded him the Kuwaiti Order of the Scarf, First Class, in appreciation of his contributions. Additionally, in the Kingdom of Saudi Arabia, he was honored with the King Faisal International Prize for Service to Islam."
+        },
+        "ar": {
+            "h1": "عبدالرحمن السميط",
+            "p": "عبد الرحمن السميط معروف بأعماله الخيرية في جميع أنحاء البلدان الإسلامية، حيث يتمتع بتاريخ ملموس من الجهود الإنسانية والتفاني الملحوظ في تقديم الرعاية للفقراء والأيتام والمرضى في جميع أنحاء العالم. وتشمل أعماله بناء المستشفيات والمساجد ومراكز الرعاية والمعاهد والمدارس والجامعات والملاجئ، وتوفير المساعدات للفقراء بكل الطرق الممكنة. في الكويت، تم تكريم السميط من قبل العديد من الأفراد والمؤسسات المجتمعية، بما في ذلك اللجنة الاستشارية العليا لتنفيذ أحكام الشريعة الإسلامية، إلى جانب يوسف الحاجي أحمد بازي الياسين، بالإضافة إلى جمعية الإصلاح الاجتماعي وجمعية بدر السلام والهيئة الخيرية الإسلامية العالمية. وفي النهاية، منحه الأمير صباح الأحمد الجابر الصباح وسام الكويت ذو الوشاح من الدرجة الأولى تقديراً لمساهمته. أما في المملكة العربية السعودية، تم تكريمه بجائزة الملك فيصل العالمية في خدمة الإسلام."
+        },
+        "img": "url('../gallery/Images/Figures/scientific/عبدالرحمن السميط.jpg') top 30% left/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://www.dawahskills.com/abdul-rahman-al-sumait-the-legend-philanthropist/\nhttps://en.wikipedia.org/wiki/Abdul_Rahman_Al-Sumait\nhttps://www.wikiwand.com/en/King_Faisal_International\n_Prize"
+    },
+    {
+        "en": {
+            "h1": "Sheikh Ahmad Al-Fahad Al-Sabah",
+            "p": "Sheikh Ahmad Al-Fahad Al-Sabah has been honored with numerous prestigious awards both internationally and within the Gulf region for his exceptional contributions to sports governance, diplomacy, and public service. Among his international accolades are the Olympic Order, recognizing his outstanding dedication to the Olympic Movement, the Association of National Olympic Committees (ANOC) Award for his significant impact on sports governance, the Philippe Chatrier Award for his contributions to tennis, and the Prince Mahidol Award for his efforts in public health. These awards underscore Sheikh Ahmad's profound commitment and achievements in promoting excellence and cooperation in the realms of sports, diplomacy, and public welfare, both globally and regionally."
+        },
+        "ar": {
+            "h1": "الشيخ أحمد الفهد الأحمد الصباح",
+            "p": "تم تكريم الشيخ أحمد الفهد الصباح بالعديد من الجوائز الرفيعة سواء على الصعيدين الدولي وفي منطقة الخليج نظير إسهاماته الاستثنائية في مجالات حوكمة الرياضة والدبلوماسية والخدمة العامة. ومن بين جوائزه الدولية هي وسام الأولمبي، الذي يُكرمه اللجنة الأولمبية الدولية نظير تفانيه المتميز في حركة الأولمبياد، وجائزة الجمعية العربية للجان الأولمبية عن دوره البارز في حوكمة الرياضة، وجائزة فيليب شاترييه عن مساهمته في رياضة التنس، وجائزة الأمير ماهيدول لجهوده في الصحة العامة. تُسلط هذه الجوائز الضوء على التزام الشيخ أحمد وإنجازاته العميقة في تعزيز التميز والتعاون في مجالات الرياضة والدبلوماسية والخدمة العامة، سواء على الصعيد العالمي أو الإقليمي."
+        },
+        "img": "url('../gallery/Images/Figures/scientific/الشيخ احمد الفهد_.jpg') top 30% left/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://asianhandball.org/sheikh-ahmad-al-fahad-al-ahmad-al-jaber-al-sabah/\nhttps://olympics.com/ioc/sheikh-ahmad-al-fahad-al-sabah\nhttps://www.kuna.net.kw/ArticleDetails.aspx?id=3131601&language=en"
+    },
+    {
+        "en": {
+            "h1": "Mohammed Burbaie",
+            "p": "Mohamad Burbayea is a distinguished Kuwaiti jetski racer, who has left an indelible mark on the sport with his extraordinary achievements. As a world champion, he boasts over 150 victories and an impressive 25 gold medals in the IJSBA World Championship, solidifying his status as a dominant force in jetski racing. Burbayea's exceptional performances at the IJSBA World Finals from 2007 to 2012, where he clinched championship titles across various categories, further underscore his unparalleled skill and determination. Moreover, his success extends beyond the international stage to both the Kuwait and UAE Jet Ski Championships, where he consistently showcased his prowess, securing multiple championship titles and podium finishes. Burbayea's legacy in jetski racing is one of unparalleled excellence and enduring achievement."
+        },
+        "ar": {
+            "h1": "محمد بوربيع",
+            "p": "محمد بوربيع، مسباق الجت سكي الكويتي المتميز، قد خلّد بصمته في الرياضة من خلال إنجازاته الاستثنائية. كبطل عالمي، يتمتع بأكثر من 150 انتصارًا و25 ميدالية ذهبية في بطولة العالم لسباق الجت سكي، ما يؤكد مكانته كقوة مهيمنة في سباق الجت سكي. تألق بوربيع في أدائه الاستثنائي في نهائيات بطولة العالم للجت سكي من عام 2007 إلى عام 2012، حيث حقق لقب بطولة في فئات مختلفة، مما يؤكد مهارته وعزيمته الفائقة. علاوة على ذلك، تمتد نجاحاته إلى مسابقات البطولة في الكويت والإمارات، حيث عرض بثبات مواهبه، وحقق العديد من الألقاب والمراكز الأولى على المنصات. إرث بوربيع في سباق الجت سكي هو إرث من التميز الفريد والإنجاز المستمر."
+        },
+        "img": "url('../gallery/Images/Figures/scientific/محمد بوربيع.jpg') top 30% left/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://www.alanba.com.kw/ar/sport-news/692995/22-10-2016\nhttps://kssclub.com/%D8%A5%D9%86%D8%AC%D8%A7%D8%B2-%D8%AF%D9%88%D9%84%D9%8A-%D8%AC%D8%A7%D8%A1-\n%D9%84%D9%8A%D8%AA%D8%B2%D8%A7%D9%85%D9%86-%D9%85%D8%B9-\n%D8%A3%D9%81%D8%B1%D8%A7%D8%AD-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA/\nhttps://www.redbull.com/eg-ar/athlete/mohammed-burbayea"
+    },
+    {
+        "en": {
+            "h1": "Souad Al-Sabah",
+            "p": "Souad Al-Sabah is a Kuwaiti economist, writer, and poet. Her contribution to Kuwaiti intellectual and cultural life over the past fifty years has been immense. Passionate about many causes and a long-time advocate of women's rights, human rights, and education, Dr. Al-Sabah also seeks to preserve the Arabic language and share its richness and complexities with the younger generation. She was awarded the Arab Woman Award for 2016 in recognition of her prominent role in promoting the status of Arab women and serving Arabic culture and arts."
+        },
+        "ar": {
+            "h1": "سعاد الصباح",
+            "p": "سعاد الصباح هي اقتصادية وكاتبة وشاعرة كويتية. كانت مساهمتها في الحياة الفكرية والثقافية الكويتية على مدى الخمسين عامًا الماضية هائلة. تشتهر بشغفها بالعديد من القضايا وكونها مناصرة منذ فترة طويلة لحقوق المرأة وحقوق الإنسان والتعليم. بالإضافة إلى ذلك، تسعى الدكتورة الصباح إلى الحفاظ على اللغة العربية ومشاركة ثراءها وتعقيدها مع الأجيال الشابة. حصلت على جائزة المرأة العربية لعام 2016 تقديرًا لدورها البارز في تعزيز مكانة المرأة العربية وخدمة الثقافة والفنون العربية."
+        },
+        "img": "url('../gallery/Images/Figures/scientific/سعاد الصباح_.png') center/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://en.wikipedia.org/wiki/Souad_Al-Sabah\nhttps://www.thosewhoinspire.com/meet-the-ip/dr-souad-m-al-sabah/\nhttps://www.kuna.net.kw/ArticleDetails.aspx?id=2579319"
     }
 ]

@@ -17,7 +17,8 @@
         },
         "footer": "If you believe there are missing or misleading information, please contact us here: mahmoud.salman@gba.edu.kw",
         "back": "Back",
-        "googlemaps": "Open in Google Maps"
+        "googlemaps": "Open in Google Maps",
+        "refrences": "Show Refrences"
     },
     "ar": {
         "heading": {
@@ -40,6 +41,7 @@
         "i3": "Scientific and cultural figures",
         "footer": "mahmoud.salman@gba.edu.kw إذا كانت هناك معلومات مفقودة أو مضللة، يرجى الاتصال بنا",
         "back": "خروج",
-        "googlemaps": "Google maps افتح في"
+        "googlemaps": "افتح في Google maps",
+        "refrences": "افتح المصادر"
     }
 }
