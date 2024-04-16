@@ -222,12 +222,6 @@
         "src": "Audio/كشخه.mp3"
     },
     {
-        "en": "Remove",
-        "ar": "اقلع",
-        "kw": "فصخ",
-        "src": "Audio/فصخ.mp3"
-    },
-    {
         "en": "Spoon",
         "ar": "ملعقة",
         "kw": "قفشة",
@@ -342,7 +336,7 @@
         "src": "Audio/ينحاش.mp3"
     },
     {
-        "en": "Don't listen",
+        "en": "Don't hear",
         "ar": "لا تسمع",
         "kw": "اصمخ",
         "src": "Audio/اصمخ.mp3"
@@ -726,12 +720,6 @@
         "src": "Audio/انحاش.mp3"
     },
     {
-        "en": "Kiss you",
-        "ar": "اقبلك",
-        "kw": "ابوسك",
-        "src": "Audio/ابوسك.mp3"
-    },
-    {
         "en": "Got scared",
         "ar": "خاف",
         "kw": "أخترع",
@@ -980,7 +968,7 @@
     {
         "en": "I will hit you",
         "ar": "اضربك",
-        "kw": "اقسل شراعك",
+        "kw": "اغسل شراعك",
         "src": "Audio/Phrases/Record (online-voice-recorder.com) (9).mp3"
     },
     {
@@ -1144,12 +1132,6 @@
         "ar": "لا تحمّل نفسك فوق طاقتها وعش حياتك على قدر رزقك",
         "kw": "مد رجولك على قد لحافك",
         "src": "Audio/Phrases/Record (online-voice-recorder.com) (36).mp3"
-    },
-    {
-        "en": "A man who leaves his wife to manage his household affairs and act as she pleases",
-        "ar": "الرجل الذي يترك زوجته تُدير شؤون منزله وتتصرف بما يحلو لها",
-        "kw": "الفرس من خيالها والمره من ريالها",
-        "src": "Audio/Phrases/Record (online-voice-recorder.com) (37).mp3"
     },
     {
         "en": "You will find your rest in your own home",
