@@ -2,11 +2,11 @@
   {
     "en": {
       "h1": "Al-Dawasir",
-      "p": "Approximate population: 14,000"
+      "p": "Approximate population: 14,371"
     },
     "ar": {
       "h1": "الدواسر",
-      "p": "العدد التقريبي: 14,000."
+      "p": "العدد التقريبي: 14,371."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -14,11 +14,11 @@
   {
     "en": {
       "h1": "Al-Rashaidah",
-      "p": "Approximate population: 90,000"
+      "p": "Approximate population: 90,155"
     },
     "ar": {
       "h1": "الرشايدة",
-      "p": "العدد التقريبي: 90,000."
+      "p": "العدد التقريبي: 90,155."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -26,11 +26,11 @@
   {
     "en": {
       "h1": "Al-Suhul",
-      "p": "Approximate population: 4,000"
+      "p": "Approximate population: 4,170"
     },
     "ar": {
       "h1": "السهول",
-      "p": "العدد التقريبي: 4,000."
+      "p": "العدد التقريبي: 4,170."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -38,23 +38,23 @@
   {
     "en": {
       "h1": "Al-Dhafir",
-      "p": "Approximate population: 43,000"
+      "p": "Approximate population: 36,602"
     },
     "ar": {
       "h1": "الظفير",
-      "p": "العدد التقريبي: 43,000."
+      "p": "العدد التقريبي: 36,602."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
   },
   {
     "en": {
-      "h1": "Al-Ajman",
-      "p": "Approximate population: 128,000"
+      "h1": "Al-Ajman/Weyam",
+      "p": "Approximate population: 128,691"
     },
     "ar": {
-      "h1": "العجمان",
-      "p": "العدد التقريبي: 128,000."
+      "h1": "العجمان/ويام",
+      "p": "العدد التقريبي: 128,691."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -62,11 +62,11 @@
   {
     "en": {
       "h1": "Al-Awazim",
-      "p": "Approximate population: 189,000"
+      "p": "Approximate population: 185,769"
     },
     "ar": {
       "h1": "العوازم",
-      "p": "العدد التقريبي: 189,000."
+      "p": "العدد التقريبي: 185,769."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -85,11 +85,11 @@
   },
   {
     "en": {
-      "h1": "Tamim",
+      "h1": "Bano Tamim",
       "p": "Approximate population: 229,000"
     },
     "ar": {
-      "h1": "تميم",
+      "h1": "بنو تميم",
       "p": "العدد التقريبي: 229,000."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
@@ -98,23 +98,23 @@
   {
     "en": {
       "h1": "Harb",
-      "p": "Approximate population: 7,000"
+      "p": "Approximate population: 7,590"
     },
     "ar": {
       "h1": "حرب", 
-      "p": "العدد التقريبي: 7,000."
+      "p": "العدد التقريبي: 7,590."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
   },
   {
     "en": {
-      "h1": "Khalid",
-      "p": "Approximate population: 36,000"
+      "h1": "Bani Khalid",
+      "p": "Approximate population: 8,044"
     },
     "ar": {
-      "h1": "خالد",
-      "p": "العدد التقريبي: 36,000."  
+      "h1": "بني خالد",
+      "p": "العدد التقريبي: 8,044."  
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -122,11 +122,11 @@
   {
     "en": {
       "h1": "Sibya",
-      "p": "Approximate population: 6,000"
+      "p": "Approximate population: 6,754"
     },
     "ar": {
       "h1": "سبيع",
-      "p": "العدد التقريبي: 6,000."
+      "p": "العدد التقريبي: 6,754."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -134,11 +134,11 @@
   {
     "en": {
       "h1": "Shammari",
-      "p": "Approximate population: 79,000"
+      "p": "Approximate population: 43,346"
     },
     "ar": {
       "h1": "شمّر",
-      "p": "العدد التقريبي: 79,000."
+      "p": "العدد التقريبي: 43,346."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover", 
     "googleMaps": "false"
@@ -146,11 +146,11 @@
   {
     "en": {
       "h1": "Utaibah",
-      "p": "Approximate population: 56,000"
+      "p": "Approximate population: 55,811"
     },
     "ar": {
       "h1": "عتيبة",
-      "p": "العدد التقريبي: 56,000."
+      "p": "العدد التقريبي: 55,811."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -158,11 +158,11 @@
   {
     "en": {
       "h1": "Adwan",
-      "p": "Approximate population: 8,000"
+      "p": "Approximate population: 8,840"
     },
     "ar": {
       "h1": "عدوان",
-      "p": "العدد التقريبي: 8,000."
+      "p": "العدد التقريبي: 8,840."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -170,23 +170,23 @@
   {
     "en": {
       "h1": "Anizah",
-      "p": "Approximate population: 20,500"  
+      "p": "Approximate population: 79,471"  
     },
     "ar": {
       "h1": "عنزة",
-      "p": "العدد التقريبي: 20,500."
+      "p": "العدد التقريبي: 79,471."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
   },
   {
     "en": {
-      "h1": "Ghanim",
-      "p": "Approximate population: 20,500"
+      "h1": "Bani Ghanim",
+      "p": "Approximate population: 20,579"
     },
     "ar": {
-      "h1": "غانم",
-      "p": "العدد التقريبي: 20,500." 
+      "h1": "بني غانم",
+      "p": "العدد التقريبي: 20,579." 
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -194,11 +194,11 @@
   {
     "en": {
       "h1": "Qahtan",
-      "p": "Approximate population: 229,000"
+      "p": "Approximate population: 31,808"
     },
     "ar": {
       "h1": "قحطان",
-      "p": "العدد التقريبي: 229,000."
+      "p": "العدد التقريبي: 31,808."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
@@ -206,11 +206,11 @@
   {
     "en": {
       "h1": "Mutayr",
-      "p": "Approximate population: 229,000"
+      "p": "Approximate population: 229,932"
     },
     "ar": {
       "h1": "مطير",
-      "p": "العدد التقريبي: 229,000."
+      "p": "العدد التقريبي: 229,932."
     },
     "img": "url('../gallery/Images/Tribes/none.jpg') center/cover",
     "googleMaps": "false"
