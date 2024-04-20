@@ -184,11 +184,11 @@
     {
         "en": {
             "h1": "Green Island",
-            "p": "Off the promenade in Kuwait City, there lies an artificial island known as Green Island. After opening in 1988, it started to draw tourists. In the Persian Gulf, it is the first man-made island. There are picnic spaces at this park beside the lake as well."
+            "p": "Off the promenade in Kuwait City, there lies an artificial island known as Green Island. After opening in 1988, it started to draw tourists. In the arabic Gulf, it is the first man-made island. There are picnic spaces at this park beside the lake as well."
         },
         "ar": {
             "h1": "الجزيرة الخضراء",
-            "p": "قبالة الممشى في مدينة الكويت، توجد جزيرة صناعية تُعرف باسم الجزيرة الخضراء. بعد افتتاحها في عام 1988، بدأت في جذب السياح. في الخليج الفارسي، هي أول جزيرة صناعية. هناك مساحات للنزهات في هذا الحديقة بجانب البحيرة أيضًا."
+            "p": "قبالة الممشى في مدينة الكويت، توجد جزيرة صناعية تُعرف باسم الجزيرة الخضراء. بعد افتتاحها في عام 1988، بدأت في جذب السياح. في الخليج العربي, هي أول جزيرة صناعية. هناك مساحات للنزهات في هذا الحديقة بجانب البحيرة أيضًا."
         },
         "img": "url('../gallery/Images/Recreational/GreenIsland.jpg') center/cover",
         "googleMaps": "true",
