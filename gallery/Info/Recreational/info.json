@@ -44,11 +44,11 @@
     {
         "en": {
             "h1": "Kuwait Towers",
-            "p": "Established in 1979, The Kuwait Towers are a renowned, go-to tourist destination that has many restaurants and is now regarded as one of the modern symbols of Kuwait. Located on the Arabian Gulf Street in Kuwait City, they are the last group of the larger Kuwait Water Towers system, which consists of 34 towers (one that stores equipment and the other 33 that store water). Their construction style has a very distinct style and shape from that of the previous five groups."
+            "p": "Kuwait Towers are divided into three main landmarks: the main tower, which symbolizes the incense burner, the digital tower, which symbolizes an incense sprayer tool , and the smaller tower, which symbolizes Al Kohl. These towers are among the most prominent tourist attractions in Kuwait."
         },
         "ar": {
             "h1": "أبراج الكويت",
-            "p": "أنشئت في عام 1979، أبراج الكويت هي وجهة سياحية مشهورة ومطلوبة تحتوي على العديد من المطاعم وتُعتبر الآن واحدة من الرموز الحديثة للكويت. تقع على شارع الخليج العربي في مدينة الكويت، وهي المجموعة الأخيرة من نظام أبراج مياه الكويت الأكبر، والذي يتكون من 34 برجًا (برج يخزن المعدات والباقي 33 يخزن الماء) يتميز نمط بنائها بشكل مميز ومختلف عن تلك الخمس مجموعات السابقة"
+            "p": "أبراج الكويت تنقسم إلى ثلاثة معالم رئيسية هي (البرج الرئيسي) ويرمز إلى (المبخر) والبرج الرقمي ويرمز إلى (المرش) والبرج الأصغر ويرمز إلى (المكحلة). وتعد هذه الابراج من ابرز المعالم السياحية في الكويت."
         },
         "img": "url('../gallery/Images/Recreational/kuwaittowers.jpg') center/cover",
         "googleMaps": "true",
@@ -141,11 +141,11 @@
     },
     {
         "en": {
-            "h1": "Blajat",
+            "h1": "Al-Blajat",
             "p": "TEC has been active with new projects lately and they just announced their amazing beach activity and hangout, Blajat. The Blajat project is located in Salmiya and runs the distance from the Bida’a roundabout down to Showbiz. It’s being launched in phases and the first phase has now just been completed. It is an amazing experience for those who like to sit by the beach, and for the kids, don't worry, there are obstacle courses on the water! Blajat is your ultimate beachside haven! Come and make a splash!"
         },
         "ar": {
-            "h1": "بلاجات",
+            "h1": "البلاجات",
             "p": "شركة المشاريع السياحية كانت نشطة مؤخرًا في المشاريع الجديدة وأعلنوا للتو نشاطهم الشاطئي المذهل ومكان الجلوس، بلاجات. يقع مشروع بلاجات في السالمية ويمتد على مسافة من دوار البدع إلى شوبيز. تم إطلاقه بمراحل وتم الانتهاء من المرحلة الأولى الآن. إنها تجربة رائعة لأولئك الذين يحبون الجلوس على الشاطئ، وبالنسبة للأطفال، لا داعي للقلق، هناك دورات عقبة على الماء! بلاجات هي ملاذك النهائي على الشاطئ! تعال وانطلق!"
         },
         "img": "url('../gallery/Images/Recreational/Blajat.jpg') center/cover",
