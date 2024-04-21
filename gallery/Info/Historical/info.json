@@ -16,11 +16,11 @@
     {
         "en": {
             "h1": "Kuwait Towers",
-            "p": "These iconic towers are a symbol of Kuwait's economic resurgence and a must-visit for their panoramic views of the city."
+            "p": "The Kuwait Towers are undeniably among the most iconic landmarks in Kuwait, each symbolizing a unique aspect of the country's rich cultural heritage. The main tower represents the incense burner, the digital tower embodies the incense sprayer tool, and the smaller tower stands tall as a symbol of Al Kohl. It's no wonder that these majestic towers are a must-visit destination for tourists and locals alike."
         },
         "ar": {
             "h1": "أبراج الكويت",
-            "p": "تعتبر هذه الأبراج البارزة رمزًا لانتعاش الاقتصاد الكويتي ووجهة ضرورية لاحتوائها على مناظر بانورامية للمدينة."
+            "p": "تعد أبراج الكويت بلا شك من بين المعالم الأكثر شهرة في الكويت، حيث يرمز كل منها إلى جانب فريد من التراث الثقافي الغني للبلاد. البرج الرئيسي يمثل المبخرة، والبرج الرقمي يجسد المرش، والبرج الأصغر يقف شامخاً رمزاً للكحل. فلا عجب أن تكون هذه الأبراج المهيبة وجهة يجب زيارتها للسياح والسكان المحليين على حد سواء."
         },
         "img": "url('../gallery/Images/Recreational/kuwaittowers.jpg') center/cover",
         "googleMaps": "true",
@@ -89,27 +89,13 @@
             "p": "An artistic house entirely covered with mirror mosaics, created by artist Lidia Al-Qattan."
         },
         "ar": {
-            "h1": "بيت المرآة",
-            "p": "بيت فني مغطى بالكامل بفسيفساء المرايا، صُنع من قبل الفنانة ليديا القطان."
+            "h1": "بيت المراية",
+            "p": "بيت فني مغطى بالكامل بفسيفساء المراية. صُنع من قبل الفنانة ليديا القطان."
         },
         "img": "url('../gallery/Images/Historical/6.png') center/cover",
         "googleMaps": "true",
         "latitude": "29.3479094964291",
         "longitude": "48.009309194784116"
-    },
-    {
-        "en": {
-            "h1": "Al Shaheed Park",
-            "p": "The largest urban park in Kuwait, combining green landscapes with cultural and historical elements."
-        },
-        "ar": {
-            "h1": "حديقة الشهيد",
-            "p": "أكبر حديقة حضرية في الكويت، تجمع بين المناظر الخضراء والعناصر الثقافية والتاريخية."
-        },
-        "img": "url('../gallery/Images/Historical/7.png') center/cover",
-        "googleMaps": "true",
-        "latitude": "29.369331982034353",
-        "longitude": "47.99375382691371"
     },
     {
         "en": {
@@ -128,7 +114,7 @@
     {
         "en": {
             "h1": "Liberation Tower",
-            "p": "In Kuwait City, the Liberation Tower is a 1,220-foot (1,722-meter) tall telecommunications tower. It is the 39th-highest skyscraper in the world and the second-tallest building in the nation. Tourists are not permitted to approach the tower openly."
+            "p": "Located in Kuwait City, the Liberation Tower stands tall at a height of 1,220 feet (1,722 meters) and is primarily used for telecommunications purposes. It is the 39th-highest skyscraper in the world and the second-tallest building in the nation. It is strictly forbidden for tourists to openly approach the tower."
         },
         "ar": {
             "h1": "برج التحرير",
@@ -138,20 +124,6 @@
         "googleMaps": "true",
         "latitude": "29.368187385924113",
         "longitude": "47.974936353094456"
-    },
-    {
-        "en": {
-            "h1": "Jaber Al-Ahmad International Stadium",
-            "p": "Constructed in 2009, its primary uses are for sporting events and football games. The stadium can hold 60,000 people in seats; it is a four-story structure with 54 corporate boxes and 6,001 parking spaces."
-        },
-        "ar": {
-            "h1": "استاد جابر الأحمد الدولي",
-            "p": "تم بناؤه في عام 2009، ويستخدم بشكل أساسي للأحداث الرياضية والمباريات الكروية. يمكن للملعب استيعاب 60،000 شخص في المقاعد؛ إنها هيكل من أربع طوابق مع 54 و6،001 موقف للسيارات."
-        },
-        "img": "url('../gallery/Images/Historical/stadium.jpg') center/cover",
-        "googleMaps": "true",
-        "latitude": "29.271377454777095",
-        "longitude": "47.918706760552325"
     },
     {
         "en": {
