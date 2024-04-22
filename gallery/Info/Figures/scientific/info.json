@@ -152,5 +152,33 @@
         "googleMaps": "false",
         "refrence": "true",
         "refrences": "https://en.wikipedia.org/wiki/Souad_Al-Sabah\nhttps://www.thosewhoinspire.com/meet-the-ip/dr-souad-m-al-sabah/\nhttps://www.kuna.net.kw/ArticleDetails.aspx?id=2579319"
+    },
+    {
+        "en": {
+            "h1": "Fahad Al-Duhani",
+            "p": "Olympic shooter Fahd Al-Daihani was crowned champion in clay shooting in the Grand Prix Shooting Championship, which was held in the city of Todi, Italy, by achieving first place and the championship cup. 144 shooters representing 35 countries participated in the tournament."
+        },
+        "ar": {
+            "h1": "فهد الديحاني",
+            "p": "توج الرامي الاولمبي فهد الديحاني بطلا في رماية التراب ببطولة الجائزة الكبرى للرماية التي أقيمت في مدينة (تودي - بإيطاليا) بتحقيق المركز الأول وكأس البطولة . وشارك في البطولة 144 رامياً يمثلون 35 دولة"
+        },
+        "img": "url('../gallery/Images/Figures/scientific/فهد الديحاني.jpg') center/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://www.alraimedia.com/article/405281/"
+    },
+    {
+        "en": {
+            "h1": "Abdulrahman Al-taree",
+            "p": "Veteran shooter Abdullah Al-Taraqi won the first gold medal for Kuwait in the individual skeet competition held in the Chinese city of Hangzhou. Al-Tarqi topped the Arab crowns on the fifth day of the tournament, not only because he won the gold, but because he achieved this with a record achievement after hitting 60 out of 60 dishes."
+        },
+        "ar": {
+            "h1": "عبدالله الطرقي",
+            "p": "توّج الرامي المخضرم عبدالله الطرقي  بالميدالية الذهبية الأولى للكويت ضمن منافسات فردي الـ «سكيت» التي تقام في مدينة هانغزو الصينية. وتصدر الطرقي المتوّجين العرب في اليوم الخامس من الدورة، ليس فقط لنيله الذهبية وحسب، بل لأنه حقّق ذلك بإنجاز قياسي بعدما أصاب 60 طبقاً من أصل 60"
+        },
+        "img": "url('../gallery/Images/Figures/scientific/عبدالله الطرقي.jpg') center/cover",
+        "googleMaps": "false",
+        "refrence": "true",
+        "refrences": "https://www.alraimedia.com/article/1658636/"
     }
 ]

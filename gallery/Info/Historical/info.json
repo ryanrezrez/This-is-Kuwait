@@ -152,5 +152,33 @@
         "googleMaps": "true",
         "latitude": "29.445523777429578",
         "longitude": "48.288602991987794"
+    },
+    {
+        "en": {
+            "h1": "Al Shaab Gate",
+            "p": "Back when Kuwait's main industry was pearl diving, this old city gate (around a century old) allowed traders in and out of the city's walls. While the wall is no longer here, this restored clay doorway is a reminder of Kuwait's former life and is worth a photo if passing by. It's located at the southern end of Al Shaheed Park."
+        },
+        "ar": {
+            "h1": "بوابة الشعب",
+            "p": "عندما كانت الصناعة الرئيسية في الكويت هي الغوص على اللؤلؤ، كانت بوابة المدينة القديمة هذه (التي يعود تاريخها إلى حوالي قرن من الزمان) تسمح للتجار بالدخول والخروج من أسوار المدينة. على الرغم من أن الجدار لم يعد هنا، إلا أن هذا المدخل الطيني الذي تم ترميمه يعد بمثابة تذكير بالحياة السابقة للكويت ويستحق التقاط صورة له إذا مر به. يقع في الطرف الجنوبي من حديقة الشهيد."
+        },
+        "img": "url('../gallery/Images/Historical/shaab.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.445523777429578",
+        "longitude": "48.288602991987794"
+    },
+    {
+        "en": {
+            "h1": "Naif Palace",
+            "p": "Naif Palace was established in 1919. It was built on the Old City Wall, which once followed the present course of Soor Street, close to Al Shamiya Gate to defend the city from attack. During Maghrib time during Ramadan, visitors can watch a cannon being fired, a tradition that dates back to the 1950s.  Al Naif Place is located at the heart of Kuwait City. The Palace consists of 214 rooms that were used for storing weapons and artillery while other rooms were used to host guards and soldiers."
+        },
+        "ar": {
+            "h1": "قصر نايف",
+            "p": "تأسس قصر نايف عام 1919. وقد تم بناؤه على سور المدينة القديمة، الذي كان يتبع المسار الحالي لشارع السور، بالقرب من بوابة الشامية للدفاع عن المدينة من الهجوم. خلال وقت المغرب خلال شهر رمضان، يمكن للزوار مشاهدة إطلاق المدفع، وهو تقليد يعود تاريخه إلى الخمسينيات. يقع قصر النايف في قلب مدينة الكويت، ويتكون القصر من 214 غرفة كانت تستخدم لتخزين الأسلحة والمدفعية بينما كانت الغرف الأخرى تستخدم لاستضافة الحراس والجنود."
+        },
+        "img": "url('../gallery/Images/Historical/naif palace.jpg') center/cover",
+        "googleMaps": "true",
+        "latitude": "29.445523777429578",
+        "longitude": "48.288602991987794"
     }
 ]
