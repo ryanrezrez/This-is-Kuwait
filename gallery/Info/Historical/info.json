@@ -164,8 +164,8 @@
         },
         "img": "url('../gallery/Images/Historical/shaab.jpg') center/cover",
         "googleMaps": "true",
-        "latitude": "29.445523777429578",
-        "longitude": "48.288602991987794"
+        "latitude": "29.36608472240739",
+        "longitude": "47.99037532802626"
     },
     {
         "en": {
@@ -178,7 +178,7 @@
         },
         "img": "url('../gallery/Images/Historical/naif palace.jpg') center/cover",
         "googleMaps": "true",
-        "latitude": "29.445523777429578",
-        "longitude": "48.288602991987794"
+        "latitude": "29.36534207458282",
+        "longitude": "47.973739696164785"
     }
 ]
