@@ -1,0 +1,67 @@
+[
+    {
+        "en": {
+            "h1": "Balaleet",
+            "p": "A famous dish in Gulf countries in general and commonly prepared during holidays, Balaleet consists of boiled vermicelli to which sugar is added, then cooked with butter or ghee along with cardamom and saffron. It's often served with fried eggs and sometimes honey."
+        },
+        "ar": {
+            "h1": "بلاليط",
+            "p": "وجبة مشهورة في بلدان الخليج عموماً وتَحضُر بكثرة في أيام الأعياد. تتكون من الشعيرية المسلوقة التي يُضاف لها السكر ثم تُطبخ بالزبدة أو السمنة مع الهيل والزعفران ويُقدّم معها البيض المقلي والعسل أحياناً."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/بلاليط.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Darabeel bil Daraseen",
+            "p": "The name came about due to its resemblance to \"Darbeel,\" which means binoculars in Kuwaiti dialect. It consists of sugar, cardamom, and cinnamon layered between thin sheets of folded dough. Darabeel is usually served with tea."
+        },
+        "ar": {
+            "h1": "الدرابيل بالدارسين",
+            "p": "سُمّيت بالدرابيل نظراً لشبهها بالدربيل وهو المنظار في اللهجة الكويتية. تتكون من رقائق رفيعة مطوية وتحتوي بين طبقاتها على السكر والهيل والدراسين (القرفة)، تُقدّم الدرابيل عادةً مع الشاي."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/الدرابيل_.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Mehalabiya",
+            "p": "A beloved dessert in Kuwait composed of milk, sugar, and cornstarch and flavored with orange blossom or rosewater. It's topped with almonds or pistachios and served cold."
+        },
+        "ar": {
+            "h1": "ملبيه",
+            "p": "حلوى محبوبة في الكويت مكونة من الحليب والسكر ونشاء الذرة ومُعطرة بماء زهر البرتقال أو ماء ورد. يُزين عادة باللوز أو الفستق ويُقدم باردًا."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/محلبيه.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Gors Ogaily",
+            "p": "Gors Ogaily is an easily prepared cake made from flour, eggs, cardamom, saffron, and sometimes, dates."
+        },
+        "ar": {
+            "h1": "قرص عقيلي",
+            "p": "قرص عقيلي عبارة عن كعكة مكونة من طحين وبيض وهيل وزعفران. سهل التحضير ولذيذ جداً. يمكن حشوه بالتمر المفيد لجسم الإنسان."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/قرص العقيلي.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Zalabiya",
+            "p": "Zalabiya is a dessert often served on special occasions in Kuwait and it is made from flour, starch, yeast, and salt."
+        },
+        "ar": {
+            "h1": "زلابية",
+            "p": "زلابية عبارة عن طحين نشا وخميرة وملح . من الحلويات التي تقدّم في المناسبات المهمّة في الكويت."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/زلابيه_.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    }
+]

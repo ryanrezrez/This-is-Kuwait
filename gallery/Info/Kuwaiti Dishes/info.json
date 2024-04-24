@@ -1,0 +1,223 @@
+[
+    {
+        "en": {
+            "h1": "Al-Tashreeba",
+            "p": "Kuwait is famous for its preparation of \"Al-Tashreeba,\" which is prepared in several different ways and has several types. It can be prepared using meat, chicken, or beans. There is also the \"Loomi\" Tashreeba, which is widespread in Gulf countries and heavily relies on the use of Loomi spice with meat."
+        },
+        "ar": {
+            "h1": "التشريبة",
+            "p": "تشتهر دولة الكويت بعمل التشريبة، ويتم إعداد التشريبة بطرق عدة مختلفة. ولها عدة أنواع فهناك تشريبة اللحم، وهناك تشريبة الدجاج، وهناك أيضاً تشريبة البقوليات. وهناك تشريبة اللومى التي تنتشر كثيراً في دول الخليج وتعتمد على استخدام بهار اللومى بكثرة مع اللحم."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/التشريبه.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Al-Majboos",
+            "p": "\"Majboos\" means rice, but the letter \"kaf\" is replaced with the letter \"jeem\" according to the Kuwaiti dialect. It is an incredibly popular traditional dish loved by both young and old. Majboos can be served with meat or chicken. Boiling the rice in meat or chicken broth, and allowing the rice to absorb the broth's Gulf spices is what makes the dish legendary."
+        },
+        "ar": {
+            "h1": "المجبوس",
+            "p": "تعنى المكبوس بالأرز، لكن تم استبدال حرف الكاف بالجيم حسب اللهجة الكويتية وهي أكلة شعبية تقليدية جميلة محببة لدى الصغار والكبار. هناك أنواع من المجبوس مثل مجبوس الدجاج، مجبوس اللحم. يستعمل الأرز والمكسرات والبهارات الخليجية في عمل المجبوس، وتعتمد فكرة المجبوس على سلق الأرز في مرق اللحم أو الدجاج والتشرب من بهارات المرق."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/المجبوس.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Al-Mirqoog",
+            "p": "Al-Mirqooga is a Kuwaiti dish whose popularity has spread to many other countries, especially in the Gulf. It is considered a classic dish with very high nutritional value, rich in vitamins and minerals, and distinguished by its wonderful taste due to its many ingredients. Al-Mirqooga is made from dough, black lentils, and vegetables, and can have meat or chicken added to it."
+        },
+        "ar": {
+            "h1": "المرقوق",
+            "p": "المرقوق من الأكلات الكويتية التي انتشرت في عديد من الدول الأخرى، خصوصاً بدول الخليج فهي تعتبر أكلة كلاسيكية قديمة، لها قيمة غذائية عالية جداً، فهي غنية بالفيتامينات والمعادن، كما أنها تتميز بالمذاق الرائع نتيجة احتوائها على العديد من المكونات. والمرقوق يصنع من العجين والعدس الأسود والخضروات ويمكن إضافة اللحم أو الدجاج إليها."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/المرقوق.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Al-Mamosh",
+            "p": "Al-Mamosh is an old Kuwaiti dish, part of Kuwait's popular heritage. It is made from lentils, which is why it is beloved by many Kuwaitis. Al-Mamosh consists of yellow lentils called \"Mash\" (hence its name \"Al-Mamosh\") and rice, to which meat, chicken, or shrimp can be added."
+        },
+        "ar": {
+            "h1": "المموش",
+            "p": "المموش هو اكلة كويتية قديمة، من الموروث الشعبي لدولة الكويت. تتكون من العدس لذلك فهي محببة لدى الكثيرين من الكويتيين. واكلة المموش تتكون من العدس الأصفر المسمى “ماش”( فمن هنا جاءت تسميتها بالمموش) والأرز،يمكن إضافة اللحوم أو الدجاج أو الربيان إليها."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/المموش.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Maa'dis",
+            "p": "Maa'dis is a Kuwaiti dish consisting of cooked rice with yellow lentils."
+        },
+        "ar": {
+            "h1": "معدس",
+            "p": "المعدس من الأكلات الكويتية وهو عباره عن رز مطبوخ مع عدس أصفر."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/معدس.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Marabyan",
+            "p": "Marabyan consists of cooked rice with fresh or dried shrimp."
+        },
+        "ar": {
+            "h1": "مربين",
+            "p": "المربين عبارة عن رز مطبوخ مع الربيان الطازج أو يابس."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/المربين.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Mahrouq Sab'ah",
+            "p": "Mahrouq Sab'ah is bread cut into small pieces and cooked with tomato sauce, potatoes, and eggplant."
+        },
+        "ar": {
+            "h1": "محروق صبعه",
+            "p": "عبارة عن خبز مقطع صغير مطبوخ بصلصة الطماطم مع البطاطا والباذنجان."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/محروقة صبعه_.png') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Meedam",
+            "p": "Meedam is cooked rice with small shark fish."
+        },
+        "ar": {
+            "h1": "ميدم",
+            "p": "الميدم عبارة عن رز مطبوخ مع سمك قرش صغير."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/الميدم.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Mutabaq Zubaidi",
+            "p": "A very famous Kuwaiti dish, Mutabaq Zubaidi involves stuffing Zubaidi fish with onions, garlic, and plenty of spices by making incisions in the fish and stuffing them. It's then cooked with rice, butter, raisins, peppers, and saffron."
+        },
+        "ar": {
+            "h1": "مطّبق الزبيدي",
+            "p": "طبق كويتي مشهور جداً. يُحشى السمك الزبيدي بالبصل والثوم والكثير من البهارات عن طريق إحداث شقوق في السمكه وحشوها، ويُطهى مع الرز والزبدة والزبيب والفلفل والزعفران."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/مطبق الزبيدي.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Sabeeti Fish",
+            "p": "Sabeeti fish is seasoned with spices, oil, lemon, Indian dates, and regular dates. It's stuffed with onions, colored peppers, and shrimp after sautéing, then grilled in the oven and served with rice."
+        },
+        "ar": {
+            "h1": "سمكة الزبيدي",
+            "p": "تُتبّل سمكة السبيطي بالبهارات والزيت والليمون والتمر الهندي والتمر العادي، وتُحشى بالبصل والفلفل الملون والرّبيان بعد تحميصها، ثم تُشوى بالفرن وتُقدم مع الرز."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/سمكة الزبيدي.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Kuwaiti Dolma (Baraq)",
+            "p": "Dolma is popular in Iraq and known in the Levant as \"warak al-'inab\" (grape leaves). In Kuwait, it's called Kuwaiti Dolma or Baraq. It consists of grape leaves and onions stuffed with rice, spices, Indian dates, and tomatoes."
+        },
+        "ar": {
+            "h1": "الدولمة الكويتية (براق)",
+            "p": "تنتشر الدولمة في العراق وتشتهر في بلاد الشام باسم ورق العنب، أمّا في الكويت فتدعى الدولمة الكويتية أو البراق، وهي عبارة عن ورق العنب والبصل المحشي بالرز والبهارات والتمر الهندي والطماطم."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/الدولمه الكويتيه(البراق).jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Beetroot Kubba",
+            "p": "Beetroot Kubba is known for its distinctive pink color. Its dough is made from bulgur, rice, and boiled or grilled beetroot. The filling consists of spiced minced meat with onions, which is stuffed into the dough, and then fried until crispy."
+        },
+        "ar": {
+            "h1": "كبّة الشمندر",
+            "p": "تشتهر كبّة الشمندر بلون وردي مميز، وتتك عجينتها من البرغل والرز والشمندر المسلوق أو المشوي. بينما تكون الحشوة لحم مُقلي مع البهارات والبصل حيث تُحشى العجينة بها ومن ثمّ تُقلى وتصبح جاهزة للتقديم. تُعدّ كبّة الشمندر من الأطباق الصحية الخفيفة."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/كبة الشمندر_.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Kuwaiti Nahki",
+            "p": "Nahki is a well-known dish in most Arab countries under various names like \"musabbaha\" and \"hummus,\" among others. It consists of chickpeas soaked in water and baking soda for several hours, then boiled and mixed with bell pepper, tahini, and various spices, the most famous of which is cumin. Nahki is served as a breakfast dish."
+        },
+        "ar": {
+            "h1": "النخّي الكويتي",
+            "p": "النخّي طبق معروف في أغلب البلدان العربية بأسماء مختلفة كالمسبّحة والحمص وغيرها، وهو عبارة عن حمص يُنقع بالماء وبيكربونات الصوديوم لعدّة ساعات ثم يُسلق ويُضاف له الفلفل والطحينية والبهارات المتنوعة وأشهرها الكمون، يُقدّم النخّي كوجبة فطور."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/النخي.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Harees",
+            "p": "Harees is a porridge-like dish of mashed wheat and cooked meat. It is often served sprinkled with sugar or cinnamon."
+        },
+        "ar": {
+            "h1": "الهريس",
+            "p": "القمح المهروس مع اللحم المطبوخ وغالباً ما يرش بالسكر أو القرفة."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/هريس.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Jireesh (Yireesh)",
+            "p": "Jireesh is a porridge-like dish made of cooked spelt (dinkel wheat) mixed with tomatoes, chicken or lamb, and aromatic spices."
+        },
+        "ar": {
+            "h1": "جريش (أو يريش)",
+            "p": "هو عبارة عن عصيدة مخلوطة بالطماطم والدجاج أو اللحم الضأن، ومع بعض التوابل."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/الجريش.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Beef Qoozi",
+            "p": "Beef Qoozi: Roasted lamb stuffed with rice, meat, eggs, and lots of spices."
+        },
+        "ar": {
+            "h1": "قوزي لحم",
+            "p": "لحم الخروف المحمص المحشي بالأرز واللحم والبيض ومكونات إضافية."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/قوزي لحم_.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    },
+    {
+        "en": {
+            "h1": "Mashkhool",
+            "p": "Mashkhool: A dish consisting of white rice with onion, seasoned with turmeric and black pepper at the bottom of the pot. Potatoes and eggplants are also occasionally added to the bottom of the pot as well."
+        },
+        "ar": {
+            "h1": "مشخول",
+            "p": "هو طبق يتكون من أرز أبيض مع حلقات البصل المتبلة بالكركم والفلفل الأسود في قاعدة القدر، وأحياناً يتم إضافة قطع البطاطا والباذنجان إلى قاعدة القدر أيضاً."
+        },
+        "img": "url('../gallery/Images/Kuwaiti Food/مشخول.jpg') center/cover",
+        "youtube": "true",
+        "link": ""
+    }
+]

@@ -110,6 +110,53 @@ $(document).ready(function() {
             hideRefrences();
         }, 500);
     });
+
+    $("#i3").on("click", function() {
+        loadInfo("../gallery/Info/Figures/scientific/info.json");
+        fadeOut(heading);
+        fadeOut(subheading);
+        fadeOut(influentialButtons);
+        setTimeout(() => {
+            scrollToTop();
+            fadeIn(heading, "block");
+            fadeIn(containerCollection, "flex");
+            page = "i3";
+            updateContentGallery();
+            hideRefrences();
+        }, 500);
+    });
+
+    $("#kuwaitiDishes").on("click", function() {
+        loadInfo("../gallery/Info/Kuwaiti Dishes/info.json");
+        fadeOut(heading);
+        fadeOut(subheading);
+        fadeOut(mainButtons);
+        setTimeout(() => {
+            scrollToTop();
+            fadeIn(heading, "block");
+            fadeIn(containerCollection, "flex");
+            page = "kuwaitiDishes";
+            updateContentGallery();
+            hideRefrences();
+        }, 500);
+    });
+
+    $("#kuwaitiDesserts").on("click", function() {
+        loadInfo("../gallery/Info/Kuwaiti Desserts/info.json");
+        fadeOut(heading);
+        fadeOut(subheading);
+        fadeOut(mainButtons);
+        setTimeout(() => {
+            scrollToTop();
+            fadeIn(heading, "block");
+            fadeIn(containerCollection, "flex");
+            page = "kuwaitiDesserts";
+            updateContentGallery();
+            hideRefrences();
+        }, 500);
+    });
+
+
 });
 
 let containers = {};
@@ -263,6 +310,8 @@ function updateContentGallery() {
     const tribes = document.getElementById("tribes");
     const footer = document.getElementById("footer");
     const refrenceButton = document.getElementById("refrenceButton");
+    const kuwaitiDishes = document.getElementById("kuwaitiDishes");
+    const kuwaitiDesserts = document.getElementById("kuwaitiDesserts");
 
     heading.textContent = galleryTranslations[currentLanguage].heading[page];
     subheading.textContent = galleryTranslations[currentLanguage].subheading[page];
@@ -272,6 +321,9 @@ function updateContentGallery() {
     i1.textContent = galleryTranslations[currentLanguage].heading["i1"];
     i2.textContent = galleryTranslations[currentLanguage].heading["i2"];
     i3.textContent = galleryTranslations[currentLanguage].heading["i3"];
+    kuwaitiDishes.textContent = galleryTranslations[currentLanguage].heading["kuwaitiDishes"];
+    kuwaitiDesserts.textContent = galleryTranslations[currentLanguage].heading["kuwaitiDesserts"];
+
     tribes.textContent = galleryTranslations[currentLanguage].heading["tribes"];
     footer.textContent = galleryTranslations[currentLanguage].footer;
     refrenceButton.textContent = galleryTranslations[currentLanguage].refrences;

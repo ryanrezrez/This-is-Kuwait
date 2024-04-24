@@ -4,12 +4,14 @@
             "gallery": "Gallery",
             "recreational": "Recreational Places",
             "historical": "Historical Places",
-            "culture": "Culture",
             "influential": "Influential figures",
             "tribes": "Tribes",
             "i1": "Amirs and Sheikhs of Kuwait",
             "i2": "National Assembly",
-            "i3": "Scientific and cultural figures"
+            "i3": "Scientific and cultural figures",
+            "kuwaitiDishes": "Kuwaiti Dishes",
+            "kuwaitiDesserts": "Kuwaiti Desserts"
+
         },
         "subheading": {
             "gallery": "Explore Kuwait's recreational places, historical places, influential figures, and tribes!",
@@ -25,7 +27,6 @@
             "gallery": "معرِض الصور",
             "recreational": "الأماكن الترفيهية",
             "historical": "الأماكن التاريخية",
-            "culture": "الثقافة",
             "influential": "الشخصيات المؤثرة",
             "tribes": "القبائل",
             "i1": "أمراء و شيوخ الكويت",

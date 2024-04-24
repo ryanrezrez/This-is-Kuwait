@@ -116,7 +116,7 @@ body {
 	} 
 }
 
-.funplaces::before {
+#recreationalPlaces::before {
 	content: "";
   	position: absolute;
   	top: 0;
@@ -128,7 +128,7 @@ body {
   	transition: transform 0.3s ease-in-out;
 }
 
-.historicalplaces::before {
+#historicalPlaces::before {
 	content: "";
   	position: absolute;
   	top: 0;
@@ -140,19 +140,7 @@ body {
   	transition: transform 0.3s ease-in-out;
 }
 
-.culture::before {
-	content: "";
-  	position: absolute;
-  	top: 0;
-  	left: 0;
-  	right: 0;
-  	bottom: 0;
-  	background: url('../*/Images/towerline2.jpeg') center/cover; /* Replace 'your-image.jpg' with your image URL */
-  	z-index: -1;
-  	transition: transform 0.3s ease-in-out;
-}
-
-.influentialfigures::before {
+#influentialFigures::before {
 	content: "";
   	position: absolute;
   	top: 0;
@@ -164,7 +152,7 @@ body {
   	transition: transform 0.3s ease-in-out;
 }
 
-.tribes::before {
+#tribes::before {
 	content: "";
 	position: absolute;
   	top: 0;
@@ -208,6 +196,30 @@ body {
   	right: 0;
   	bottom: 0;
   	background: url('../gallery/Images/Figures/scientific/صالح الاعجيري.jpg') center/cover; /* Replace 'your-image.jpg' with your image URL */
+  	z-index: -1;
+  	transition: transform 0.3s ease-in-out;
+}
+
+#kuwaitiDishes::before {
+	content: "";
+	position: absolute;
+  	top: 0;
+  	left: 0;
+  	right: 0;
+  	bottom: 0;
+  	background: url('../*/Images/kuwaitiDishes.jpg') center/cover; /* Replace 'your-image.jpg' with your image URL */
+  	z-index: -1;
+  	transition: transform 0.3s ease-in-out;
+}
+
+#kuwaitiDesserts::before {
+	content: "";
+	position: absolute;
+  	top: 0;
+  	left: 0;
+  	right: 0;
+  	bottom: 0;
+  	background: url('../*/Images/kuwaitiDesserts.jpg') center/cover; /* Replace 'your-image.jpg' with your image URL */
   	z-index: -1;
   	transition: transform 0.3s ease-in-out;
 }
