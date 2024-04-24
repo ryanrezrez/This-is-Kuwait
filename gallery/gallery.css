@@ -219,7 +219,7 @@ body {
   	left: 0;
   	right: 0;
   	bottom: 0;
-  	background: url('../*/Images/kuwaitiDesserts.jpg') center/cover; /* Replace 'your-image.jpg' with your image URL */
+  	background: url('../gallery/Images/Kuwaiti\ Food/بلاليط.jpg') center/cover; /* Replace 'your-image.jpg' with your image URL */
   	z-index: -1;
   	transition: transform 0.3s ease-in-out;
 }
