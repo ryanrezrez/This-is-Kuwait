@@ -27,6 +27,8 @@ function updateContent() {
             element.textContent = translations[currentLanguage].sponsors;
         } else if (classes.contains("switchLanguage")) {
             element.textContent = translations[currentLanguage].switchlang;
+        } else if (classes.contains("tournament")) {
+            element.textContent = translations[currentLanguage].tournament;
         }
     });
 
@@ -41,9 +43,6 @@ function updateContent() {
             desktopContainer.style.direction = "rtl";
         });
     }
-
-    const title = document.getElementById('title'); 
-    title.addEventListener('click', () => { window.location.href = '../index.html'; });
 }
 
 function switchMainLanguage(page) {
@@ -59,6 +58,10 @@ function switchMainLanguage(page) {
         switchLanguageAboutUs();
     } else if (page === "sponsors") {
         switchLanguageSponsors();
+    } else if (page === "games") {
+        switchLanguageGames();
+    } else if (page === "tournament") {
+        switchLanguageTournament();
     }
 }
 

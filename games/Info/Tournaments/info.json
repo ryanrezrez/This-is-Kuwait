@@ -1,0 +1,37 @@
+[
+    {
+        "en": {
+            "h1": "Global Bilingual Academy Tournament",
+            "p": ""
+        },
+        "ar": {
+            "h1": "بطولة قلوبل ثنائيه اللغة",
+            "p": ""
+        },
+        "img": "url('/games/Images/tournaments/gba.jpg') center/cover"
+    },
+    {
+        "en": {
+            "h1": "School-wide tournament",
+            "p": ""
+        },
+        "ar": {
+            "h1": "بطولة المدارس المحلية",
+            "p": ""
+        },
+        "img": "url('/games/Images/tournaments/default.png') center/cover"
+    }, 
+    {
+        "en": {
+            "h1": "Community Tournament",
+            "p": ""
+        },
+        "ar": {
+            "h1": "بطولة المجتمع الكويتي",
+            "p": ""
+        },
+        "participate": true,
+        "img": "url('/games/Images/tournaments/default.png') center/cover"
+
+    }
+]

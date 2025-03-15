@@ -8,3 +8,6 @@ mobileMenuBtn.addEventListener("click", () => {
         mobileContainer.style.display = "flex";
     }
 });
+
+const title = document.getElementById('title'); 
+title.addEventListener('click', () => { window.location.href = '/'; });

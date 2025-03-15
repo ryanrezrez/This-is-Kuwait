@@ -5,6 +5,7 @@
         "gallery": "Gallery",
         "aboutus": "About us",
         "sponsors": "Sponsors",
+        "tournament": "Participate in KOUT Tournament",
         "switchlang": "عربي"
     },
     "ar": {
@@ -13,6 +14,7 @@
         "gallery": "معرِض الصور",
         "aboutus": "من نحن",
         "sponsors": "الرعاة الرسميون",
+        "tournament": "شارك في بطولة كوت",
         "switchlang": "English"
     }
 }

@@ -3,12 +3,12 @@
         "heading1": "HOME",
         "button1": "DISCOVER THE BEAUTY OF KUWAIT",
         "button2": "LEARN KUWAITI ACCENT",
-        "or": "or"
+        "button3": "CULTURAL GAMES"
     },
     "ar": {
         "heading1": "الرئيسية",
         "button1": "اكتشف جمال الكويت",
         "button2": "تعلم لهجة الكويتية",
-        "or": "أو"
+        "button3": "الألعاب التراثية"
     }
 }

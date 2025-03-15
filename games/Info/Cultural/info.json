@@ -1,0 +1,52 @@
+[
+    {
+        "en": {
+            "h1": "Carrom (Kairom)",
+            "p": "Carrom (Kairom) is a well-known game in the Middle East and India. 2-4 players usually play it. There is a striker who hits the pucks. The game consists of 6 white, 6 black pucks, and one red puck known as the queen. A player hits their chosen color into one of four holes in the corner. You flick your finger to hit the striker, the goal is to get every puck in one of the holes first. Each player sits on their side of the board and can only strike from their side. Like most modern games carrom’s invention is not precisely known. It is thought to have been invented in India in the 18th century. It is unknown when it was introduced to the Middle East."
+        },
+        "ar": {
+            "h1": "كيرم",
+            "p": "كيرم هي لعبة معروفة في الشرق الأوسط والهند وتلعب كيرم من خلال شخصين أو أربعة أفراد, ويوجد في لعبة الكيرم الملك الذي يقوم بضرب الأقراص وتنقسم الأقراص إلى ثلاثة أقسام، وستة أقراص بيضاء، وستة أقراص سوداء، وقرص واحد أحمر يعرف بالملكة. يجب على اللاعب أن يدخل الأقراص التي يختار لونها في واحدٍ من الثقوب الأربعة الموجودة في الزوايا. استخدم إصبعك لضرب القرص, يجلس كل لاعب بجهة مختلفة ويقوم باللعب من جهته."
+        },
+        "img": "url('/games/Images/cultural/carrom.jpg') center/cover"
+    },
+    {
+        "en": {
+            "h1": "Kout Bo 4",
+            "p": "Kout Bo 4 is a four-player card game in which two teams use a modified deck sorted from highest to lowest: Color Joker (Jaker), Black and White Joker (Maker), Ace, King, Queen, Jack, 10, 9, 8, 7, 6 of spades, 6 of hearts. The Ace of the trump suit is always the second-highest card after the Color Joker (Jaker). Each player is dealt nine cards, and bids range from five (Bab) to nine (Bawan), with the dealer required to bid five (\"Malzom\") if all pass."
+        },
+        "ar": {
+            "h1": "كوت بو ٤",
+            "p": "كوت بو (٤) وهي عبارة عن لعبة ورق تتكون من أربعة لاعبين يتم تقسيمهم إلى فريقين، حيث يتم استخدام مجموعة أوراق معدلة مرتبة من الأعلى إلى الأدنى: الجوكر الملون(الجيكر)، الجوكر الأسود والأبيض(الميكر)، إكه، باش(شايب)، ميمه (البنت) القلام(ولد)، ٦,٧,٨,٩,١٠ مع اعتبار ورقة الاكه من \"الترامب\" ثاني أعلى ورقة بعد الجيكر. يتم توزيع تسع أوراق لكل لاعب، وتتراوح المزايدات من خمسة وتعني (باب) إلى تسعة وتعني (باون)، مع إلزام الموزع بالمزايدة بخمسة (\"ملزوم\") إذا لم يزايد أي لاعب."
+        },
+        "reference": true,
+        "references": "https://www.catsatcards.com/",
+        "img": "url('/games/Images/tournaments/default.png') center/cover"
+    },
+    {
+        "en": {
+            "h1": "Kout Bo 6",
+            "p": "Kout Bo 6 is a six-player card game in which two teams use a modified deck sorted from highest to lowest: Color Joker (Jaker), Black and White Joker (Maker), Ace, King, Queen, Jack, 10, 9, 8, 7, 6, 5, 4, 3, 2 with the Ace of the trump suit always being the second-highest card after the Color Joker (Jaker). Each player is dealt nine cards, and bids range from five (Bab) to nine (Bawan), with the dealer required to bid five (\"Malzom\") if all pass."
+        },
+        "ar": {
+            "h1": "كوت بو ٦",
+            "p": "كوت بو (٦) وهي عبارة عن لعبة ورق تتكون من ستة لاعبين يتم تقسيمهم إلى فريقين، حيث يتم استخدام مجموعة أوراق معدلة مرتبة من الأعلى إلى الأدنى: الجوكر الملون(الجيكر)، الجوكر الأسود والأبيض(الميكر)، اكه، باش(شايب)، ميمه(البنت) القلام(ولد)، ٢,٣,٤,٥,٦,٧,٨,٩,١٠ مع اعتبار ورقة الاكه من \"الترامب\" ثاني أعلى ورقة بعد الجيكر. يتم توزيع تسع أوراق لكل لاعب، وتتراوح المزايدات من خمسة وتعني (باب) إلى تسعة وتعني (باون)، مع إلزام الموزع بالمزايدة بخمسة (\"ملزوم\") إذا لم يزايد أي لاعب."
+        },
+        "reference": true,
+        "references": "https://www.catsatcards.com/",
+        "img": "url('/games/Images/tournaments/default.png') center/cover"
+    },
+    {
+        "en": {
+            "h1": "Dama",
+            "p": "Each player in the game of Dama has 16 stones of a different color, and the board includes 64 squares. Each player pushes their stone one square ahead after choosing one of eight starting movements, taking turns. The stone that reaches the last row, known as the Sheikh, can travel in any direction and over an infinite distance, but other stones can only move in the forward or side direction. Eating is required, and the player must consume all of the stones. To become a sheikh, you must either get at least one stone to the last row or trap your opponent by taking as many stones as you can. The \"check\" is a warning that might be voluntary or necessary at times."
+        },
+        "ar": {
+            "h1": "داما",
+            "p": "يمتلك كل لاعب في لعبة داما (16) ستة عشر حجرًا بلون مختلف، وتضم اللوحة 64 مربعًا. يقوم كل لاعب بدفع حجره للأمام بمقدار مربع واحد بعد اختيار واحدة من حركات البداية الثمانية، بعد اختيارهم يقوم اللاعبون بالتناوب. الحجر الذي يصل إلى الصف الأخير، والمعروف بالشيخ، يمكنه التحرك في أي اتجاه وعلى مسافة لا نهائية، أما الحجارة الأخرى فلا يمكنها التحرك إلا في الاتجاه الأمامي أو الجانبي. الأكل مطلوب ويجب على اللاعب أن يستهلك كل الحجارة. لكي تصبح شيخًا، يجب عليك إما أن تصل بحجر واحد على الأقل إلى الصف الأخير أو أن تحاصر خصمك بأخذ أكبر عدد ممكن من الحجارة. \"الكش\" وهو عبارة عن تحذير قد يكون اختياريا أو ضروريًا في بعض الحالات."
+        },
+        "reference": true,
+        "references": "https://blog.jawaker.com/dama-rules/",
+        "img": "url('/games/Images/cultural/dama.jpg') center/cover"
+    }
+]

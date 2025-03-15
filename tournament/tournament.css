@@ -1,0 +1,140 @@
+@font-face {
+    font-family: quickSand;
+    src: url("../*/quicksand.ttf");
+}
+
+body {
+    font-family: 'quickSand', Arial, Helvetica, sans-serif;
+	background-color:#202124;
+    background-image:
+	linear-gradient(
+		hsl(226, 39%, 32%),
+		hsl(0, 0%, 0%)
+	);
+	padding: 0px;
+	margin: 0px;
+	width:100%;
+	height:auto;
+	display: flex;
+  	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+  	position: relative;
+}
+
+.heading {
+    width:90%;
+    display: flex;
+    justify-content: center;
+	align-items: center;
+	text-align: center;
+	flex-direction: column;
+	margin-top: 70px;
+	opacity: 0;
+	animation: fadeInAnimation 0.3s ease-in-out forwards;
+}
+
+@keyframes fadeInAnimation {
+	from {
+	  opacity: 0;
+	}
+	to {
+	  opacity: 1;
+	}
+}
+
+.heading h1 {
+	font-size: 40px;
+	position: relative;
+	margin-bottom: 25px;
+	color: white;
+}
+
+.heading h1::after {
+	content:"";
+	position: absolute;
+	width: 100%;
+	height: 4px;
+	display: block;
+	margin-top: 20px;
+	background-color: #fff;
+}
+
+.heading p {
+	font-size: 18px;
+	color: hsl(0, 0%, 80%);
+	position: relative;
+	margin-bottom: 25px;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 30px;
+    background: hsl(226, 62%, 14%); /* Dark background */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); /* Slightly darker shadow */
+    color: #E1E1E1; /* Light gray text */
+    line-height: 1.8;
+}
+
+.container h1 {
+    font-size: 32px;
+    color: #FFFFFF; /* White text for headings */
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.container h2 {
+    font-size: 24px;
+    color: #E0E0E0; /* Light gray for subheadings */
+    margin-top: 30px;
+    border-bottom: 2px solid #444444; /* Darker border for contrast */
+    padding-bottom: 8px;
+}
+
+.container p {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.container ul {
+    padding-left: 20px;
+}
+
+.container ul li {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.container a:hover {
+    text-decoration: underline;
+}
+
+#participate {
+    display: flex;
+    margin: 0 auto;
+    padding: 30px 70px;
+    background-color: white;
+    color: black;
+    font-size: 19px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 25px;
+    font-weight: 700;
+    transition: 0.3s ease;
+    cursor: pointer
+}
+
+#participate:hover {
+    background-color: #a7a7a7;
+}
+
+hr {
+	width: 50%;
+	margin-top: 50px;
+}
+
+p {
+	color: white;
+}

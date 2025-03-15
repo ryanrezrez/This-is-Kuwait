@@ -1,0 +1,31 @@
+{
+    "en": {
+        "heading": {
+            "games": "Cultural Games",
+            "tournaments": "Tournaments"
+        },
+        "subheading": {
+            "games": "Explore Kuwait's cultural games",
+            "tournaments": ""
+        },
+        "footer": "If there is additional information or if the information needs to be revised, please contact us at: mahmoud.salman@gba.edu.kw",
+        "references": "Show Refrences",
+        "participate": "Participate",
+        "back": "Back"
+    },
+    "ar": {
+        "heading": {
+            "games": "الألعاب التراثية",
+            "tournaments": "البطولات"
+        },
+        "subheading": {
+            "games": "تفقد الألعاب التراثية الكويتيه",
+            "tournaments": ""
+        },
+        "footer": "اذا كانت هناك معلومات اضافية او معلومات تحتاج تنقيح يرجى الاتصال بنا على mahmoud.salman@gba.edu.kw",
+        "back": "خروج",
+        "googlemaps": "افتح في Google maps",
+        "refrences": "افتح المصادر",
+        "participate": "سجل الآن"
+    }
+}

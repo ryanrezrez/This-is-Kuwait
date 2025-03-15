@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="device-width, initial-scale=1.0">
+        <title>Community Tournament | This is Kuwait</title>
+        <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+        <link rel="icon" type="image/png" href="/*/Images/icon.png">
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+        <link rel="stylesheet" href="/*/navStyle.css">
+        <link rel="stylesheet" href="tournament.css">
+    </head>
+    <body>
+        <div class="navbar">
+            <h2 id="title">This is Kuwait</h2>
+            <div class="desktop-container">
+              <a href="/" class="link home"></a>
+              <a href="/learnkuwaiti" class="link learnkuwaiti"></a>
+              <a href="/gallery" class="link gallery"></a>
+              <a href="/aboutus" class="link aboutus"></a>
+              <a href="/sponsors" class="link sponsors"></a>
+              <a href="/tournament" class="link tournament"></a>
+              <a onclick="switchMainLanguage('home')" class="link switchLanguage"></a>
+            </div>
+            <button id="mobile-menu-btn"><i class='bx bx-menu'></i></button>
+          </div>
+          <div class="mobile-container">
+            <a href="/" class="link home"></a>
+            <a href="/learnkuwaiti" class="link learnkuwaiti"></a>
+            <a href="/gallery" class="link gallery"></a>
+            <a href="/aboutus" class="link aboutus"></a>
+            <a href="/sponsors" class="link sponsors"></a>
+            <a href="/tournament" class="link tournament"></a>
+            <a onclick="switchMainLanguage('home')" class="link switchLanguage"></a>
+          </div>
+
+        <div class="heading">
+            <h1 id="heading"></h1>
+            <p id="subheading"></p>
+        </div>
+
+        <div class="container">
+            <button id="participate"></button>
+            <div class="info"></div>
+        </div>
+
+        <script src="/*/navbar.js"></script>
+
+        <script src="/*/translateNavbar.js"></script>
+        <script src="tournament.js"></script>
+    </body>
+</html>
